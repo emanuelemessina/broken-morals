@@ -1,2 +1,3 @@
 # broken-morals
- Moral deliberation copilot
+
+Moral deliberation copilot for companies

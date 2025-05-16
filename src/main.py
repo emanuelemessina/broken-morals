@@ -7,7 +7,7 @@ import pandas as pd
 # row in the csv
 row = 3
 
-df = pd.read_csv("selected_dilemmas.csv")
+df = pd.read_csv("data/selected_dilemmas.csv")
 dilemma = df.loc[row - 1, "Content"]
 
 print(f"DILEMMA {row}\n")

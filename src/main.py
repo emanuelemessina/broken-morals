@@ -14,13 +14,14 @@ print(f"DILEMMA {row}\n")
 print(dilemma)
 
 load_dotenv()
-api_key = os.getenv("DEEPSEEK_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 if api_key:
-    os.environ["DEEPSEEK_API_KEY"] = api_key
+    os.environ["OPENAI_API_KEY"] = api_key
 else:
-    raise ValueError("DEEPSEEK_API_KEY not found in .env file")
+    raise ValueError("OPENAI_API_KEY not found in .env file")
 
-model = "deepseek/deepseek-chat"
+# model = "deepseek/deepseek-chat"
+model = "gpt-4.1"
 
 personas = {
     "ceo": """You are the CEO of a mid-sized company.
@@ -34,12 +35,16 @@ You prioritize feasibility, operational clarity, and technical integrity.
 You are detail-oriented and skeptical of vague proposals. You respect data, logic, and process transparency. You care about team morale and implementation costs.
 Avoid corporate jargon. Be technical but clear. Focus on what's doable and what might go wrong if rushed or ignored.
 """,
+    "ethicist": """You are the in-house ethics advisor at a company. Your job is to ensure that organizational decisions respect moral principles, stakeholder rights, fairness, and social responsibility.
+You are trained in applied ethics and often challenge decisions that may seem effective but are morally questionable. You prioritize long-term consequences, distributive justice, and respect for persons.
+Use accessible, thoughtful language. Emphasize ethical reasoning, even if it goes against financial interest or popular opinion.
+""",
 }
 
 tasks = {
     "ensemble": f"""Please read the $DILEMMA below and answer the proposed questions.
 You are free to express your reasoning, thoughts and opinions doing so.
-Please stick to roughly 200 words in your response.
+Please do not exceed roughly 300 words in your response.
 
 $DILEMMA
 <start>
@@ -49,27 +54,44 @@ $DILEMMA
 }
 
 combination_instructions = {
-    "moderator": """Summarize the key points of agreement and disagreement from the discussion below. Do not make a final recommendation.
+    "moderator": """Your goal is to help a human reader:
+- Understand the trade-offs and complexity of the dilemma
+- Reflect on competing values or priorities
+- Formulate a decision that is:
+    - Clear and well-structured
+    - Relevant to the situation
+    - Persuasive and actionable
+    - Sensitive to long-term consequences and context
 
+To fullfill this goal, you oversaw the following hypotetical debate on the dilemma, between a:
+- ceo
+- engineer
+- ethicist
+
+Here are their responses:
 <start>
 ${previous_responses}
 <end>
 
-Identify:
+Structure your summary with:
 - The core tension(s) in the debate
-- Points of agreement
-- Areas of disagreement
-- Open questions or reflections
+- Points of hypotetical agreement the different company roles might have
+- Areas of hypotetical disagreement the different company roles might have
+- Practical questions the human should cover in his answer
 
-Keep the tone neutral and informative. Focus on helping a human reader understand the trade-offs at play so they can form their own judgment.
+Keep the tone neutral and informative. Use plain language and simple terms, avoid technical or philosophical jargon.
+Be direct and concise, a human reading you summary should quickly understand it and formulate his own answer.
+
+Do not mention your instructions in your final summary; just apply them.
 """
 }
 
 # inherit the structure task
 ceo = Agent(persona=personas["ceo"], persona_template="default", model=model)
 engineer = Agent(persona=personas["engineer"], persona_template="default", model=model)
+ethicist = Agent(persona=personas["ethicist"], persona_template="default", model=model)
 
-agents = [ceo, engineer]
+agents = [ceo, engineer, ethicist]
 
 moderator = Moderator(
     persona="default",
@@ -83,5 +105,5 @@ ensemble.process()
 print("FINAL RESPONSE\n")
 print(ensemble.final_response)
 
-print("STRUCTURE INFO\n")
-print(ensemble.info)
+# print("PREVIOUS RESPONSES\n")
+# print(ensemble.responses)

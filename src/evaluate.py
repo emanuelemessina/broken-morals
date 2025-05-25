@@ -4,7 +4,6 @@ import pandas as pd
 import openai
 import time
 import json
-from openpyxl import load_workbook
 
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")

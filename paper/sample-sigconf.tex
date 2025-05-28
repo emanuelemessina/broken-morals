@@ -274,15 +274,16 @@ The following section describes specifically the implementation we developed and
 \subsection{Implementation}
 
 For this pilot study we decided to implement a simple prototype of the proposed tool for the purpose of testing.
-We implemented the AI agents and their deliberation using the Plurals framework: a Python library that orchestrates 
-AI deliberation. Plurals consists of Agents (LLMs, optionally with
-personas) which deliberate within customizable Structures, with
-Moderators overseeing deliberation. Plurals is a generator of simu-
-lated social ensembles.
-We defined three AI agent personas to represent three specific roles inside a generic technology company: a Chief Executive Officer (CEO), an Ethicist and a generic Engineer.
-The moderator persona is 
+We implemented the AI agents and their deliberation using the Plurals [TODO CITE] framework: a Python library that orchestrates AI agents to allow pluralistic AI deliberations.
+Plurals eases the definition of agents, discussion topologies and moderators, and provides an abstraction layer over several LLM API backends.
+We used GPT-4.1 as the underlying LLM for each agent and the moderator.
+We defined three AI agent personas to represent three specific roles inside a generic technology company: a Chief Executive Officer (CEO), an Ethicist and a generic Engineer [APPENDIX LINK].
+We used the default moderator persona offered by Plurals: an expert impartial moderator overseeing a given task.
+In Plurals, both the agents and the moderator are aware of a common task which is generally the goal that should be achieved by the simulation.
+In our case, the task is to provide and answer to the given dilemma, expressing thoughts and opinions [APPENDIX LINK].
 
--the tool uses plurals to run the simulations
+Refer to the [APPENDIX] to see the exact prompts we used.
+
 -the moderator poses the dilemma
 -the topology is ensemble, everyone is at the same level, they respond independently to get each viewpoint without undermining anyone based on their hierarchy level
 for this study we chose 3 roles ceo ethicist engineer

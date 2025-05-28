@@ -198,98 +198,9 @@ Bib\TeX}}}
 
 \input{sections/methods.tex}
 
-\section{Evaluation}
+\input{sections/evaluation.tex}
 
-TODO EVALUATION
-
-The goal of our tool is to help company decision-makers make better decisions with respect to the status quo.
-To ascertain the effectiveness of our tool at meeting this goal, we conducted a user study with people in tech to verify that the answers in the treatment group scored better than control with respect to a rubric we created, for a set of dilemmas we selected.
-Additionally, we wanted to see if, overall, there was a time difference in the responding between the two groups, and if participants in the treatment group appreciated the tool summary as an aid when answering.
-
-To measure our metrics, we
-1) selected the dilemmas
-2) recruited people
-3) divided into control and treatment, with minutes and pay and task
-4) created a rubric
-5) scored the answers
-
-\subsection{Dilemma Selection}
-scu dataset, mfc classifier
-\subsection{Participants Recruitment}
-prolific, roles
-\subsection{Participant Groups and Tasks}
-control, treatment, form format, pay, time, task, questionnaires
-\subsection{Evaluation Rubric}
-To compare the quality of answers across the Control and Treatment groups, we needed a way to evaluate responses in a consistent and meaningful way. Since moral dilemmas invite complex, subjective reasoning, we could not rely on simple or automatic measures. Instead, we designed an evaluation rubric that breaks down each response into clear dimensions, allowing us to assess specific aspects of reasoning and communication.
-
-We began by reviewing previous research in areas such as argumentation, dialogue systems, ethical reasoning, and decision-making. Based on this review, we identified six dimensions that best reflect the qualities we wanted to measure. Each dimension is supported by existing literature and was selected to match the goals of our study.
-
-\begin{itemize}
-\item \textit{Clarity and Structure.} Does the response express its ideas clearly? Is the reasoning easy to follow and well-organized?\\
-\hspace*{0.5em}Based on McTear (2005), who highlights the importance of structure and readability in effective communication.
-
-\item \textit{Relevance.} Does the response stay focused on the moral dilemma? Are the points made directly connected to the question?\\
-\hspace*{0.5em}Informed by Habernal and Gurevych (2016), who show that content relevance strengthens argument quality.
-
-\item \textit{Persuasiveness.} Is the argument convincing? Does it use logic, appropriate tone, and structure to support its claims?\\
-\hspace*{0.5em}Draws from Johnson and Blair (2006), who emphasize the role of logical and well-structured reasoning in persuasion.
-
-\item \textit{Concern for Long-Term Consequences.} Does the response consider future or societal effects of the proposed action?\\
-\hspace*{0.5em}Inspired by the Impact Assessment Card (CSCW~'25), which promotes ethical foresight.
-
-\item \textit{Practical Usefulness.} Is the proposed solution realistic? Could it work in practice?\\
-\hspace*{0.5em}Based on Bazerman and Moore (2012), who stress the importance of actionable and realistic decision-making.
-
-\item \textit{Awareness of Context.} Does the response take into account the social, cultural, or situational context of the dilemma?\\
-\hspace*{0.5em}Also from the Impact Assessment Card (CSCW~'25), which encourages attention to contextual factors in ethical reasoning.
-\end{itemize}
-
-Each dimension was defined using a 5-point Likert scale, ranging from 1 (``very low'') to 5 (``very high''). The rubric itself provided the conceptual framework for evaluating responses, while the actual scoring procedure is described in the following section.
-
-\subsection{Scoring the Answers}
-Evaluating subjective responses is inherently challenging, especially when the goal is to compare two groups fairly. To ensure our ratings were both unbiased and reliable, we followed a structured scoring process based on the evaluation rubric described above.
-
-We began by generating three identical scoring files---one for each rater. Each file contained an \texttt{AnswerID} and the six rubric dimensions, but no information about whether the response came from the Control or Treatment group. This ensured that all evaluations were blind to condition.
-
-Each rater independently assigned scores using the 5-point Likert scale across all dimensions. Once all ratings were completed, we reattached the group labels to the responses and calculated inter-rater reliability using Fleiss' Kappa for each dimension. We computed agreement scores separately for Control, Treatment, and the full dataset. Our target was to achieve a Kappa score above 0.6 for all dimensions---commonly accepted as the threshold for substantial agreement.
-
-Initial scores fell short of this threshold in some cases. To address this, we held a calibration session where raters discussed discrepancies, reviewed selected responses, and refined their understanding of the rubric. After this reconciliation, we repeated the scoring where needed and achieved the following agreement levels:
-
-\begin{table}[H]
-\centering
-\caption{Fleiss' Kappa Scores by Dimension and Group}
-\resizebox{0.40\textwidth}{!}{%
-\begin{tabular}{lccc}
-\toprule
-\textbf{Dimension} & \textbf{Control} & \textbf{Treatment} & \textbf{Total} \\
-\midrule
-Clarity & 0.638 & 0.631 & 0.645 \\
-Relevance & 0.627 & 0.794 & 0.733 \\
-Persuasiveness & 0.696 & 0.625 & 0.681 \\
-Concern for Long--Term Consequences & 0.602 & 0.681 & 0.671 \\
-Practical Usefulness & 0.595 & 0.709 & 0.683 \\
-Awareness of Context & 0.592 & 0.672 & 0.667 \\
-\bottomrule
-\end{tabular}
-}
-\label{tab:kappa}
-\end{table}
-
-With these agreement levels in place, we computed the average score across raters for each dimension. This resulted in a final dataset with the following structure: \texttt{AnswerID}, \texttt{DilemmaID}, \texttt{Group}, followed by the six rubric scores. This dataset served as the foundation for the subsequent statistical analysis.
-
-\subsection{Results}
-
-discuss rater agreement differences if present
-discuss statistical tests and what they show, both rubric and questionnaires
-
-\section{Discussion}
-TODO DISCUSSION
-
-Here you discuss how your results are: (1) in-line with previous work; and (2) differ
-(expand) on previous work. Also, you can list the limitations of your work (link to future work)
-
-(a) Which results match previous findings in the literature?
-(b) Which results differ from previous findings, and why
+\input{sections/discussion}
 
 \input{sections/future_work}
 
@@ -464,7 +375,7 @@ so important, please see
 %% identification of the section in the article metadata, and the
 %% consistent spelling of the heading.
 \begin{acks}
-We thank Prof. Daniele Quercia and Dr. Edyta Bogucka at Nokia Bell Labs for their valuable guidance and support, and for providing the funding that made this research possible.
+  We thank Prof. Daniele Quercia and Dr. Edyta Bogucka at Nokia Bell Labs for their valuable guidance and support, and for providing the funding that made this research possible.
 \end{acks}
 
 %%

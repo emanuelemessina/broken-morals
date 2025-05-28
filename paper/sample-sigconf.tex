@@ -352,6 +352,7 @@ Initial scores fell short of this threshold in some cases. To address this, we h
 \begin{table}[H]
 \centering
 \caption{Fleiss' Kappa Scores by Dimension and Group}
+\resizebox{0.40\textwidth}{!}{%
 \begin{tabular}{lccc}
 \toprule
 \textbf{Dimension} & \textbf{Control} & \textbf{Treatment} & \textbf{Total} \\
@@ -359,17 +360,18 @@ Initial scores fell short of this threshold in some cases. To address this, we h
 Clarity & 0.669 & 0.617 & 0.645 \\
 Relevance & 0.746 & 0.701 & 0.733 \\
 Persuasiveness & 0.756 & 0.600 & 0.681 \\
-Concern for Long-Term Consequences & 0.735 & 0.599 & 0.671 \\
+Concern for Long--Term Consequences & 0.735 & 0.599 & 0.671 \\
 Practical Usefulness & 0.754 & 0.606 & 0.683 \\
 Awareness of Context & 0.715 & 0.612 & 0.667 \\
 \bottomrule
 \end{tabular}
+}
 \label{tab:kappa}
 \end{table}
 
 
-With these agreement levels in place, we computed the average score across raters for each dimension. This resulted in a final dataset with the following structure: \texttt{AnswerID}, \texttt{DilemmaID}, \texttt{Group}, followed by the six rubric scores. This dataset served as the foundation for the subsequent statistical analysis.
 
+With these agreement levels in place, we computed the average score across raters for each dimension. This resulted in a final dataset with the following structure: \texttt{AnswerID}, \texttt{DilemmaID}, \texttt{Group}, followed by the six rubric scores. This dataset served as the foundation for the subsequent statistical analysis.
 
 
 \subsection{Results}

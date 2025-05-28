@@ -277,20 +277,19 @@ For this pilot study we decided to implement a simple prototype of the proposed 
 We implemented the AI agents and their deliberation using the Plurals [TODO CITE] framework: a Python library that orchestrates AI agents to allow pluralistic AI deliberations.
 Plurals eases the definition of agents, discussion topologies and moderators, and provides an abstraction layer over several LLM API backends.
 We used GPT-4.1 as the underlying LLM for each agent and the moderator.
-We defined three AI agent personas to represent three specific roles inside a generic technology company: a Chief Executive Officer (CEO), an Ethicist and a generic Engineer [APPENDIX LINK].
+We defined three AI agent personas to represent three specific roles inside a generic technology company: a Chief Executive Officer (CEO), an Ethicist and a generic Engineer [APPENDIX REF].
 We used the default moderator persona offered by Plurals: an expert impartial moderator overseeing a given task.
-In Plurals, both the agents and the moderator are aware of a common task which is generally the goal that should be achieved by the simulation.
-In our case, the task is to provide and answer to the given dilemma, expressing thoughts and opinions [APPENDIX LINK].
-
-Refer to the [APPENDIX] to see the exact prompts we used.
-
--the moderator poses the dilemma
--the topology is ensemble, everyone is at the same level, they respond independently to get each viewpoint without undermining anyone based on their hierarchy level
-for this study we chose 3 roles ceo ethicist engineer
--the moderator generates a summary with agreement disagreement points between the agents justifications and a list of practical points/questions for the user to cover when answering the original dilemma
-this way the user is not biased towards an artificial opinion but instead is pushed towards considering the different perspectives thus to take more informed decisions.
-
-see appendix for the specific prompts
+In Plurals, agents can be given a common task which is generally the goal that should be achieved by the simulation.
+In our case, the task is to provide and answer to the given dilemma, expressing thoughts and opinions [APPENDIX REF].
+The moderator is aware of this task, and generally oversees it according to so-called combination instructions, that are executed when the other agents finished responding.
+Agents can deliberate according to several topologies offered by Plurals.
+For this prototype we decided to use the Ensemble topology, where each agent speaks independently and without interacting with the others.
+We chose this topology to simulate the inclusion of different roles's perspectives with the same priority, as opposed to what happens in top-down ethics reviews or information flow in a company's hierarchical reporting structure.
+With the goal of proving the positive effects of exposure to these different perspectives, we refrained from developing complicated deliberations and moderations which, we convened, would be best left to develop in a follow-up co-design study to ours.
+As such, we implemented a single round of discussion, that is: agents see the task, they respond, and the moderator executes the combination instructions.
+The combinations instructions [APPENDIX REF] of the moderator instruct it to generate the final summary to present to the user, as discussed in [PROPOSALS REF].
+Refer to the [APPENDIX REF] to see the exact prompts we used.
+Our final implementation is summarized in figure [FIGURE REF].
 
 \section{Evaluation}
 
@@ -399,6 +398,9 @@ Compare with single vanilla LLM
 Study to codesign the tool
 Understand which exact requirements a tools like ours should have to support real world decisions
 
+% TABLE GUIDELINES
+
+\begin{comment}
 
 \section{Tables}
 
@@ -465,6 +467,8 @@ Always use midrule to separate table header rows from data rows, and
 use it only for this purpose. This enables assistive technologies to
 recognise table headers and support their users in navigating tables
 more easily.
+
+\end{comment}
 
 \section{Math Equations}
 

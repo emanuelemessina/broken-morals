@@ -5,10 +5,10 @@ from plurals.agent import Agent
 import pandas as pd
 
 # row in the csv
-row = 3
+row = 2
 
 df = pd.read_csv("data/selected_dilemmas.csv")
-dilemma = df.loc[row - 1, "Content"]
+dilemma = df.loc[row - 2, "Content"]
 
 print(f"DILEMMA {row}\n")
 print(dilemma)

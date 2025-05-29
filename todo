@@ -1,11 +1,13 @@
 check:
 rai
 business
- related work
 
 paper
  check spelling, completeness, pyramid
  evalu
+ methods inflate
+ move impl to evalu
+
  appendix
  online Resources
 

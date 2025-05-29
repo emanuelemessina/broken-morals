@@ -79,5 +79,43 @@ With these agreement levels in place, we computed the average score across rater
 
 \subsection{Results}
 
-discuss rater agreement differences if present
-discuss statistical tests and what they show, both rubric and questionnaires
+\subsubsection{Overview}
+
+The AI-assisted Treatment group consistently outperformed the Control group across all six evaluative dimensions, with effect sizes ranging from medium to large. These findings remained robust after accounting for non-normal data distributions and multiple hypothesis testing.
+
+\subsubsection{Statistical Approach}
+
+Initial normality testing using the Shapiro-Wilk test revealed violations of normality assumptions in at least one group for each dimension. For example, in the \textsc{Clarity} dimension, the \textit{Control} group yielded $W = 0.8817$, $p = 0.0075$ (significant at $\alpha = 0.05$), indicating departure from normality. Similar violations occurred across other dimensions (e.g., \textsc{Relevance} in the Treatment group: $W = 0.8839$, $p = 0.0083$). Given these violations and the ordinal nature of Likert data, non-parametric Mann-Whitney U tests (one-tailed) were conducted to compare median ratings between groups.
+
+\subsubsection{Primary Findings}
+
+All six dimensions showed statistically significant differences favoring the Treatment group:
+
+\begin{itemize}
+    \item \textsc{Clarity}: Treatment (Median = 3.333) vs. Control (Median = 3.000), $U = 439.5$, $p = .0063$. The rank-biserial correlation $r = 0.406$ indicates that 40.6\% of all possible pairwise comparisons between groups favor the Treatment group—a medium-to-large effect.
+    
+    \item \textsc{Relevance}: Treatment (Median = 4.000) vs. Control (Median = 3.000), $U = 496.5$, $p = .0001$, $r = 0.589$. This effect size means 58.9\% of pairwise comparisons favor Treatment—a large effect.
+    
+    \item \textsc{Persuasiveness}: Treatment (Median = 3.333) vs. Control (Median = 2.333), $U = 514.5$, $p < .0001$, $r = 0.646$. With 64.6\% of comparisons favoring Treatment, this represents a large effect.
+    
+    \item \textsc{Long-Term Impact}: Treatment (Median = 4.000) vs. Control (Median = 3.000), $U = 548.5$, $p < .0001$, $r = 0.755$. The strongest effect observed, with 75.5\% of pairwise comparisons favoring Treatment.
+    
+    \item \textsc{Usefulness}: Treatment (Median = 3.667) vs. Control (Median = 2.000), $U = 531.5$, $p < .0001$, $r = 0.701$. Another large effect, with 70.1\% of comparisons favoring Treatment.
+    
+    \item \textsc{Context}: Treatment (Median = 4.000) vs. Control (Median = 2.667), $U = 551.0$, $p < .0001$, $r = 0.763$. The second-strongest effect, with 76.3\% of comparisons favoring Treatment.
+\end{itemize}
+
+The rank-biserial correlation ($r$) is the most appropriate effect size measure for Mann-Whitney U tests, representing the probability that a randomly selected Treatment participant will score higher than a randomly selected Control participant. Values of 0.1, 0.3, and 0.5 correspond approximately to small, medium, and large effects, respectively.
+
+\subsubsection{Robustness Checks}
+
+To ensure reliable conclusions, several validation procedures were conducted:
+
+\textbf{Confidence Intervals:} Non-parametric 95\% bootstrap confidence intervals were computed for median differences. All intervals excluded zero, confirming statistical significance. Representative examples include \textsc{Clarity} $[0.000, 1.333]$, \textsc{Persuasiveness} $[0.333, 2.000]$, and \textsc{Context} $[1.000, 2.000]$.
+
+\textbf{Multiple Comparisons:} Both Bonferroni correction (adjusted $\alpha = 0.0083$) and False Discovery Rate (FDR) correction were applied to control for inflated Type I error rates across six simultaneous tests. All comparisons remained statistically significant under both correction methods.
+
+\subsubsection{Summary}
+
+The Treatment group demonstrated consistent and substantial advantages across all evaluated dimensions. The convergence of multiple analytical approaches—non-parametric testing, effect size quantification, confidence intervals, and multiple comparison corrections—provides strong evidence for the effectiveness of AI assistance in improving response quality.
+

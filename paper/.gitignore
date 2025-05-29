@@ -8,6 +8,7 @@
 *.blg
 *.brf
 *.bst
+*.cut
 *.dvi
 *.fdb_latexmk
 *.fls
@@ -33,7 +34,7 @@
 *.pyg
 *.run.xml
 *.snm
-*.synctex.gz
+*.synctex*
 *.tex.backup
 *.tex~
 *.thm

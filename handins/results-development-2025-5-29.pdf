@@ -1,0 +1,12017 @@
+%PDF-1.3
+%∫ﬂ¨‡
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7503
+>>
+stream
+0.20 w
+0 G
+2.15 w
+45.000 801.890 m 
+550.000 801.890 l
+552.761 801.890 555.000 799.651 555.000 796.890 c
+555.000 44.890 l
+555.000 42.129 552.239 39.890 550.000 39.890 c
+45.000 39.890 l
+42.239 39.890 40.000 42.651 40.000 44.890 c
+40.000 796.890 l
+40.000 799.651 42.761 801.890 45.000 801.890 c
+S
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+60.00 779.89 Td
+(AI Design Report) Tj
+ET
+BT
+/F2 14 Tf
+16.10 TL
+0.000 g
+60.00 764.89 Td
+(Broken Morales) Tj
+ET
+4.00 w
+60.000 756.890 m 
+535.000 756.890 l
+S
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+60.00 737.89 Td
+(About) Tj
+ET
+BT
+/F2 10 Tf
+11.50 TL
+0.000 g
+60.00 721.89 Td
+(AI system) Tj
+ET
+BT
+/F2 10 Tf
+11.50 TL
+0.000 g
+60.00 709.89 Td
+(AI system phase) Tj
+ET
+BT
+/F2 10 Tf
+11.50 TL
+0.000 g
+60.00 697.89 Td
+(Most recent label update) Tj
+ET
+BT
+/F2 10 Tf
+11.50 TL
+0.000 g
+60.00 685.89 Td
+(Updated by) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+210.00 721.89 Td
+(Broken Morales) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+210.00 709.89 Td
+(Development) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+210.00 697.89 Td
+(2025-5-29) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+210.00 685.89 Td
+(Engineer or Researcher: rolferikappel@gmail.com) Tj
+ET
+2.00 w
+60.000 676.890 m 
+535.000 676.890 l
+S
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+60.00 659.89 Td
+(System description) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+60.00 645.89 Td
+(Tool based on AI agents that from a given dilemma prompts the user to reflect more widely and diversely) Tj
+T* (about their decision before reaching a final one.) Tj
+ET
+2.00 w
+60.000 601.890 m 
+535.000 601.890 l
+S
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+60.00 581.89 Td
+(Uses of the system) Tj
+ET
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+60.00 566.89 Td
+(Ethical decision support.) Tj
+T* (The primary use is to support executives in making more informed decisions on ethical matters by) Tj
+T* (prompting reflection.) Tj
+T* () Tj
+T* (Internal alignment.) Tj
+T* (A secondary use explored during development was to foster and optimise internal alignment, e.g. through) Tj
+T* (priming of participants before meetings or as support in preparing meaningful agendas.) Tj
+ET
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+60.00 443.89 Td
+(Responsible AI blind spots) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+60.00 433.89 Td
+(Unnoticed biases and potential blind spots) Tj
+ET
+4.00 w
+60.000 465.890 m 
+535.000 465.890 l
+S
+BT
+/F2 18 Tf
+20.70 TL
+0.831 0.008 0.420 rg
+60.00 408.89 Td
+(50%) Tj
+ET
+0.83 0.01 0.42 rg
+62.000 402.890 m 
+318.000 402.890 l
+319.105 402.890 320.000 401.995 320.000 400.890 c
+320.000 392.890 l
+320.000 391.785 318.895 390.890 318.000 390.890 c
+62.000 390.890 l
+60.895 390.890 60.000 391.995 60.000 392.890 c
+60.000 400.890 l
+60.000 401.995 61.105 402.890 62.000 402.890 c
+f
+BT
+/F1 7 Tf
+8.05 TL
+0.000 g
+60.00 382.89 Td
+(13 actions to take) Tj
+ET
+0.92 g
+332.000 402.890 m 
+468.000 402.890 l
+469.105 402.890 470.000 401.995 470.000 400.890 c
+470.000 392.890 l
+470.000 391.785 468.895 390.890 468.000 390.890 c
+332.000 390.890 l
+330.895 390.890 330.000 391.995 330.000 392.890 c
+330.000 400.890 l
+330.000 401.995 331.105 402.890 332.000 402.890 c
+f
+BT
+/F1 7 Tf
+8.05 TL
+0.000 g
+330.00 382.89 Td
+(7 inapplicable) Tj
+ET
+2.00 w
+60.000 373.890 m 
+535.000 373.890 l
+S
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+60.00 355.89 Td
+(Actions to take) Tj
+ET
+0.83 0.01 0.42 rg
+66.00 343.89 m 66.00 345.55 64.66 346.89 63.00 346.89 c
+61.34 346.89 60.00 345.55 60.00 343.89 c
+60.00 342.23 61.34 340.89 63.00 340.89 c
+64.66 340.89 66.00 342.23 66.00 343.89 c
+f
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+69.00 340.89 Td
+(critical) Tj
+ET
+1.00 0.81 0.05 rg
+116.00 343.89 m 116.00 345.55 114.66 346.89 113.00 346.89 c
+111.34 346.89 110.00 345.55 110.00 343.89 c
+110.00 342.23 111.34 340.89 113.00 340.89 c
+114.66 340.89 116.00 342.23 116.00 343.89 c
+f
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+119.00 340.89 Td
+(pressing) Tj
+ET
+0.92 g
+166.00 343.89 m 166.00 345.55 164.66 346.89 163.00 346.89 c
+161.34 346.89 160.00 345.55 160.00 343.89 c
+160.00 342.23 161.34 340.89 163.00 340.89 c
+164.66 340.89 166.00 342.23 166.00 343.89 c
+f
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+169.00 340.89 Td
+(inapplicable) Tj
+ET
+0.14 0.67 0.71 rg
+231.00 343.89 m 231.00 345.55 229.66 346.89 228.00 346.89 c
+226.34 346.89 225.00 345.55 225.00 343.89 c
+225.00 342.23 226.34 340.89 228.00 340.89 c
+229.66 340.89 231.00 342.23 231.00 343.89 c
+f
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+234.00 340.89 Td
+(covered) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 322.89 m 72.00 326.20 69.31 328.89 66.00 328.89 c
+62.69 328.89 60.00 326.20 60.00 322.89 c
+60.00 319.58 62.69 316.89 66.00 316.89 c
+69.31 316.89 72.00 319.58 72.00 322.89 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 319.89 Td
+(Uses) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 309.89 Td
+(Work with relevant parties to identify intended uses \(suggested\).) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 293.39 m 72.00 296.70 69.31 299.39 66.00 299.39 c
+62.69 299.39 60.00 296.70 60.00 293.39 c
+60.00 290.08 62.69 287.39 66.00 287.39 c
+69.31 287.39 72.00 290.08 72.00 293.39 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 290.39 Td
+(Oversight) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 280.39 Td
+(Ensure human control over the system \(suggested\).) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 263.89 m 72.00 267.20 69.31 269.89 66.00 269.89 c
+62.69 269.89 60.00 267.20 60.00 263.89 c
+60.00 260.58 62.69 257.89 66.00 257.89 c
+69.31 257.89 72.00 260.58 72.00 263.89 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 260.89 Td
+(Team) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 250.89 Td
+(Ensure team diversity \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 240.39 Td
+(Train team members on ethical values and regulations \(suggested\).) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 223.89 m 72.00 227.20 69.31 229.89 66.00 229.89 c
+62.69 229.89 60.00 227.20 60.00 223.89 c
+60.00 220.58 62.69 217.89 66.00 217.89 c
+69.31 217.89 72.00 220.58 72.00 223.89 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 220.89 Td
+(Harms) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 210.89 Td
+(Provide mechanisms for incentivizing reporting of system harms \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 200.39 Td
+(Develop strategies to mitigate identified harms or risks for each intended use \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 189.89 Td
+(Identify potential harms and risks associated with the intended uses \(suggested\).) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 173.39 m 72.00 176.70 69.31 179.39 66.00 179.39 c
+62.69 179.39 60.00 176.70 60.00 173.39 c
+60.00 170.08 62.69 167.39 66.00 167.39 c
+69.31 167.39 72.00 170.08 72.00 173.39 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 170.39 Td
+(Data) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 160.39 Td
+(Compare the quality, representativeness, and fit of training and testing datasets with the intended uses \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 149.89 Td
+(Identify any measurement errors in input data and their associated assumptions \(suggested\).) Tj
+ET
+1.00 0.81 0.05 rg
+72.00 133.39 m 72.00 136.70 69.31 139.39 66.00 139.39 c
+62.69 139.39 60.00 136.70 60.00 133.39 c
+60.00 130.08 62.69 127.39 66.00 127.39 c
+69.31 127.39 72.00 130.08 72.00 133.39 c
+f
+BT
+/F1 10 Tf
+11.50 TL
+0.000 g
+78.00 130.39 Td
+(System) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 120.39 Td
+(Review the code for reliability \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 109.89 Td
+(Report evaluation metrics for various groups based on factors such as age, gender, and ethnicity \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 99.39 Td
+(Develop feedback mechanisms to update the system \(suggested\).) Tj
+ET
+BT
+/F1 7.5 Tf
+8.63 TL
+0.000 g
+78.00 88.89 Td
+(Provide an environmental assessment of the system \(suggested\).) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 72880
+>>
+stream
+0.20 w
+0 G
+BT
+/F2 12 Tf
+13.80 TL
+0 g
+40.00 796.89 Td
+(Actions to take) Tj
+ET
+BT
+/F1 5 Tf
+5.75 TL
+0 g
+50.00 765.89 Td
+(Uses) Tj
+ET
+q
+60.00 0 0 60.00 50.00 701.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 692.89 Td
+(Identification of uses) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 682.89 Td
+(Work with relevant parties to identify) Tj
+T* (intended uses.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 761.89 Td
+(Ethical) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+172.92 761.89 Td
+(decision) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+188.48 761.89 Td
+(support.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+203.84 761.89 Td
+(The) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+211.68 761.89 Td
+(primary) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+225.92 761.89 Td
+(use) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+233.32 761.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+237.20 761.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+241.52 761.89 Td
+(support) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 757.89 Td
+(executives) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+179.80 757.89 Td
+(in) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.88 757.89 Td
+(making) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+197.68 757.89 Td
+(more) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+207.72 757.89 Td
+(informed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+224.16 757.89 Td
+(decisions) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+241.72 757.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+247.12 757.89 Td
+(ethical) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 753.89 Td
+(matters) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.28 753.89 Td
+(by) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+179.48 753.89 Td
+(prompting) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.12 753.89 Td
+(reflection.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+217.36 753.89 Td
+(Internal) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+231.60 753.89 Td
+(alignment.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+250.92 753.89 Td
+(A) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 749.89 Td
+(secondary) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+179.32 749.89 Td
+(use) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+186.72 749.89 Td
+(explored) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+202.92 749.89 Td
+(during) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+214.92 749.89 Td
+(development) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+238.64 749.89 Td
+(was) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+246.72 749.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 745.89 Td
+(foster) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+170.96 745.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+178.56 745.89 Td
+(optimise) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.36 745.89 Td
+(internal) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+208.36 745.89 Td
+(alignment,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+227.68 745.89 Td
+(e.g.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+235.32 745.89 Td
+(through) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 741.89 Td
+(priming) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.00 741.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+178.32 741.89 Td
+(participants) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+199.64 741.89 Td
+(before) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+211.88 741.89 Td
+(meetings) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+229.00 741.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+233.52 741.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+238.72 741.89 Td
+(support) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+252.96 741.89 Td
+(in) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 737.89 Td
+(preparing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+177.72 737.89 Td
+(meaningful) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.12 737.89 Td
+(agendas.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 729.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 729.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 729.89 Td
+(Conflict) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.64 729.89 Td
+(resolution) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.92 729.89 Td
+(An) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+227.24 729.89 Td
+(obvious) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 725.89 Td
+(extension) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.56 725.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.32 725.89 Td
+(preventing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.68 725.89 Td
+(conflicts,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+224.16 725.89 Td
+(as) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+229.56 725.89 Td
+(seen) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.60 725.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+244.16 725.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 721.89 Td
+(main) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+170.32 721.89 Td
+(use) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.16 721.89 Td
+(cases,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.28 721.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+195.60 721.89 Td
+(helping) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.80 721.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+215.56 721.89 Td
+(resolve) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.48 721.89 Td
+(them.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+242.12 721.89 Td
+(By) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 717.89 Td
+(presenting) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+181.36 717.89 Td
+(different) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+198.28 717.89 Td
+(perspectives) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.56 717.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+228.12 717.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+231.32 717.89 Td
+(structured) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 713.89 Td
+(way,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+169.32 713.89 Td
+(it) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+172.76 713.89 Td
+(can) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.60 713.89 Td
+(facilitate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+197.72 713.89 Td
+(mutual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.80 713.89 Td
+(understanding) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+240.48 713.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+248.56 713.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 709.89 Td
+(reconcile) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.48 709.89 Td
+(conflicted) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+198.28 709.89 Td
+(parties.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.44 709.89 Td
+(Communication) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 705.89 Td
+(planning.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.76 705.89 Td
+(A) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.64 705.89 Td
+(use) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.48 705.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.12 705.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+207.76 705.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.08 705.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.04 705.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+229.36 705.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.12 705.89 Td
+(serve) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+245.48 705.89 Td
+(as) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+250.88 705.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 701.89 Td
+(preliminary) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.52 701.89 Td
+(research) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.08 701.89 Td
+(aid.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+207.96 701.89 Td
+(By) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.04 701.89 Td
+(simulating) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.00 701.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+238.20 701.89 Td
+(range) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+250.04 701.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 697.89 Td
+(perspectives,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+186.40 697.89 Td
+(it) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.84 697.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+201.48 697.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.68 697.89 Td
+(users) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+222.28 697.89 Td
+(anticipate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.84 697.89 Td
+(reactions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 693.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+168.08 693.89 Td
+(ensure) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.12 693.89 Td
+(they) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.28 693.89 Td
+(understand) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.96 693.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.92 693.89 Td
+(diversity) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+238.28 693.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.04 693.89 Td
+(likely) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 689.89 Td
+(opinions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+177.64 689.89 Td
+(before) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.80 689.89 Td
+(communicating.) Tj
+ET
+1.15 w
+45.000 781.890 m 
+265.000 781.890 l
+267.761 781.890 270.000 779.651 270.000 776.890 c
+270.000 654.890 l
+270.000 652.129 267.239 649.890 265.000 649.890 c
+45.000 649.890 l
+42.239 649.890 40.000 652.651 40.000 654.890 c
+40.000 776.890 l
+40.000 779.651 42.761 781.890 45.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 765.89 Td
+(Team) Tj
+ET
+q
+60.00 0 0 60.00 290.00 701.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 692.89 Td
+(Team formation) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 682.89 Td
+(Ensure team diversity.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 761.89 Td
+(The) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+407.84 761.89 Td
+(team) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+417.68 761.89 Td
+(consists) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+433.08 761.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.40 761.89 Td
+(members) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.96 761.89 Td
+(from) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+463.92 761.89 Td
+(diverse) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+477.72 761.89 Td
+(cultural) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 757.89 Td
+(backgrounds,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+424.84 757.89 Td
+(Italian,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.56 757.89 Td
+(Iranian) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+450.68 757.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+458.28 757.89 Td
+(Danish.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+472.76 757.89 Td
+(There) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+484.12 757.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 753.89 Td
+(gender) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+413.32 753.89 Td
+(diversity,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.64 753.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.72 753.89 Td
+(three) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+447.76 753.89 Td
+(men) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+456.48 753.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+464.08 753.89 Td
+(one) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+471.68 753.89 Td
+(woman.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+486.60 753.89 Td
+(The) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 749.89 Td
+(members) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+417.56 749.89 Td
+(come) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+428.28 749.89 Td
+(from) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.24 749.89 Td
+(related) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+450.36 749.89 Td
+(but) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+456.88 749.89 Td
+(varied) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+468.68 749.89 Td
+(academic) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 745.89 Td
+(backgrounds,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+424.84 745.89 Td
+(all) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.80 745.89 Td
+(pursuing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+446.00 745.89 Td
+(engineering) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+467.68 745.89 Td
+(degrees.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+484.12 745.89 Td
+(No) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 741.89 Td
+(special) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+413.36 741.89 Td
+(efforts) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+425.44 741.89 Td
+(were) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+435.04 741.89 Td
+(made) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+445.96 741.89 Td
+(towards) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+460.88 741.89 Td
+(reaching) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+477.08 741.89 Td
+(diversity,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+493.40 741.89 Td
+(but) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 737.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+406.52 737.89 Td
+(team) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.36 737.89 Td
+(diversity) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+431.96 737.89 Td
+(reflects) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+445.80 737.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+452.32 737.89 Td
+(one) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+459.92 737.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+464.24 737.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+470.76 737.89 Td
+(pool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+479.24 737.89 Td
+(from) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+488.20 737.89 Td
+(which) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 733.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+403.88 733.89 Td
+(was) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+411.96 733.89 Td
+(formed.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 725.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 725.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 725.89 Td
+(To) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+430.36 725.89 Td
+(ensure) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+444.40 725.89 Td
+(greater) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+458.88 725.89 Td
+(diversity,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+477.04 725.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+483.36 725.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 721.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+410.04 721.89 Td
+(invited) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.88 721.89 Td
+(external) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+440.12 721.89 Td
+(participants.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+464.80 721.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.00 721.89 Td
+(would,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 717.89 Td
+(however,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+418.28 717.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+428.32 717.89 Td
+(been) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+438.60 717.89 Td
+(hard) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.24 717.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+453.00 717.89 Td
+(justify) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+465.72 717.89 Td
+(as) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.12 717.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+478.08 717.89 Td
+(project) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+492.36 717.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 713.89 Td
+(part) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+408.52 713.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+413.28 713.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+416.48 713.89 Td
+(course.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.64 713.89 Td
+(External) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.32 713.89 Td
+(participants) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.88 713.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+484.44 713.89 Td
+(rely) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 709.89 Td
+(solely) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+412.28 709.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+418.16 709.89 Td
+(interested) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+438.16 709.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+442.72 709.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.68 709.89 Td
+(project.) Tj
+ET
+1.15 w
+285.000 781.890 m 
+505.000 781.890 l
+507.761 781.890 510.000 779.651 510.000 776.890 c
+510.000 654.890 l
+510.000 652.129 507.239 649.890 505.000 649.890 c
+285.000 649.890 l
+282.239 649.890 280.000 652.651 280.000 654.890 c
+280.000 776.890 l
+280.000 779.651 282.761 781.890 285.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 623.89 Td
+(Harms) Tj
+ET
+q
+60.00 0 0 60.00 50.00 559.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 550.89 Td
+(Harm reporting) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 540.89 Td
+(Provide mechanisms for incentivizing) Tj
+T* (reporting of system harms.) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+160.00 619.89 Td
+(We) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+170.44 619.89 Td
+(have) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+184.84 619.89 Td
+(not) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+194.62 619.89 Td
+(designed) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+220.24 619.89 Td
+(or) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+227.02 619.89 Td
+(developed) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+160.00 613.89 Td
+(mechanisms) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+194.98 613.89 Td
+(for) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+203.44 613.89 Td
+(users) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+219.52 613.89 Td
+(to) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+226.00 613.89 Td
+(report) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+160.00 607.89 Td
+(issues.) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 595.89 Td
+(Think) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+177.46 595.89 Td
+(about:) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+197.20 595.89 Td
+(In) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+204.04 595.89 Td
+(future) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+222.46 595.89 Td
+(work,) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+239.62 595.89 Td
+(it) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 589.89 Td
+(could) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+177.46 589.89 Td
+(be) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+185.92 589.89 Td
+(valuable) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+211.30 589.89 Td
+(to) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+218.44 589.89 Td
+(include) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+240.88 589.89 Td
+(a) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 583.89 Td
+(feature) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+181.36 583.89 Td
+(allowing) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+206.86 583.89 Td
+(users) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+224.26 583.89 Td
+(to) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+231.40 583.89 Td
+(rate) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+243.82 583.89 Td
+(the) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 577.89 Td
+(tool's) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+177.22 577.89 Td
+(impact) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+197.98 577.89 Td
+(on) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+206.80 577.89 Td
+(their) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+221.26 577.89 Td
+(final) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 571.89 Td
+(decision.) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+187.42 571.89 Td
+(Later) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+203.50 571.89 Td
+(on) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+212.32 571.89 Td
+(the) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+222.76 571.89 Td
+(users) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+240.16 571.89 Td
+(could) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 565.89 Td
+(be) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+168.46 565.89 Td
+(prompted) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+197.56 565.89 Td
+(to) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+204.70 565.89 Td
+(return) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+223.48 565.89 Td
+(to) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+230.62 565.89 Td
+(previous) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 559.89 Td
+(tool) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+172.48 559.89 Td
+(sessions) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+199.48 559.89 Td
+(and) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+211.60 559.89 Td
+(rate) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+224.02 559.89 Td
+(or) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+231.52 559.89 Td
+(report) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+250.30 559.89 Td
+(the) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+160.00 553.89 Td
+(actual) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+178.72 553.89 Td
+(decision) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+204.46 553.89 Td
+(made) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+221.56 553.89 Td
+(in) Tj
+ET
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+228.40 553.89 Td
+(retrospect.) Tj
+ET
+1.15 w
+45.000 639.890 m 
+265.000 639.890 l
+267.761 639.890 270.000 637.651 270.000 634.890 c
+270.000 512.890 l
+270.000 510.129 267.239 507.890 265.000 507.890 c
+45.000 507.890 l
+42.239 507.890 40.000 510.651 40.000 512.890 c
+40.000 634.890 l
+40.000 637.651 42.761 639.890 45.000 639.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 623.89 Td
+(Team) Tj
+ET
+q
+60.00 0 0 60.00 290.00 559.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 550.89 Td
+(Team training) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 540.89 Td
+(Train team members on ethical) Tj
+T* (values and regulations.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 619.89 Td
+(Team) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+410.68 619.89 Td
+(members) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+428.24 619.89 Td
+(engaged) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+444.64 619.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+452.72 619.89 Td
+(materials) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+469.84 619.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+475.24 619.89 Td
+(AI) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+480.00 619.89 Td
+(ethics,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 615.89 Td
+(including) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.64 615.89 Td
+(regulatory) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+435.28 615.89 Td
+(guidelines) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.12 615.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+461.72 615.89 Td
+(scientific) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+478.00 615.89 Td
+(literature) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+494.44 615.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 611.89 Td
+(model) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+411.80 611.89 Td
+(bias.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+421.20 611.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+428.16 611.89 Td
+(also) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+436.44 611.89 Td
+(reviewed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+453.32 611.89 Td
+(presentations) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+478.16 611.89 Td
+(addressing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 607.89 Td
+(a) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+403.20 607.89 Td
+(range) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+414.32 607.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+418.64 607.89 Td
+(ethical) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+431.12 607.89 Td
+(subjects) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+446.72 607.89 Td
+(related) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+459.84 607.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+464.16 607.89 Td
+(responsible) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+485.44 607.89 Td
+(AI,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+491.32 607.89 Td
+(like) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 603.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+406.52 603.89 Td
+(use) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+413.92 603.89 Td
+(in) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+418.00 603.89 Td
+(post) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+426.52 603.89 Td
+(war) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+433.92 603.89 Td
+(situations.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 595.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 595.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 595.89 Td
+(We) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.76 595.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+443.40 595.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+453.44 595.89 Td
+(sought) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+467.72 595.89 Td
+(out) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.92 595.89 Td
+(general) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 591.89 Td
+(ethical) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+413.60 591.89 Td
+(literature) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.64 591.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.40 591.89 Td
+(gain) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.60 591.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.80 591.89 Td
+(broader) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+464.64 591.89 Td
+(understanding) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+493.32 591.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 587.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+406.96 587.89 Td
+(field.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+417.28 587.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+426.48 587.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.04 587.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.08 587.89 Td
+(helped) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.92 587.89 Td
+(strengthen) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+484.48 587.89 Td
+(our) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 583.89 Td
+(individual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+419.64 583.89 Td
+(judgment) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+438.60 583.89 Td
+(when) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.80 583.89 Td
+(faced) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+461.16 583.89 Td
+(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+470.16 583.89 Td
+(edge) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+480.44 583.89 Td
+(cases) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+492.44 583.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 579.89 Td
+(novel) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.40 579.89 Td
+(technologies) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.96 579.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.24 579.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+455.28 579.89 Td
+(yet) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.00 579.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+466.76 579.89 Td
+(receive) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+481.44 579.89 Td
+(ethical) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 575.89 Td
+(consideration) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+427.12 575.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+437.00 575.89 Td
+(professionals.) Tj
+ET
+1.15 w
+285.000 639.890 m 
+505.000 639.890 l
+507.761 639.890 510.000 637.651 510.000 634.890 c
+510.000 512.890 l
+510.000 510.129 507.239 507.890 505.000 507.890 c
+285.000 507.890 l
+282.239 507.890 280.000 510.651 280.000 512.890 c
+280.000 634.890 l
+280.000 637.651 282.761 639.890 285.000 639.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 481.89 Td
+(Harms) Tj
+ET
+q
+60.00 0 0 60.00 50.00 417.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 408.89 Td
+(Harm resolution) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 398.89 Td
+(Develop strategies to mitigate) Tj
+T* (identified harms or risks for each) Tj
+T* (intended use.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 477.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.96 477.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+176.56 477.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.08 477.89 Td
+(designed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+200.16 477.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+204.68 477.89 Td
+(developed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+223.96 477.89 Td
+(mechanisms) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+247.28 477.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 473.89 Td
+(mitigate) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.92 473.89 Td
+(potential) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+190.92 473.89 Td
+(identified) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+207.80 473.89 Td
+(harmful) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+222.04 473.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+229.44 473.89 Td
+(behaviour.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 461.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 461.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 461.89 Td
+(If) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+188.24 461.89 Td
+(functionality) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.92 461.89 Td
+(was) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.44 461.89 Td
+(implemented) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+247.04 461.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 457.89 Td
+(allow) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.00 457.89 Td
+(users) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.60 457.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.36 457.89 Td
+(rate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+195.64 457.89 Td
+(impact) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+209.48 457.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.56 457.89 Td
+(quality) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+231.40 457.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+236.16 457.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.12 457.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 453.89 Td
+(output,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+174.52 453.89 Td
+(this) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.60 453.89 Td
+(data) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.76 453.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.40 453.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+209.04 453.89 Td
+(used) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+219.32 453.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+224.08 453.89 Td
+(fine-tune) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.88 453.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 449.89 Td
+(overall) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 449.89 Td
+(performance) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+198.96 449.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.72 449.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.68 449.89 Td
+(underlying) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.08 449.89 Td
+(agentic) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 445.89 Td
+(network,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+177.40 445.89 Td
+(mitigating) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+197.48 445.89 Td
+(harmful) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.12 445.89 Td
+(behaviour.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.28 445.89 Td
+(To) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+240.84 445.89 Td
+(remain) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 441.89 Td
+(compliant) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.84 441.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.92 441.89 Td
+(low-risk,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.12 441.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.44 441.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+224.00 441.89 Td
+(need) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.28 441.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.04 441.89 Td
+(stay) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 437.89 Td
+(informed) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.08 437.89 Td
+(about) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.92 437.89 Td
+(potential) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+207.52 437.89 Td
+(changes) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+224.64 437.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+229.40 437.89 Td
+(regulation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+249.68 437.89 Td
+(like) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 433.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+166.96 433.89 Td
+(EU) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.48 433.89 Td
+(AI) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.48 433.89 Td
+(Act.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.00 433.89 Td
+(Mechanisms) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.88 433.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.16 433.89 Td
+(prevent) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.52 433.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+242.48 433.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+250.80 433.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 429.89 Td
+(giving) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+172.76 429.89 Td
+(advice) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+186.12 429.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+192.00 429.89 Td
+(dilemmas) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.40 429.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+216.16 429.89 Td
+(high-risk) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.00 429.89 Td
+(domains,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+252.52 429.89 Td
+(e.g.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 425.89 Td
+(like) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+167.64 425.89 Td
+(medical) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+183.48 425.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+188.48 425.89 Td
+(legal) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+198.56 425.89 Td
+(fields,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.08 425.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.64 425.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+229.28 425.89 Td
+(very) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+238.44 425.89 Td
+(valuable) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+255.36 425.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 421.89 Td
+(implement.) Tj
+ET
+1.15 w
+45.000 497.890 m 
+265.000 497.890 l
+267.761 497.890 270.000 495.651 270.000 492.890 c
+270.000 370.890 l
+270.000 368.129 267.239 365.890 265.000 365.890 c
+45.000 365.890 l
+42.239 365.890 40.000 368.651 40.000 370.890 c
+40.000 492.890 l
+40.000 495.651 42.761 497.890 45.000 497.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 481.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 290.00 417.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 408.89 Td
+(System code) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 398.89 Td
+(Review the code for reliability.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 477.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+406.96 477.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.56 477.89 Td
+(performed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+435.64 477.89 Td
+(code) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+445.24 477.89 Td
+(reviews) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+459.72 477.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+464.04 477.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+470.56 477.89 Td
+(code) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+480.16 477.89 Td
+(base) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 473.89 Td
+(during) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+412.00 473.89 Td
+(development) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+435.72 473.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+440.04 473.89 Td
+(ensure) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+453.16 473.89 Td
+(intended) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+469.36 473.89 Td
+(functionality.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 469.89 Td
+(Small) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+410.92 469.89 Td
+(in-code) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+424.92 469.89 Td
+(decisions) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.48 469.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+446.80 469.89 Td
+(implementation) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+474.72 469.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+484.32 469.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 465.89 Td
+(potential) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.00 465.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+420.32 465.89 Td
+(introducing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+440.72 465.89 Td
+(biases,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.32 465.89 Td
+(even) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+463.92 465.89 Td
+(if) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+466.92 465.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+473.44 465.89 Td
+(code) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+483.04 465.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+486.92 465.89 Td
+(fully) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 461.89 Td
+(functional) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+418.00 461.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+425.60 461.89 Td
+(error-free.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 453.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 453.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 453.89 Td
+(To) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+430.36 453.89 Td
+(ensure) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+444.40 453.89 Td
+(reliability) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.92 453.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+467.68 453.89 Td
+(all) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.12 453.89 Td
+(functionality,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 449.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+406.32 449.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+417.96 449.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+428.00 449.89 Td
+(benefited) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+446.68 449.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.56 449.89 Td
+(an) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.20 449.89 Td
+(implementation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+492.68 449.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 445.89 Td
+(an) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+405.64 445.89 Td
+(automated) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+426.76 445.89 Td
+(testing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+440.80 445.89 Td
+(framework.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+463.08 445.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+472.28 445.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+484.84 445.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 441.89 Td
+(catch) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.36 441.89 Td
+(regressions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+434.92 441.89 Td
+(early,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+446.00 441.89 Td
+(verify) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+457.60 441.89 Td
+(stability) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.64 441.89 Td
+(over) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+483.04 441.89 Td
+(time) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+492.24 441.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 437.89 Td
+(reduce) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+414.04 437.89 Td
+(reliance) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+430.08 437.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+434.84 437.89 Td
+(manual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.80 437.89 Td
+(code) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+460.08 437.89 Td
+(reviews.) Tj
+ET
+1.15 w
+285.000 497.890 m 
+505.000 497.890 l
+507.761 497.890 510.000 495.651 510.000 492.890 c
+510.000 370.890 l
+510.000 368.129 507.239 365.890 505.000 365.890 c
+285.000 365.890 l
+282.239 365.890 280.000 368.651 280.000 370.890 c
+280.000 492.890 l
+280.000 495.651 282.761 497.890 285.000 497.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 339.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 50.00 275.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 266.89 Td
+(System evaluation) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 256.89 Td
+(Report evaluation metrics for various) Tj
+T* (groups based on factors such as age,) Tj
+T* (gender, and ethnicity.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 335.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.96 335.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+176.56 335.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.08 335.89 Td
+(reported) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.84 335.89 Td
+(traditional) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+217.04 335.89 Td
+(evaluation) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+236.12 335.89 Td
+(metrics) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+249.96 335.89 Td
+(such) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 331.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+165.20 331.89 Td
+(false) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.60 331.89 Td
+(positives/negatives,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+210.32 331.89 Td
+(AUC) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+219.72 331.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+224.24 331.89 Td
+(feature) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+237.60 331.89 Td
+(importance,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 327.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+165.20 327.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+171.72 327.89 Td
+(ethical) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+184.20 327.89 Td
+(dilemmas) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+202.20 327.89 Td
+(central) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+215.12 327.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+219.44 327.89 Td
+(our) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+226.16 327.89 Td
+(study) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+236.68 327.89 Td
+(lack) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+244.76 327.89 Td
+(a) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 323.89 Td
+(ground) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+173.32 323.89 Td
+(truth.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.40 323.89 Td
+(Instead,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.56 323.89 Td
+(we) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+204.64 323.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+214.24 323.89 Td
+(evaluated) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+232.44 323.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 319.89 Td
+(performance) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.28 319.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+187.60 319.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.12 319.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.52 319.89 Td
+(through) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+215.96 319.89 Td
+(user) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+224.68 319.89 Td
+(studies) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+238.28 319.89 Td
+(conducted) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 315.89 Td
+(via) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.08 315.89 Td
+(Prolific,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+180.12 315.89 Td
+(prompting) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.76 315.89 Td
+(participants) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+220.08 315.89 Td
+(for) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+225.72 315.89 Td
+(responses) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+245.04 315.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 311.89 Td
+(dilemma) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+176.00 311.89 Td
+(questions) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.00 311.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.60 311.89 Td
+(comparing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+221.12 311.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+227.64 311.89 Td
+(quality) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+240.12 311.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+244.44 311.89 Td
+(these) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 307.89 Td
+(responses) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+179.32 307.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+186.92 307.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+193.44 307.89 Td
+(time) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.96 307.89 Td
+(taken) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+212.68 307.89 Td
+(between) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+228.68 307.89 Td
+(people) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+241.56 307.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+249.64 307.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 303.89 Td
+(without) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+173.60 303.89 Td
+(access) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+187.00 303.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+191.32 303.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+197.84 303.89 Td
+(tool's) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+208.00 303.89 Td
+(output.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 295.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 295.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 295.89 Td
+(We) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.76 295.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.40 295.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.44 295.89 Td
+(evaluated) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.76 295.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.72 295.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 291.89 Td
+(further) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 291.89 Td
+(by) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.48 291.89 Td
+(comparing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.88 291.89 Td
+(its) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.52 291.89 Td
+(predicted) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.44 291.89 Td
+(responses) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+246.32 291.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 287.89 Td
+(people) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 287.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.40 287.89 Td
+(different) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+195.32 287.89 Td
+(organizational) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.36 287.89 Td
+(roles) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+233.88 287.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+238.64 287.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+245.60 287.89 Td
+(actual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 283.89 Td
+(responses) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.88 283.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+185.64 283.89 Td
+(real) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.72 283.89 Td
+(people) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+207.56 283.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.12 283.89 Td
+(those) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.72 283.89 Td
+(same) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.88 283.89 Td
+(roles.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+246.52 283.89 Td
+(By) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 279.89 Td
+(collecting) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.60 279.89 Td
+(responses) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.48 279.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.36 279.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.56 279.89 Td
+(group) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.88 279.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.64 279.89 Td
+(actual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.12 279.89 Td
+(CEOs) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 275.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+168.08 275.89 Td
+(summarizing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.72 275.89 Td
+(their) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.36 275.89 Td
+(viewpoints,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+226.08 275.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.40 275.89 Td
+(might) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+244.28 275.89 Td
+(assess) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 271.89 Td
+(how) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+169.00 271.89 Td
+(accurately) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.64 271.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+196.60 271.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+204.92 271.89 Td
+(predicts) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.40 271.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+228.36 271.89 Td
+(collective) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 267.89 Td
+(outlook) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+175.40 267.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.16 267.89 Td
+(CEOs.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.12 267.89 Td
+(The) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+201.20 267.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+209.52 267.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.84 267.89 Td
+(not) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.04 267.89 Td
+(designed) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.52 267.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 263.89 Td
+(simulate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+177.16 263.89 Td
+(specific) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+192.96 263.89 Td
+(individuals,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+215.92 263.89 Td
+(which) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+228.24 263.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.56 263.89 Td
+(why) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.32 263.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 259.89 Td
+(one-to-one) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+181.56 259.89 Td
+(comparison) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.16 259.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.72 259.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.36 259.89 Td
+(inappropriate.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+250.96 259.89 Td
+(The) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 255.89 Td
+(summary) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.72 255.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+183.48 255.89 Td
+(real) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.56 255.89 Td
+(viewpoints) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.16 255.89 Td
+(might) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.04 255.89 Td
+(offer) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.88 255.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+238.08 255.89 Td
+(basis) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+249.24 255.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 251.89 Td
+(comparison,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.72 251.89 Td
+(but) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.92 251.89 Td
+(this) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.00 251.89 Td
+(raises) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.48 251.89 Td
+(questions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.28 251.89 Td
+(about) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 247.89 Td
+(representativeness) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+197.20 247.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.28 247.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.24 247.89 Td
+(legitimacy) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.72 247.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+237.48 247.89 Td
+(using) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+249.12 247.89 Td
+(such) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 243.89 Td
+(aggregates) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.20 243.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+186.96 243.89 Td
+(validate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.76 243.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+209.72 243.89 Td
+(toolís) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.36 243.89 Td
+(output.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.88 243.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 239.89 Td
+(methodological) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.48 239.89 Td
+(challenge) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+209.84 239.89 Td
+(remains) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+226.12 239.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.44 239.89 Td
+(future) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 235.89 Td
+(reflection) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.92 235.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.00 235.89 Td
+(study.) Tj
+ET
+1.15 w
+45.000 355.890 m 
+265.000 355.890 l
+267.761 355.890 270.000 353.651 270.000 350.890 c
+270.000 228.890 l
+270.000 226.129 267.239 223.890 265.000 223.890 c
+45.000 223.890 l
+42.239 223.890 40.000 226.651 40.000 228.890 c
+40.000 350.890 l
+40.000 353.651 42.761 355.890 45.000 355.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 339.89 Td
+(Oversight) Tj
+ET
+q
+60.00 0 0 60.00 290.00 275.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 266.89 Td
+(Human oversight) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 256.89 Td
+(Ensure human control over the) Tj
+T* (system.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 335.89 Td
+(The) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+407.84 335.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+415.24 335.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+419.12 335.89 Td
+(yet) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+425.44 335.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.76 335.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+439.36 335.89 Td
+(a) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.56 335.89 Td
+(frontend) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+458.12 335.89 Td
+(developed.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 323.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 323.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 323.89 Td
+(In) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+429.36 323.89 Td
+(future) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+441.64 323.89 Td
+(work,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+453.08 323.89 Td
+(it) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.52 323.89 Td
+(will) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+464.00 323.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.64 323.89 Td
+(important) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+489.04 323.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 319.89 Td
+(transparency) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+425.96 319.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+434.04 319.89 Td
+(human) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.12 319.89 Td
+(control) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.64 319.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+470.92 319.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+477.88 319.89 Td
+(interface) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+495.44 319.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 315.89 Td
+(easy) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+409.80 315.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+417.88 315.89 Td
+(intuitive.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+435.28 315.89 Td
+(In) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.84 315.89 Td
+(addition) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.36 315.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+461.12 315.89 Td
+(core) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+470.52 315.89 Td
+(functionality,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 311.89 Td
+(like) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+407.64 311.89 Td
+(taking) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+420.36 311.89 Td
+(dilemma) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+437.56 311.89 Td
+(input) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.32 311.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.40 311.89 Td
+(displaying) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+477.12 311.89 Td
+(suggestion) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 307.89 Td
+(output,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+414.52 307.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+421.48 307.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+429.80 307.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+441.44 307.89 Td
+(benefit) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+455.48 307.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+465.36 307.89 Td
+(interactive) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 303.89 Td
+(elements) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+418.24 303.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+426.52 303.89 Td
+(allow) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+437.52 303.89 Td
+(control) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+452.04 303.89 Td
+(over,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.56 303.89 Td
+(e.g.,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.56 303.89 Td
+(level) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+481.40 303.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 299.89 Td
+(guidance,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+419.60 299.89 Td
+(diversity) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.96 299.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+441.72 299.89 Td
+(viewpoints) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+463.32 299.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+468.32 299.89 Td
+(agentic) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+483.24 299.89 Td
+(roles.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 295.89 Td
+(For) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+407.44 295.89 Td
+(transparency,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+434.20 295.89 Td
+(it) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+437.64 295.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+450.20 295.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+455.84 295.89 Td
+(valuable) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+472.76 295.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+477.52 295.89 Td
+(include) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 291.89 Td
+(functionality) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.68 291.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+432.96 291.89 Td
+(offers) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.00 291.89 Td
+(insights) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+461.28 291.89 Td
+(into) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.60 291.89 Td
+(how) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+478.60 291.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 287.89 Td
+(suggestions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.44 287.89 Td
+(came) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+435.60 287.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+440.36 287.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+446.00 287.89 Td
+(-) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.32 287.89 Td
+(perhaps) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+464.80 287.89 Td
+(even) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.84 287.89 Td
+(some) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+486.24 287.89 Td
+(access) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 283.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+404.76 283.89 Td
+(more) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+415.52 283.89 Td
+(raw) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.40 283.89 Td
+(data.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+433.68 283.89 Td
+(All) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.80 283.89 Td
+(this) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+447.88 283.89 Td
+(should) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+461.96 283.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+467.60 283.89 Td
+(done) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+478.12 283.89 Td
+(while) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 279.89 Td
+(considering) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.60 279.89 Td
+(all) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+429.04 279.89 Td
+(possible) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+446.20 279.89 Td
+(use) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+454.04 279.89 Td
+(cases) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+466.04 279.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.12 279.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+481.08 279.89 Td
+(potential) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 275.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+406.32 275.89 Td
+(unwanted) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+425.92 275.89 Td
+(user) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+435.32 275.89 Td
+(behaviour.) Tj
+ET
+1.15 w
+285.000 355.890 m 
+505.000 355.890 l
+507.761 355.890 510.000 353.651 510.000 350.890 c
+510.000 228.890 l
+510.000 226.129 507.239 223.890 505.000 223.890 c
+285.000 223.890 l
+282.239 223.890 280.000 226.651 280.000 228.890 c
+280.000 350.890 l
+280.000 353.651 282.761 355.890 285.000 355.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 197.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 50.00 133.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 124.89 Td
+(System trust) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 114.89 Td
+(Develop feedback mechanisms to) Tj
+T* (update the system.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 193.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.96 193.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+176.56 193.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.08 193.89 Td
+(designed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+200.16 193.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+204.68 193.89 Td
+(developed) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+223.96 193.89 Td
+(feedback) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 189.89 Td
+(mechanisms.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 181.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 181.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 181.89 Td
+(In) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.36 181.89 Td
+(other) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.32 181.89 Td
+(cards) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.92 181.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+218.24 181.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+228.28 181.89 Td
+(discussed) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+248.72 181.89 Td
+(how) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 177.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+166.96 177.89 Td
+(system) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+181.64 177.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.28 177.89 Td
+(benefit) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+207.32 177.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.20 177.89 Td
+(functionality) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.88 177.89 Td
+(for) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 173.89 Td
+(reporting) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.52 173.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+186.84 173.89 Td
+(impact) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.68 173.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+208.76 173.89 Td
+(effect.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.44 173.89 Td
+(In) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+226.00 173.89 Td
+(addition) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+242.52 173.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+247.28 173.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 169.89 Td
+(mechanism,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.04 169.89 Td
+(something) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.20 169.89 Td
+(like) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.84 169.89 Td
+(surveys) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+228.84 169.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+240.48 169.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 165.89 Td
+(implemented) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+185.60 165.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.36 165.89 Td
+(collect) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.96 165.89 Td
+(more) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.72 165.89 Td
+(nuanced) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.08 165.89 Td
+(feedback) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 161.89 Td
+(about) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.84 161.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.80 161.89 Td
+(usability,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+196.76 161.89 Td
+(focusing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.36 161.89 Td
+(more) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.12 161.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+231.00 161.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+237.96 161.89 Td
+(user) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 157.89 Td
+(experience.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.88 157.89 Td
+(Some) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+196.72 157.89 Td
+(passive) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.28 157.89 Td
+(monitoring) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+234.16 157.89 Td
+(\(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 153.89 Td
+(consent\)) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+177.56 153.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.20 153.89 Td
+(also) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+198.16 153.89 Td
+(add) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.24 153.89 Td
+(value) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.40 153.89 Td
+(by) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.04 153.89 Td
+(mapping) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+240.68 153.89 Td
+(common) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 149.89 Td
+(user) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+169.40 149.89 Td
+(behaviours) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.64 149.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+199.72 149.89 Td
+(usage) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.20 149.89 Td
+(patterns.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.00 149.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.20 149.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 145.89 Td
+(reveal) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+172.48 145.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.44 145.89 Td
+(most) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.96 145.89 Td
+(frequent) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.88 145.89 Td
+(use) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.72 145.89 Td
+(cases,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+227.84 145.89 Td
+(identify) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.00 145.89 Td
+(features) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 141.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+168.28 141.89 Td
+(are) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+175.24 141.89 Td
+(rarely) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.08 141.89 Td
+(used) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+197.36 141.89 Td
+(\(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.76 141.89 Td
+(may) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+215.72 141.89 Td
+(need) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+226.00 141.89 Td
+(better) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 137.89 Td
+(explanation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+183.12 137.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+188.12 137.89 Td
+(design\),) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+204.40 137.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.48 137.89 Td
+(highlight) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.36 137.89 Td
+(opportunities) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 133.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+164.76 133.89 Td
+(streamline) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+185.68 133.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.68 133.89 Td
+(expand) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.60 133.89 Td
+(functionality.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+231.08 133.89 Td
+(Such) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.80 133.89 Td
+(insights) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 129.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+172.56 129.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+181.76 129.89 Td
+(guide) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.40 129.89 Td
+(development) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+218.96 129.89 Td
+(priorities) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+237.04 129.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+245.12 129.89 Td
+(ensure) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 125.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+166.96 125.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+175.28 125.89 Td
+(continues) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+195.08 125.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+199.84 125.89 Td
+(meet) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.12 125.89 Td
+(user) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+219.52 125.89 Td
+(needs) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+232.00 125.89 Td
+(effectively.) Tj
+ET
+1.15 w
+45.000 213.890 m 
+265.000 213.890 l
+267.761 213.890 270.000 211.651 270.000 208.890 c
+270.000 86.890 l
+270.000 84.129 267.239 81.890 265.000 81.890 c
+45.000 81.890 l
+42.239 81.890 40.000 84.651 40.000 86.890 c
+40.000 208.890 l
+40.000 211.651 42.761 213.890 45.000 213.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 197.89 Td
+(Data) Tj
+ET
+q
+60.00 0 0 60.00 290.00 133.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 124.89 Td
+(Dataset information) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 114.89 Td
+(Compare the quality,) Tj
+T* (representativeness, and fit of training) Tj
+T* (and testing datasets with the) Tj
+T* (intended uses.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 193.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+406.96 193.89 Td
+(collected) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+423.64 193.89 Td
+(responses) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.96 193.89 Td
+(through) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+457.40 193.89 Td
+(Prolific,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+471.44 193.89 Td
+(targeting) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 189.89 Td
+(participants) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+421.32 189.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.40 189.89 Td
+(leadership) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+448.68 189.89 Td
+(roles) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+458.28 189.89 Td
+(within) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+469.44 189.89 Td
+(their) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 185.89 Td
+(organizations) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+424.60 185.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+428.92 185.89 Td
+(align) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+438.28 185.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+444.80 185.89 Td
+(evaluation) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+463.88 185.89 Td
+(participants) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+485.20 185.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+493.28 185.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 181.89 Td
+(intended) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.20 181.89 Td
+(users) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+426.92 181.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+431.24 181.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.76 181.89 Td
+(final) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+446.04 181.89 Td
+(tool.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.56 181.89 Td
+(The) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+462.40 181.89 Td
+(focus) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+472.92 181.89 Td
+(was) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+481.00 181.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+487.52 181.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 177.89 Td
+(broad) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+411.12 177.89 Td
+(demographic) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+435.04 177.89 Td
+(representation) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+461.40 177.89 Td
+(but) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+467.92 177.89 Td
+(rather) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+479.28 177.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+484.68 177.89 Td
+(ensuring) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 173.89 Td
+(diversity) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+415.60 173.89 Td
+(in) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+419.68 173.89 Td
+(professional) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.08 173.89 Td
+(backgrounds) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+465.80 173.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+473.40 173.89 Td
+(organizational) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 169.89 Td
+(contexts) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+415.84 169.89 Td
+(among) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+428.96 169.89 Td
+(leaders) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.96 169.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+447.28 169.89 Td
+(assess) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+460.68 169.89 Td
+(how) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+468.96 169.89 Td
+(well) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+476.80 169.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+483.32 169.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 165.89 Td
+(supports) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+416.24 165.89 Td
+(this) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+423.44 165.89 Td
+(type) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+431.96 165.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+436.28 165.89 Td
+(user.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+447.12 165.89 Td
+(It) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+450.36 165.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.24 165.89 Td
+(important) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+471.80 165.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+476.12 165.89 Td
+(note) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+484.84 165.89 Td
+(that) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+492.48 165.89 Td
+(we) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 161.89 Td
+(did) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+406.28 161.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+412.80 161.89 Td
+(train) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+421.52 161.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+426.04 161.89 Td
+(test) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+433.48 161.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+440.00 161.89 Td
+(underlying) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+459.28 161.89 Td
+(model) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+471.08 161.89 Td
+(ourselves,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+490.20 161.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 157.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+407.40 157.89 Td
+(relies) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+417.88 157.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+423.28 157.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.80 157.89 Td
+(GPT) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+439.00 157.89 Td
+(API.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+447.52 157.89 Td
+(Therefore,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+466.84 157.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+473.36 157.89 Td
+(data) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+482.08 157.89 Td
+(collected) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 153.89 Td
+(was) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+408.08 153.89 Td
+(used) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+417.68 153.89 Td
+(exclusively) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+437.92 153.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.24 153.89 Td
+(evaluate) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+458.24 153.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+464.76 153.89 Td
+(performance) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+488.04 153.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 149.89 Td
+(user) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+408.72 149.89 Td
+(experience) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+429.12 149.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+433.44 149.89 Td
+(people) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+446.32 149.89 Td
+(utilising) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+460.56 149.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+467.96 149.89 Td
+(output) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+480.00 149.89 Td
+(when) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 145.89 Td
+(faced) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+410.72 145.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+418.80 145.89 Td
+(a) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+422.00 145.89 Td
+(moral) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+432.92 145.89 Td
+(dilemma.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 137.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 137.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 137.89 Td
+(Prolific) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.32 137.89 Td
+(provides) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.92 137.89 Td
+(only) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+466.12 137.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.08 137.89 Td
+(informations) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 133.89 Td
+(that) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+408.28 133.89 Td
+(participants) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.84 133.89 Td
+(fit) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.60 133.89 Td
+(within) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.16 133.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.12 133.89 Td
+(filtering) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.76 133.89 Td
+(applied,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+487.84 133.89 Td
+(so) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+493.48 133.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 129.89 Td
+(lack) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+408.72 129.89 Td
+(detailed) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.76 129.89 Td
+(data) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+433.92 129.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.80 129.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+446.76 129.89 Td
+(distribution) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.72 129.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.48 129.89 Td
+(factors) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+488.72 129.89 Td
+(like) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 125.89 Td
+(age,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+408.96 125.89 Td
+(gender) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.24 125.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+428.24 125.89 Td
+(nationality.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.96 125.89 Td
+(These) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.44 125.89 Td
+(variable) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+478.48 125.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+490.12 125.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 121.89 Td
+(significant) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+420.92 121.89 Td
+(influence) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.40 121.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.28 121.89 Td
+(how) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+454.28 121.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+461.24 121.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.56 121.89 Td
+(is) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.88 121.89 Td
+(used) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+484.16 121.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 117.89 Td
+(perceived) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+419.56 117.89 Td
+(by) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+425.20 117.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+432.16 117.89 Td
+(participants.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+456.84 117.89 Td
+(To) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+462.40 117.89 Td
+(better) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+474.44 117.89 Td
+(understand) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 113.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+406.96 113.89 Td
+(different) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.88 113.89 Td
+(subgroups) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.48 113.89 Td
+(we) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+451.80 113.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+463.44 113.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.48 113.89 Td
+(conducted) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 109.89 Td
+(targeted) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+416.68 109.89 Td
+(research) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+434.24 109.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+440.12 109.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+447.08 109.89 Td
+(subgroups.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.80 109.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+479.00 109.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+491.56 109.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 105.89 Td
+(identify) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+415.16 105.89 Td
+(patterns) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.84 105.89 Td
+(in) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.40 105.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+443.36 105.89 Td
+(effectiveness) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.48 105.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 101.89 Td
+(engagement) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.44 101.89 Td
+(among) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+438.52 101.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.48 101.89 Td
+(participants.) Tj
+ET
+1.15 w
+285.000 213.890 m 
+505.000 213.890 l
+507.761 213.890 510.000 211.651 510.000 208.890 c
+510.000 86.890 l
+510.000 84.129 507.239 81.890 505.000 81.890 c
+285.000 81.890 l
+282.239 81.890 280.000 84.651 280.000 86.890 c
+280.000 208.890 l
+280.000 211.651 282.761 213.890 285.000 213.890 c
+S
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 20654
+>>
+stream
+0.20 w
+0 G
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 765.89 Td
+(Data) Tj
+ET
+q
+60.00 0 0 60.00 50.00 701.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 692.89 Td
+(Dataset quality) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 682.89 Td
+(Identify any measurement errors in) Tj
+T* (input data and their associated) Tj
+T* (assumptions.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 761.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.96 761.89 Td
+(attempted) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+185.64 761.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+189.96 761.89 Td
+(identify) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+203.56 761.89 Td
+(responses) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+222.88 761.89 Td
+(where) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+234.68 761.89 Td
+(participants) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 757.89 Td
+(were) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+169.60 757.89 Td
+(likely) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+179.44 757.89 Td
+(tot) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+184.88 757.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.48 757.89 Td
+(used) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+204.08 757.89 Td
+(AI) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+208.84 757.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+213.16 757.89 Td
+(complete) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+230.28 757.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+236.80 757.89 Td
+(tasks) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+247.12 757.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+252.32 757.89 Td
+(well) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 753.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+165.20 753.89 Td
+(those) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+175.92 753.89 Td
+(who) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+184.20 753.89 Td
+(spent) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.92 753.89 Td
+(too) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.44 753.89 Td
+(little) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+209.52 753.89 Td
+(time) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+218.04 753.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+223.44 753.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+229.96 753.89 Td
+(questions) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+247.96 753.89 Td
+(for) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 749.89 Td
+(their) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+168.72 749.89 Td
+(answers) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+184.52 749.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+188.84 749.89 Td
+(be) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.24 749.89 Td
+(considered) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+214.64 749.89 Td
+(reliable.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+229.52 749.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+236.48 749.89 Td
+(can,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 745.89 Td
+(however,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+177.12 745.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.64 745.89 Td
+(be) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+189.04 745.89 Td
+(certain) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.96 745.89 Td
+(if) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+204.96 745.89 Td
+(AI) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+209.72 745.89 Td
+(assistance) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+229.52 745.89 Td
+(was) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+237.60 745.89 Td
+(used) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+247.20 745.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 741.89 Td
+(while) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+170.04 741.89 Td
+(Prolific) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+182.96 741.89 Td
+(records) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+197.20 741.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+203.72 741.89 Td
+(time) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+212.24 741.89 Td
+(from) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+221.20 741.89 Td
+(survey) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+233.92 741.89 Td
+(start) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+242.68 741.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 737.89 Td
+(submission,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+182.00 737.89 Td
+(it) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+185.00 737.89 Td
+(does) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+194.60 737.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+201.12 737.89 Td
+(guarantee) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+219.96 737.89 Td
+(that) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+227.60 737.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+234.12 737.89 Td
+(time) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+242.64 737.89 Td
+(reflects) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 733.89 Td
+(focused) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.92 733.89 Td
+(engagement) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+197.96 733.89 Td
+(with) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+206.04 733.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+212.56 733.89 Td
+(task.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 725.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 725.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 725.89 Td
+(We) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.76 725.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.40 725.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+213.44 725.89 Td
+(complemented) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+242.56 725.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 721.89 Td
+(online) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+172.76 721.89 Td
+(study) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.36 721.89 Td
+(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+193.36 721.89 Td
+(in-person) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.52 721.89 Td
+(sessions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.52 721.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.52 721.89 Td
+(interviews,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 717.89 Td
+(even) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+170.04 717.89 Td
+(if) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.48 717.89 Td
+(not) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.68 717.89 Td
+(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+189.68 717.89 Td
+(actual) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.16 717.89 Td
+(company) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.64 717.89 Td
+(leaders.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+236.68 717.89 Td
+(Allowing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 713.89 Td
+(people) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 713.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.60 713.89 Td
+(speak) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+190.84 713.89 Td
+(freely) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.44 713.89 Td
+(about) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.28 713.89 Td
+(their) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+223.92 713.89 Td
+(experiences) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 709.89 Td
+(answering) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.72 709.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.68 709.89 Td
+(ethical) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+201.28 709.89 Td
+(questions,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+222.20 709.89 Td
+(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+231.20 709.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.28 709.89 Td
+(without) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 705.89 Td
+(tool) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+168.32 705.89 Td
+(access,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+183.64 705.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+195.28 705.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+205.32 705.89 Td
+(led) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.08 705.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+216.84 705.89 Td
+(more) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+227.60 705.89 Td
+(extensive) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 701.89 Td
+(responses.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.00 701.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+191.20 701.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+203.76 701.89 Td
+(also) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.72 701.89 Td
+(help) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.92 701.89 Td
+(ensure) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.96 701.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.16 701.89 Td
+(certain) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 697.89 Td
+(quality) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 697.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.60 697.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+185.56 697.89 Td
+(responses) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.44 697.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+214.52 697.89 Td
+(add) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+222.60 697.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.80 697.89 Td
+(qualitative) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 693.89 Td
+(element) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+176.04 693.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+180.80 693.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.76 693.89 Td
+(evaluation.) Tj
+ET
+1.15 w
+45.000 781.890 m 
+265.000 781.890 l
+267.761 781.890 270.000 779.651 270.000 776.890 c
+270.000 654.890 l
+270.000 652.129 267.239 649.890 265.000 649.890 c
+45.000 649.890 l
+42.239 649.890 40.000 652.651 40.000 654.890 c
+40.000 776.890 l
+40.000 779.651 42.761 781.890 45.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+290.00 765.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 290.00 701.89 cm
+/I0 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+290.00 692.89 Td
+(System sustainability) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+290.00 682.89 Td
+(Provide an environmental) Tj
+T* (assessment of the system.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 761.89 Td
+(An) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+405.84 761.89 Td
+(environmental) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+431.76 761.89 Td
+(assessment) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+454.00 761.89 Td
+(has) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+461.40 761.89 Td
+(not) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+467.92 761.89 Td
+(been) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+477.72 761.89 Td
+(conducted,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 757.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+405.20 757.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+411.72 757.89 Td
+(climate) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+425.32 757.89 Td
+(impact) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+438.04 757.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+442.36 757.89 Td
+(this) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+449.56 757.89 Td
+(software) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+465.60 757.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+473.00 757.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+476.88 757.89 Td
+(considered) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+400.00 753.89 Td
+(negligible.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 745.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+411.64 745.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+424.80 745.89 Td
+(We) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.76 745.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+443.40 745.89 Td
+(have) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+453.44 745.89 Td
+(estimated) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+473.00 745.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+479.96 745.89 Td
+(climate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 741.89 Td
+(impact) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+413.84 741.89 Td
+(related) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+427.88 741.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+432.64 741.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.60 741.89 Td
+(GPT) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+448.80 741.89 Td
+(prompting) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.56 741.89 Td
+(involved) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+486.72 741.89 Td
+(with) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 737.89 Td
+(processing) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+422.24 737.89 Td
+(dilemma) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+439.44 737.89 Td
+(inputs) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+452.40 737.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+460.48 737.89 Td
+(generating) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+481.84 737.89 Td
+(outputs.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 733.89 Td
+(The) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+408.08 733.89 Td
+(token) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+419.68 733.89 Td
+(average) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+435.68 733.89 Td
+(during) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+449.12 733.89 Td
+(evaluation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+469.80 733.89 Td
+(\(input) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+481.88 733.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 729.89 Td
+(output\)) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+414.72 729.89 Td
+(was) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+423.24 729.89 Td
+(5330.8) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+436.36 729.89 Td
+(tokens.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+451.28 729.89 Td
+(With) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+460.92 729.89 Td
+(some) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+472.32 729.89 Td
+(research) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+489.88 729.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 725.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+406.96 725.89 Td
+(approximate) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+431.64 725.89 Td
+(energy) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+445.68 725.89 Td
+(consumption) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.72 725.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+479.80 725.89 Td
+(emissions) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 721.89 Td
+(from) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+409.88 721.89 Td
+(API) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+417.52 721.89 Td
+(usage) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+430.00 721.89 Td
+(this) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+438.08 721.89 Td
+(average) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+454.08 721.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+465.72 721.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+471.36 721.89 Td
+(turned) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+484.76 721.89 Td
+(into) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+493.08 721.89 Td
+(an) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+400.00 717.89 Td
+(estimation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+420.92 717.89 Td
+(of) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+425.68 717.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+432.64 717.89 Td
+(system) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+447.32 717.89 Td
+(sustainability.) Tj
+ET
+1.15 w
+285.000 781.890 m 
+505.000 781.890 l
+507.761 781.890 510.000 779.651 510.000 776.890 c
+510.000 654.890 l
+510.000 652.129 507.239 649.890 505.000 649.890 c
+285.000 649.890 l
+282.239 649.890 280.000 652.651 280.000 654.890 c
+280.000 776.890 l
+280.000 779.651 282.761 781.890 285.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 623.89 Td
+(Harms) Tj
+ET
+q
+60.00 0 0 60.00 50.00 559.89 cm
+/I1 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 550.89 Td
+(Harm identification) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 540.89 Td
+(Identify potential harms and risks) Tj
+T* (associated with the intended uses.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 619.89 Td
+(We) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+166.96 619.89 Td
+(have) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+176.56 619.89 Td
+(identified) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+193.44 619.89 Td
+(harms) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+205.48 619.89 Td
+(such) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+214.88 619.89 Td
+(as) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+220.08 619.89 Td
+(biased) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+232.76 619.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+237.28 619.89 Td
+(misleading) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 615.89 Td
+(suggestions) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+182.20 615.89 Td
+(from) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+191.16 615.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+197.68 615.89 Td
+(tool,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+206.20 615.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+212.72 615.89 Td
+(risk) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+219.92 615.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+224.24 615.89 Td
+(over-reliance) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+248.16 615.89 Td
+(on) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 611.89 Td
+(AI-generated) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+183.92 611.89 Td
+(advice) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+196.40 611.89 Td
+(for) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+202.04 611.89 Td
+(ethical) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+214.52 611.89 Td
+(dilemmas,) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+233.64 611.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+241.24 611.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 607.89 Td
+(possibility) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+178.24 607.89 Td
+(that) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+185.88 607.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+192.40 607.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+199.80 607.89 Td
+(might) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+210.52 607.89 Td
+(unintentionally) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+236.88 607.89 Td
+(reinforce) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 603.89 Td
+(existing) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.48 603.89 Td
+(prejudices) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+193.56 603.89 Td
+(or) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+198.08 603.89 Td
+(exclude) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+212.76 603.89 Td
+(minority) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+227.68 603.89 Td
+(viewpoints.) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+248.36 603.89 Td
+(There) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 599.89 Td
+(is) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+163.88 599.89 Td
+(also) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+172.16 599.89 Td
+(a) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+175.36 599.89 Td
+(risk) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+182.56 599.89 Td
+(of) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+186.88 599.89 Td
+(misuse) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+200.48 599.89 Td
+(by) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+205.68 599.89 Td
+(leveraging) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+224.96 599.89 Td
+(the) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+231.48 599.89 Td
+(tool) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+238.88 599.89 Td
+(and) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+246.48 599.89 Td
+(its) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+160.00 595.89 Td
+(outputs) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+174.04 595.89 Td
+(to) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+178.36 595.89 Td
+(suppress) Tj
+ET
+BT
+/F1 4 Tf
+4.60 TL
+0.000 g
+195.48 595.89 Td
+(others.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 587.89 Td
+(Think) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 587.89 Td
+(about:) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+184.80 587.89 Td
+(Further) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+199.76 587.89 Td
+(risks) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+210.04 587.89 Td
+(could) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+221.68 587.89 Td
+(include) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+236.64 587.89 Td
+(privacy) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 583.89 Td
+(concerns) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+178.68 583.89 Td
+(if) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+182.12 583.89 Td
+(sensitive) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+200.12 583.89 Td
+(dilemmas) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+219.52 583.89 Td
+(are) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+226.48 583.89 Td
+(shared,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+241.64 583.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+248.60 583.89 Td
+(toolís) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 579.89 Td
+(impact) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+173.84 579.89 Td
+(on) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+179.72 579.89 Td
+(decision-making) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+212.16 579.89 Td
+(accountability) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+239.92 579.89 Td
+(and) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 575.89 Td
+(potential) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+177.60 575.89 Td
+(legal) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+187.68 575.89 Td
+(liabilities.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+206.88 575.89 Td
+(Even) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.36 575.89 Td
+(if) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.80 575.89 Td
+(only) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+230.00 575.89 Td
+(subtly,) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.52 575.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 571.89 Td
+(toolís) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+171.64 571.89 Td
+(implementation) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.12 571.89 Td
+(also) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+211.08 571.89 Td
+(has) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+218.92 571.89 Td
+(the) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+225.88 571.89 Td
+(potential) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+243.48 571.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 567.89 Td
+(change) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+174.92 567.89 Td
+(organizational) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.96 567.89 Td
+(culture) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+217.24 567.89 Td
+(or) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+222.24 567.89 Td
+(power) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+235.00 567.89 Td
+(dynamics.) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+160.00 563.89 Td
+(This) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+169.20 563.89 Td
+(would) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+181.76 563.89 Td
+(need) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+192.04 563.89 Td
+(to) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+196.80 563.89 Td
+(be) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+202.44 563.89 Td
+(explored) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+220.04 563.89 Td
+(during) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+233.48 563.89 Td
+(a) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+236.68 563.89 Td
+(pilot) Tj
+ET
+BT
+/F2 4 Tf
+4.60 TL
+0.000 g
+246.12 563.89 Td
+(phase.) Tj
+ET
+1.15 w
+45.000 639.890 m 
+265.000 639.890 l
+267.761 639.890 270.000 637.651 270.000 634.890 c
+270.000 512.890 l
+270.000 510.129 267.239 507.890 265.000 507.890 c
+45.000 507.890 l
+42.239 507.890 40.000 510.651 40.000 512.890 c
+40.000 634.890 l
+40.000 637.651 42.761 639.890 45.000 639.890 c
+S
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 4418
+>>
+stream
+0.20 w
+0 G
+BT
+/F2 12 Tf
+13.80 TL
+0.000 g
+40.00 796.89 Td
+(Inapplicable actions) Tj
+ET
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 765.89 Td
+(Uses) Tj
+ET
+q
+60.00 0 0 60.00 50.00 701.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 692.89 Td
+(Approval of uses) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 682.89 Td
+(Obtain approval from an Ethics) Tj
+T* (committee or similar body for) Tj
+T* (intended uses.) Tj
+ET
+1.15 w
+45.000 781.890 m 
+150.000 781.890 l
+152.761 781.890 155.000 779.651 155.000 776.890 c
+155.000 654.890 l
+155.000 652.129 152.239 649.890 150.000 649.890 c
+45.000 649.890 l
+42.239 649.890 40.000 652.651 40.000 654.890 c
+40.000 776.890 l
+40.000 779.651 42.761 781.890 45.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+175.00 765.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 175.00 701.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+175.00 692.89 Td
+(System interpretability) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+175.00 682.89 Td
+(Provide mechanisms for interpretable) Tj
+T* (outputs and auditing.) Tj
+ET
+1.15 w
+170.000 781.890 m 
+275.000 781.890 l
+277.761 781.890 280.000 779.651 280.000 776.890 c
+280.000 654.890 l
+280.000 652.129 277.239 649.890 275.000 649.890 c
+170.000 649.890 l
+167.239 649.890 165.000 652.651 165.000 654.890 c
+165.000 776.890 l
+165.000 779.651 167.761 781.890 170.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+300.00 765.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 300.00 701.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+300.00 692.89 Td
+(System security) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+300.00 682.89 Td
+(Document the security of all system) Tj
+T* (components in consultation with) Tj
+T* (experts.) Tj
+ET
+1.15 w
+295.000 781.890 m 
+400.000 781.890 l
+402.761 781.890 405.000 779.651 405.000 776.890 c
+405.000 654.890 l
+405.000 652.129 402.239 649.890 400.000 649.890 c
+295.000 649.890 l
+292.239 649.890 290.000 652.651 290.000 654.890 c
+290.000 776.890 l
+290.000 779.651 292.761 781.890 295.000 781.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 623.89 Td
+(Data) Tj
+ET
+q
+60.00 0 0 60.00 50.00 559.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 550.89 Td
+(Legal compliance) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 540.89 Td
+(Ensure compliance with agreements) Tj
+T* (and legal requirements when) Tj
+T* (handling data.) Tj
+ET
+1.15 w
+45.000 639.890 m 
+150.000 639.890 l
+152.761 639.890 155.000 637.651 155.000 634.890 c
+155.000 512.890 l
+155.000 510.129 152.239 507.890 150.000 507.890 c
+45.000 507.890 l
+42.239 507.890 40.000 510.651 40.000 512.890 c
+40.000 634.890 l
+40.000 637.651 42.761 639.890 45.000 639.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+175.00 623.89 Td
+(Data) Tj
+ET
+q
+60.00 0 0 60.00 175.00 559.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+175.00 550.89 Td
+(Dataset protection) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+175.00 540.89 Td
+(Protect sensitive variables in) Tj
+T* (training/testing datasets.) Tj
+ET
+1.15 w
+170.000 639.890 m 
+275.000 639.890 l
+277.761 639.890 280.000 637.651 280.000 634.890 c
+280.000 512.890 l
+280.000 510.129 277.239 507.890 275.000 507.890 c
+170.000 507.890 l
+167.239 507.890 165.000 510.651 165.000 512.890 c
+165.000 634.890 l
+165.000 637.651 167.761 639.890 170.000 639.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+300.00 623.89 Td
+(Oversight) Tj
+ET
+q
+60.00 0 0 60.00 300.00 559.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+300.00 550.89 Td
+(Automatic oversight) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+300.00 540.89 Td
+(Continuously monitor metrics and) Tj
+T* (utilize guardrails or rollbacks to) Tj
+T* (ensure the system's output stays) Tj
+T* (within a desired range.) Tj
+ET
+1.15 w
+295.000 639.890 m 
+400.000 639.890 l
+402.761 639.890 405.000 637.651 405.000 634.890 c
+405.000 512.890 l
+405.000 510.129 402.239 507.890 400.000 507.890 c
+295.000 507.890 l
+292.239 507.890 290.000 510.651 290.000 512.890 c
+290.000 634.890 l
+290.000 637.651 292.761 639.890 295.000 639.890 c
+S
+BT
+/F1 5 Tf
+5.75 TL
+0.000 g
+50.00 481.89 Td
+(System) Tj
+ET
+q
+60.00 0 0 60.00 50.00 417.89 cm
+/I2 Do
+Q
+BT
+/F2 6 Tf
+6.90 TL
+0.000 g
+50.00 408.89 Td
+(System information) Tj
+ET
+BT
+/F1 6 Tf
+6.90 TL
+0.000 g
+50.00 398.89 Td
+(Document all system components,) Tj
+T* (including the AI models, to enable) Tj
+T* (reproducibility and scrutiny.) Tj
+ET
+1.15 w
+45.000 497.890 m 
+150.000 497.890 l
+152.761 497.890 155.000 495.651 155.000 492.890 c
+155.000 370.890 l
+155.000 368.129 152.239 365.890 150.000 365.890 c
+45.000 365.890 l
+42.239 365.890 40.000 368.651 40.000 370.890 c
+40.000 492.890 l
+40.000 495.651 42.761 497.890 45.000 497.890 c
+S
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 180
+/Height 180
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 1869
+/Filter /DCTDecode
+>>
+stream
+ˇÿˇ‡ JFIF   H H  ˇ· LExif  MM *    ái            †       †       ¥†       ¥    ˇÌ 8Photoshop 3.0 8BIM      8BIM%     ‘åŸè ≤ÈÄ	òÏ¯B~ˇ¿  ¥ ¥ ˇƒ           	
+ˇƒ µ   } !1AQa"q2Åë°#B±¡R—$3brÇ	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇƒ        	
+ˇƒ µ  w !1AQaq"2ÅBë°±¡	#3Rbr—
+$4·%Ò&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÇÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄‚„‰ÂÊÁËÈÍÚÛÙıˆ˜¯˘˙ˇ€ C ˇ€ Cˇ›  ˇ⁄   ? ¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ–¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ—¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ“¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ”¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ‘¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ’¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ÷¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ◊¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ–¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ—¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ“¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ”¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ‘¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ’¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ÷¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ◊¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ–¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ—¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ“¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ”¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ‘¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇ’¸gØËÉ˛¿Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ˇŸ
+endstream
+endobj
+26 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 180
+/Height 180
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 39703
+/Filter /DCTDecode
+>>
+stream
+ˇÿˇ‡ JFIF   H H  ˇ· LExif  MM *    ái            †       †       ¥†       ¥    ˇÌ 8Photoshop 3.0 8BIM      8BIM%     ‘åŸè ≤ÈÄ	òÏ¯B~ˇ¿  ¥ ¥ ˇƒ           	
+ˇƒ µ   } !1AQa"q2Åë°#B±¡R—$3brÇ	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇƒ        	
+ˇƒ µ  w !1AQaq"2ÅBë°±¡	#3Rbr—
+$4·%Ò&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÇÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄‚„‰ÂÊÁËÈÍÚÛÙıˆ˜¯˘˙ˇ€ C ˇ€ Cˇ›  ˇ⁄   ? ˛˛( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä?ˇ–˛˛( †Ä
+ ( †Ä!û‚h•û‚DÜ#y¶ûY8°ä5/$≤»‰$q∆ÄªªîTEf$Ähµˇ +w˝~Ô’
+s©(∆rî§£≈7)JN…E-d€—$õmŸ[E/ó<o˚h˛Œû	Û oà>+‘D`¡ß¯6ÒX∫ò -≈ökZqo[_}°í¥‘|Ac*K$i BÀª∂ñ_ä´f©ÚE˝™èï/˚wYÌØª	~R?D»¸(„|˜ÿ‘•ï<ø	Vj[ÕÁıpø⁄xg
+ôçH⁄ÚOÇÆÂz1jPR˘w_ˇ ÇûxZﬁ'Ü>xßV”	f]C_÷Ìº=s˚ñä-¬√J“|Yê◊qû⁄äÌ6Æ“"Å1É≤9D≠zïÈßwÓ∆2üœ˛]|˚oÆ™?¢·>è8ˇ `´fºQó`Í{I≈–¡`±Ù£ü:´Z∂]6Æ‹dΩç·nghÍy6ßˇ &¯ø%ı‹∫?Å~Yi®˜⁄ÿ_€¯ãW‘ZhQ’Ì&‘óƒû¥3CtDI"ÈâÚ€]Õ§r⁄O.— hm*µ$ˆ|ºã]oø7¸ß,õÂè—`¸·œv‹Ô6ØY’tßı9eòXÆK™ìåk√ÁN./ﬁRΩ”ß‘¨ßLÀ_¯)«õgö;Ô|/.˚ﬁ–Æâ‚Îh°å…m"-‹≠„{»ÁïlnD·lÿ…;$§A Å—©Â√R∂ˆM∏5◊¥;•ﬁ◊Z+ùı>èº%4ﬁ6‚W)r‘©[/©óµJ û[6Á
+wˆ| 
+≠8œñsä;ﬂˇ ¡Oµe≤∑_|#”ZÙ(yÔÙœ‹i6WBI`X„”Ù{˝W‘ñtéÊ7∏äÍÒLQ£JÓõÌ—Ûy2w‰ƒ4ñ TÔ}ﬂƒ¶¥ihÌ{Ùv¥ºJﬂGjﬁ"x)ù8”∑≤ßä ïW;›ßÌË„®¬Œ+ñ*4%9ODïﬂ'æ¯c˛
+=˚=Í≤ºPﬁ1¯|#∑yMÁà¥Ì:ÊhX¨ˆ÷?ã]k⁄‘¨	a{›NIÌdéx∆§\µ2úTqˆu,ÌhOﬁ≥÷˛ÚåztîûΩ,îæ/6ç≤˙2≠ÉñQú%4ïa
+xûIE 5që√a⁄J Q£ãÆ˘˝»∆m>_≤ºÒ¿_,f‘º„x∆ ’°éÚÎön∞,'ûπé◊QKâ‰”ØL≤µïÚ€›F≠˚»W/JU)Kí¨%	tÊãW÷◊ZjØŸ?ô˘6këÁ™Áf;-Æ‹πaç¬÷√∫äps•*êQ≠Kô5¥yÈœx6ö;0sÿéáüÛˇ ÷^ïôÂ=4˛øOÎæ‚–@  P@ ˇ—˛˛( †Ä
+ (µ›Ì•çµ≈ÂÌÃññêMuuus*AommoK=≈ƒÚïä!âYeï“8„RÏ¡A¶ìn…]Ωí›∑≤[›ﬂ≤˚ÏiNïJ’!Jî'V•I¬È”ãúÁ9µBç‹ß)5≈+∑¢ª?1æ9¡K¸·kõÔ¸≤µ¯õ‚[§≥ü≈íó?lÓ≤,ëiÛ€ﬁXﬁ¯∆QÂGI•]Èö—Í∫Üü‚-N.≠ó‘√eu*{’õß&¢≠Ì%u~∑PÈø4∫8∆È«˜N?6Œ£gV´ì`ÂN5i‡©B3<D'N3á;ó5π5Rïhb´“~Ì|$‘œÀœä˛-|dªo¯Xæ-’<I¶Op∑ﬁEc·ãY ∂∏∂¡°€À•Ëç-µ©øê]Acw≠Is<z[Í∑ﬁd©qÏ—√P°•(+È˚À^z⁄È…∑%™Ÿ;4ˆIÚü–‹9¡‹3√I·≤<≥G(F53	%[0wt}™xÃL´W•	∫n.Ü
+5c:èÿFˆ‡-ÏXE+$	!Ç‹⁄#›Ïªñ'04z≠ÕµΩº2DíÎKl∞D“Gˆòu{[õÎƒ˚bŒΩ•˙6ì◊≠¨ØkÓûã≥˜˛±•^.’_c'x:±çIFpˆR©*jîjæEZ*•Rß-+]“WûÃÕ2¥”%º6òªÖÆ‡û3l!∑a3iW7	wyà≠Ïc≥hbí[kXQ!∫F∂çÁk;hı|ØOO¥ïµ’FNˆﬁÌô⁄Qú*(5∆.R√TÁÑ]:~÷I÷£MS¶ÍTséRˆÓ4dÍAŒñí∆6xÓ§∆åˆ”@s¶∫]…p∂k∫ÖSê∫väﬁYaæ∞¥xUßeºñ#&ƒö∫Vr∂∂çÔ},Øi5nÌÌﬁ»ŒùXTï(rW´(ÛFç'‹ÚçFö®°V§99&™iNΩ7Sí9∑∑6M$P[‘JIÁiÌí›€ÿ	#14œbb∑πò‹¢3Ctí∞Ç{;9Bk8Ï•¶ùù¥o{-Tz˛z∂ùï›ıJ=U®Œ“ó2§Î'Ì)F’c˘R´>Y9.IN•jj•4•(Õsß…C^•ÛàVKªó∫[PÚÃìÌŸæ‘Ç4[]góÃä_µ[µÕπäÕl"e±âjÌ˙›ª=ö{5˘Z—≤≤ks¶¶˝õn\ÕMÕ?g
+5)8“¥˘cM•íÑù£ÀI”ÖhNú˘…º¯ƒÒ…$÷ì€E<º∑ó@3º%lÊôñD∞ÑA*ÿ≈,Oy4ÄK-±äŸ.ßº{oôª©_Dûùª⁄7jÍ÷Z-¨ÌÕﬂVº±]I,T‰’:4%T’WAŒuΩî‹‹irŒúùEMEP´F!ù£kó˛
+’ÙÌs√W˙œÑı›5ÂÜœPæ´&â‚é[œ±L÷:ıï‘GKÉÏìZÈ”¨aí›,÷f+…ÓJöj¢ROY∆pS]ıR∫◊K$ºµiçÀ∞ôç
+òl«Ü≈a™∆Ò∏<vÖ¡Så£)“ƒB≠ﬁ˚8F
+ï)˚4îU)ŒNGËß¡è¯)∑ƒØ_&ãÒìN∑¯ë·EHg◊tx”«öt
+-ïfÇe∑”t?.õeÀua{a¢k≤›O®\¯°‰≥˛ŒªÚ±E)Îáó≥ì⁄2Êpõæñ∫î‡›˜\ÎFπR≥á‡¸YÙ}»≥5*¸+ãûGéîdË‡±’*VÀ±ı<·»ß*ò‹æuπ£Rx˙Pt™ÚaaN“áÏ◊¬?ç~8xn?¸6ÒVü‚™/≠#-m¨Ë∑=›∞µ◊t[•áR“gyÏ/ÿ›€G°ªﬁiì^X¥w2¯5ıpÛ‰´∫{∆J…ﬁ2Ÿ´5ÊØgfúc¸≥ƒ‹'üpé=ÂŸÓ_[Y≈T°Q⁄¶FP•R5∞òöw°àÉÖjríß9Nó<i◊ç:™Pè´V'ÕÖ  P@ ˇ“˛˛( †Ä
+ ÚÔãﬂ¸7¡:óè˛#k∞h∫û0†ƒ˙û≥©…ƒˆ⁄.áßáIuRÍ+[âñdÜ÷ ⁄˚U‘Æ,tç;P‘-4•Ju¶©”NRr]dﬂD∫ÌÂΩ•ÏdyeƒYÖ≥*√Àä¨˙iNç5nz¯äñjï
+iÛN£ÌÀŒrÑOÁoˆî˝≥˛#˛”wóö]ïÙ˛¯Y#…g§|;ä˘~€Æ%≠‘"ﬂ]Ò§∂M(÷Æ‰‘%≥ª”¥πC¯oMπ±≥∑:MÌ¸:ÂÔ—·0T…I˚ı∑Á∑¬“Ω©Ètù⁄îØ+´=öÅ˝É¿^e|‚*™yûzÔ9Ê5)^8êÑ9aï˚û÷ù*ë≠^é"§!S^6qù(UßF?0ÿZ@a&‚ªë·∂ñÍ)e›on”iÒBR”Q∏ë|”:Ÿ⁄?Ÿ/-ßäÁO∏1˝éduÌﬂÌkÆ≠'¶˜í÷Œˆ]5›=œ“Sñ*>—‚•QUåeàT™EC„nº≥åeÌ9©rERΩI≈(Tî#R>ôΩ—ì˚AÊhmæ«$QZó∑kkf∏èrX≈%¢¥RGt5õóí1a-ÏxΩÇ¥vƒØ~û≠Ù{YﬂÕ[ˇ %zô∫Œ™qä\≤äsÆ„5ÀSﬁÑ·.~uyŒÖ•zqã◊ÓπŸ‘Xiˆ+:Kqo∫ﬁ€≥Œ±[Gm	∂H£ÜÒmÌl-8o°h"πòﬁîé÷ﬁÍky‰bÌ_}{;ËØkß{››Ë‚∫Ÿ⁄ÚŒ^“öwrR¨ÍZ‹ÍÛÚs∏∫™¢j§‘•hFö˝‚ß≈Nr¡`—ÌvH`ÛaehVñY-≠£]R÷ ±ëµ9n‡èÕ∞úáå€+€]ºAUız]Z⁄i≠“
+iÎ˝ﬂV÷§:äS¨ÈFuc:pÑ•M{©s¬ú”˙µ_e%NVI¥Á¸9WÁÖ˘j‹€ ˜O4‚K¥ñ*`ﬁLrB≤ﬁfæû,€KI†fÜ˚ ÚÌ¸ƒ"9≠Ã∑ëùﬂM7—]≠ª›oÎ£ªVÿ∫3pjQÂ¢î'©{Jî£/g$úf§‹Kﬁî%U çFÈ”ºa*Î—‚õOY-ôäBÒ√åÀˆõ)n‘˘rFØ!ñ·‰πÜ<ïµÄ#œ©	 È´Ω5”{¸õ[%“⁄ÆÏ÷ÉƒTù¬ü<£áó∑©(”^”ùOïæhVó;ï?eM…©¡Rö©(J
+¨3uìI+ºÃ◊óñ1¨∆Tx/!Ωïn54çÑ÷íÖéÚÍ.≠ÏÀEö^ÚÙõØ≤àØ^ñΩÏûØKw{ÔΩÌ—©_›Ù◊;ßÀNùgSíçDÍNÈŒõ¶£:’îT‰˝§Á*≤˝⁄åú=ïHÕ¬ó%)≤â7^œc1Ÿ‹y±Z›0[ònñ’ÛW∞º÷Ê®£ÇXlû(Ù€õ∆ù„W	I⁄Í˜Ìui'Òk∫◊DﬂªfÌh§£.‹5H)<75Jä>Œ5`©÷ˆ≤ó÷e
+÷Xà%]:tkUtó-Júí√∆î9'ëuqgi!Üa'õ$ñ◊∑ã›îí,≥ƒw€\\BnÖπ∏I•â†∏û+ÕBX•ky~ÿ©l÷ ¸©;E?[lˆwr”æç«¶õìå°7*QSxZ8YFXŒQM9Vˆj4„*êJ£≠Z¨jB
+T’zr¶ÎGé’GK˚:…ˆ{)ƒè>BXºWÇ[[òîÕ®⁄EÁ\≠ïƒñv”⁄›_,w3DÕwZV≥ªi-ÈΩÆñâvJ⁄s7¶ä=ÙcœÌ$„Jï°J¨¶È¬Qìˆî#.HQäKŸRÖH(SUﬂæ´*GA‡?à˛=¯K™√„x«[◊à¥´√Wö?€n4Ë~√wrö¶õqi⁄÷ó|ˆ•Üï©ZjzuÃ∂‡ÀÒΩôΩŒ≠*u‚È‘¶ßöwNÒjÈ5≥MlßY|N…›À…Œ≤<£àS 3\™écÄûT´F≠)˚\4Ès·”√ÛSU0µ‡ü≥√‚.™∆ÂÕFØ¥´?Ëˆ5˝ø|'˚IŒæ Ò~òû¯…c¶Ax˙4Ö”√æ2HÌömFÁ¡wW3Õ0æ±ç>›}·{˘Á‘·“§˛”“Ø|AßÈ˙ÌÓïÛ8Ï∫x_ﬁA∫¥∑5≠*mÌäÚﬂ§’ìz5‚•¸K‚oÑèˇ ¬Æ]VÆq√uf¢Òäó˚NUV¨≠Kö¬ÍÊÊåic)∆4jTq•ZZÛ£NØËïyß„@  Pˇ”˛˛( †Ä<√„≈ﬂ|¯w‚Oâæ?‘«√û≤i‰éŸbóT’o§˝÷ù°Ë∂≥Moﬁ±´›¥VZ|\Z⁄¨“y˜˜vv\ﬁ⁄ÈJîÎTç8+ NÀ{.Ì€[%´ÚÿıÚ,ó0‚”	îÂî|V*ß,S∫ßN\ı´Vîc7
+4i)T´%‘"˘T¶„.øi~‘>9‘ºy‚˝JÛEÖîWæ	ﬁù®<ûëqsE#5¢j⁄û£)®¯Éƒ⁄éúnuùJµÇ◊L“Ù?ËzW”·∞‘–Âé≤ﬁuÆmZÈ;.U¶ãõK›∑yN_⁄¸¬9WeÀÖåj„\9Û⁄îyÎcq<±ºaV
+ü±¡“î*√ÖÜ%:pïJµcZ§™÷èôhVñ∂V◊6Ï—…%Óó‰I€⁄˝ËÓbñÊﬁwåLñ¬ÿ£3[ﬁ⁄Ÿ⁄5¨s|©ƒ˜Íí≥Î{-ﬁ∫slìOÕrﬂ[£ÍT˝ü*•?f‘·9E4Ω´ÖG<L}ü±çJsîc)¡“rµJn”‰ÙÌ"Œ+IoCD¬9å"›'6◊rXõŸ‰πÜ÷ÕßäéÚ[Ú.±; ùnå©s$)nÉkuﬂ~∑ÚZ¶ØvïÓ˙€ñQ*≠T˘kŒj1û"ùYTnnß$·jj3≠V5-ápÖY∆§$ÂQØ(z(∞Yæ€mwÚkã¥	qõ‡6K;X™C∫8-Ì‘Zî_†∂ïbí[K¿#BvwZ€ÏÏ˙$ıroW¢q◊gv≠ |ŒPú%Ï•)™>ÏeÕFï)ZsØàsïY√íõ£7$•Sû54∑UöŒ≠—·∑èPëV{uqÁ€[ì
+‹:F◊≤\€œszQçÕ‰7R*c2]’“µõª€¶äﬁ∂∂ñÙÈ±J§˝‹™F{QN‘[ç	œöí©hŒú˘5¨î©Ú )∆3!µI$∏˛œ‘∑ma,…åOs4Û[≈!ûÁ˝"”Ê⁄ÚhaÜÈR;kAˆ≈ïlWJ÷oFµW◊Uug´≥Ì›kÿ•_óŸFùIYNú°V4˘Æ‹ÈQ´MP®˘‹iÛ•BåÍ©“˜©s9πgEÑÍJÒ¨¢‚Œﬁ⁄“[ƒñˆ…;HÈvˆ*I&°*Kˆ{Ü∂≥h°vöq9mHﬂODÙ˚∫›∑u}Øtù∂*<í\≠r¡RÖ	5Fù9F4Í [∂#„VOïUã|ÚïZqÁö÷<≠ƒêHlÓ≠V“h.r_Z⁄[ZbûÜ“Kyo/eé ;xÆöHÔôf˚lQôpêZ]öíKk¶∂µ˙nı{€e∫ëﬂJ2ˆúîÍPƒB
+^«˜ë´NÚ•(S©{)I7˚…(ŒÇRå) 3Ê3ı8†ñé8ÆYÓ!ûŸ„?g∏ù ∂hí)%é[´xL∞¥AdO¥€2€yvXy?e¥Ù∂˚&˙m¢}^Ô´Ω•¢ªÂÙcZR£>Ï†ÍSçj≥ßÕ(¬ﬁŒr^Ûuü≥IπVT1qÇst9€´ãI"3H÷*f¥op%ñ&—A≤àò-»à_%µò‘%Ω≤”ÂºIf∏Ñqfªì◊´WWÍ¥ﬂ˘tv≥JZvûÒÙpıb§È∑Z§}Ω>x«⁄‘¶•Üèø7ù6ËVå9*FùnH—ßgÖ≈VSúπçKm¨SHìõwñ;[˚ªôaÖ~’coqmù>™l<¡l–,“XmìKcw?fyl©;ß¶Æ€ÓØoΩ€Ω˚+kÕ”—ù6ù(N≠Y%Nsnu®™û SåRS¨°>Z◊úcNPßRå›ÂÉ{tóigôp÷◊QJ∫mÌº-ms%¿0››^îÚcˆ9‚xÆ#3j3Õ\*Aƒ6Îmo≠ùÓØ”^∂mu∂ç˘€Ïˆ õN~÷S£?kÌ)≈œHEœŸs 0´RîÈ7R4W'Ω˚¯˚K(ÚCó‘Æ/≠,ç°3àı9£ï¸€’Ç,«µ2F∂V:CG"È¬&Kái#YZkπm§ﬂ®⁄ã´æõÈ},ûÈØ¡&∫›•À+Ñ)ØhÂY}]∑S˜
+W√ ü∫’g)“Ró2Êî ßM€⁄NrÖ8aÍ·ZﬂI¶k÷Z∑Öug≥‘4´mcI’<1s5µıçﬁúÚÕg.ëãˇ iXµé≠io}s¨[Œë.ßq ^4[ÚIIr 7R—¡´'}íñèõôªm£vÔhò∫T1¥ûÖßWâß<=\%Zt©Sƒ:é¢©e:Ì¨U<G÷]EM√ÿS¢®:ìî˝ÈH?∞WÌﬂ¶~–v|*¯èwg§¸rˆû]y6÷ˇ ¥}:÷Ô\”bà$ﬁ(”“xß@∑äyc‚/Dts´iﬁ˘l«/xi{JWï	?ù9]˚Øou€‹vÀ/{ñS˛ÒÉ¬âpf*YﬁH™‚x_Y≈ÈR•Lõ)∏˝O7Jíñ≠E%ó‚4¢í¬‚Ìàˆ±_¶uÂüÖÖ  Pˇ‘˛˛(„üßÙoÂ˘ÁÂ˙˚ø‡dû=‡÷µ?≈=Â÷©£¡e6ßˆ]/RóM¥7ˇ jÚlﬂ^6±Ë2jÒ%∞∏ø–`‘Â◊4À+›'R‘¥€M7X“ÓÆÌSìW—&ÏØªÛQ∫my´≠5÷»ı(e⁄Ù°_í®‘÷î´TÑ%R<‹™tË¶Ò§‰ßm.è<*C⁄∫ë‰?ønØÜﬂµ«Ì9Ò4Ôxm4èÉæ	ñ{?iw~.Ö£¯Ü˛H¶¥’|q®YŸx°Æ.Æµ(ﬁk=÷˛Xf—4É7G’µÕ~ﬁ„◊¡KÜãrìufΩÁ…/v= ∑JÔVÔ{˜Q˜ø†|7ƒü‡'Wà©[9Ãc	c*S¿‚kO	áÖOsáî®™qS©U´Y):≥ÂWå((œÂ-ˆ˝¢dS6©¢xz)£Ö^’W∆û˝•ñÌnÚE.°⁄I≈ºgda¸ç>ãs@—\v˝vã“ı7È&Ω9ñâkumz ˆèË“ÒÜ§π%àÃ⁄SjPßï 
+Te6‹}Í±§£FÒ®íÖ8JqÊrºó7°Èü∞_«Ô∂[›Í∂>(VYO‚≠m•πÑDJ›ZX≈{®FDl“^]æ˚[{¡emlïç“K∆—[sÍˆÂz€eeÕÆüÕÁÔjŒ
+˛%pıÊ©œ·:≤sR¡Ti{©SÁ£…8˚EiZı°ﬁÉõU•?BÉˆ)¯Õak~çw·[3™!Å¿ÒdiúÚMao
+[ï¥3àa∏ö8n!ú§®Kã¯Á˘H„hkÓ‘⁄Ô‹◊œ[ª›vÂ”tÙFîºK·Ö6›, Sù.jëX	CíN‹÷õˆÚm4¢˝ä•NiÀö-Ú8ı˛«@µä‚Û¿NÚ‚A4⁄ÕΩ≈’ƒ
+#ÿ61FóQ¨Ki#¨2¢Z¨{ñWÜ{â◊◊iµ‘i?‰“Ó˙;ŸYhÏﬂNñ2^$‰Æå¢˘ΩZTÔSù‡*T¶Â*ímUúÂN≈(FM=yÈØﬁPQSî◊?±ˇ ƒΩ:·§ØÅ¨K{g+âÓ¥µñ‡yr\‹¥˜eÌœò”:ªL..≠‰ö8∂Ÿ∆Fó◊)8ÈèUkGK¸•m7⁄-Z€;úÒÒ$´EJñ6™ØjY|eEOûÓ2T%NPíÊ˛î9tåπ*£~«ü.Ó#Ä›|:πtâd¥ôºO®\ﬁº±8nY≠b”E£¿öZòÌC<ñÊ(—•ä;©‰µ6⁄•Ø÷÷}7OÀy=R∫–u|FÀ&ﬁ5•ÀVwUp5%RNÊî‚“nJó,ÇPå‘\#
+r~ƒ˜GÍí.6Xß◊o≠ÊO* {x‹A·Âôí8ÂHå–¥lç%’Øï~ây+XÍ:ªTÏü%ﬁä⁄Îm5∫J+ÀV£t¸N·µ*çPÕ◊3î£ÉR|™Í)ßUΩØz~Â$¥Tï‰Rìˆ¯À=›„ˇ n|7vúâ£Y|CqIpë_6(†ö91È—…m†O‹ﬁ vﬂeèÕ•è°≥UZˇ ∑”Õm”G¶˚ù4¸V·ÍntsôAr∑8Âîùe>E›ºE‹i;˚^4πy)÷ˆﬁıIeK˚|ZæΩæ¥óS§∆"x¶ÚﬁÍÍŒ÷Îk6∂⁄vü4VV˜FÍ⁄›‰-‘wê4+oõikWˆÖ“´]˘ç›Ÿ›§Âu}4›©KﬁRÙø‚-pÏ#
+æ√;ƒQµ£Zû¨£NΩXJ£°RU™SÑÒ
+ Sç©Y‘©
+’yßÌr‰ˇ Ç|¸nékãã¸&éI'SnìﬂﬂCìkæUú_Ÿ˛∂ùñÑÕ»Øˆx„ÑH-ï-Ÿˇ h·Ó˝ ≠hæˆﬂﬂvW∫Vj˝ØÔ/xI‘™÷;≠F4„<;~˜ÍÍsƒJx©r–è-XFï˘ki(Tr´,Àœ¯'G«âÌ\xü·©é“	F€üxçÂôÃëyeÁˇ ÑMÁ!Û&ú•Û˜∫,vØw4ïk3√Ÿ´VªjÕE=Ùn◊ZÈ=[«∫óç‹(ËŒü∞œ’gUJ2√`®ÕF59Tß»≥<UM‰ÌÔ ç(Œ£É^√œ§˝áºcwqi§/≈ﬂŸÂµ+´È>«·õoàó0¶©s´Õõõ∆û∑≤ﬁÀ∂—≠Ωàπ∏ΩÜ+e[úK˝£F…∫8ãowM%’ﬁˆÌ‰óWªRÔ^0p¸h*’≤-t·9b*‰ÿhRS\ÚsïOi:|äﬁ~ÍΩõJü<'‘…ˇ Ã¯¯Õ|≠´|%20åZ….Ω‚ãÄÍ–àßkãdB"∞Ì∞Ü=Õ∞±ÖÌ‚zïö·tºkk§¨¢õ—iwRI+_N]wï⁄ºyÈxÔ¿ñß)axÇúÙé"T0∏(:—åi®Sì©ô‘¶©%	E”tb™¬¨ß_⁄UågÒO¸Îˆ†“<Oo·ç¬#«◊RÈæm∆´·;›CE–tõ4ù˝•„à⁄GÉ¸+®js5=+√:éß6õåZæìß√w·Ì7W∏ÊXFõsî◊ﬁådÌŸF:⁄7Îkk4˝ﬂC	„?áÛ£ıö∏¸^[FîπcKÜ¬‚qq§ÍIrQ¬Â¯öıΩïk&Ωæ4⁄r†“√πJó©¸?ˇ Çk~ÿ>÷¸#Ò/B÷˛|8Ògáom5´'âÆn|G¢ÍZ}≈√C‘Ö|a·IÏÆÄGö¬¬ˇ Q≥π”o&ÇÌ ‹Èµù\”QJìUgútÇJI¸_º⁄ªW≤¥õqj RÒ≥ﬂ|6Õ(„Úzÿ|Á0ÀÒòzò±•ÄÖÃ&*Î*Kâ•]’Ç´Vö©(—ù˜ƒ‡j—p£Røøæ$Z¯Ø√∂–Í⁄ÔÇ5OËY–> €x[˛€–tÈ0⁄≈‚mó˛':kY_ŒÑÈZ›¥:æù’≠ΩíV[â˛j≠.I>E7Iª”ú‚°)F˛Îi9E∑˝Ÿ¥˙$Á˘∞‹ELæée,í≠IO*≈Êx8`±åÁ?´N¨)Vƒa]IB9aÒU®‘põ£R Pá´§ã ‹§Í=»Ì–Ç ‡ÇÏKb|”M;4”Ï’ü„‰ˇ ´è†A@ˇ’˛˛(œ˛,x∫Î·ˇ ¬ﬂâ=±≥ÉPΩGÄºa‚˚;óxÌÔÆº7·ÌGY∑≥ûH»tÜÊ[5ÜWBcve!Çö∫qÁú!{sŒ1ønfïˇ ø*¬«ôÂ¯ Pé7Ñ¬9«x,F"ù%Ω‹T˘ñèT¥ñ«Ãü
+¥≠∆ﬂ¥++òÁ◊Ùoi
+∑∑zñ´™[Í⁄≠û•zeΩÒÎ∂“K≠\¥ìxÜ=~+ËuÎø¥z¨ö’¶≠;Î6˝¯î©‚ÜäÂK[+itj÷ãΩ’∫4⁄?]„*tÚn*≈Q¿ŒXZ8—x8—å*™1˙¨>ØáQ≠ÓJî#ÀB¢úeetÈVÇTœ\ØÉ¸!‡k+ù3¡~–|1ßﬁ^ˇ i^⁄ËömÆõﬁ†lÏ¥ﬂ∂›%¨H≥^}ÉO∞≥˚D€Â˚-ù¨% @â\Úî¶Ô96“≤wi€]4KMv€µØh¸n7éÃ™∆∂?WRˆtÂ7iB’%Ï”è*PN§Ì®¡s5®æX∑≈ﬂ|Ò€H¥Òˇ Ç|#„{=V∑Òâi‚ÔËû$¥“uÎ8ÂäÀ\”-µãÿ,µ{8Æ.#¥‘≠ñ;ªd∏òA*˘≤Qî©›∆Rç”ªRiµ’_~ü’Ãp∏¸^÷ñâ¬:Ù˝ùiaÎU•R≠>∞ú·R2pvI∆ˆkGeu.cN¯	cK¯ó™¸d±¯_‡∏˛*jÚ˘˜~<õDµªÒ,7H:ƒ˙N£víÀ†K®hœ&ü™∂Ñt”¨A=—‘˛ÿ˜W.È‚*8*nsp[Fˆ[ﬁœ∫]/KlkS>Õk`)Âu3dÚÍ6T∞ûŸ∆íäó<aQ+:ê•+:qìîW*iF—=~1è∫©ìÛacåsÿì≥ÆyœÀŒ}sX9>ÔÔ<óRœ.€…+vJÓÀÀÛµÂò˛¸⁄Ù~(ì@—ü≈È-†≈‚OÏÀÌ¯Ù'ΩãR}=`A˝§öQ‘-·‘N[ÅgˆËb∫ÑG]¶ïπﬂ-Ô €ÂªVª’+€…Èÿ›cqtﬂUX Ò¬J´™™ΩUÜïiRtùGEKŸ:Æî•MÀëÕRìRµ6˘æ:¯ÁÒw˛	Òœƒ$‘>>¯√ˆZ”|i*ŸG‚›/≈¸9◊˛$ﬂ˝ö÷÷-15O}áSÒŒ¨÷÷V∂1Y«.ïx÷÷∂÷ëZ¢«≤◊M%ãqQßÌböºm)”Öû∑RÊåz˘k≠˝Ê„ıy=.;ØBñ'ó·“É´Üç,^;/À›979 ùjòå>)πŒWÑ˝Ói…π^\ﬂx≥˛
+%ˇ —ÇÊ‘¯‡«é>728≠Ê¯;˚6ÍÉG“eÄ]=ûöë¯∆◊·Êè—⁄˝æ`ñpÀo=è⁄„ WT(„⁄∑µqOôµ9 NŒ⁄Û%&ˇ …Ù≥G€eº?‚ïZ.óˆÂ|9*ç¨nc_VJJŒKÖ£è©6íÊè4€ÇÂkñZöZŸÔ¬I¢≈˚.˛ÿöèÜñ◊CM*Á·?√-€Cä“/±ŸÈf Oãj⁄hµä’≠≠ld∂Åñ+_.± áÄØv€Öﬁ≠ﬁmø¸ïÎ˝;XÚ•·OU©Vµ|nZÎUî™÷≠ÌÒ≤u*NM∑$q¥€wïñ≤ñ∑≤r„Ø?‡æø≤P?e’˛	˛”ËkkÖÜo|$π	qg:^ŸÃå1 ö⁄ÓŸ.Ì§x.!éxJºAÈ}B≤˚P_9_oﬂm˜Ï€ªB~Ò}ËÊtd„(˚∏úl$„8:sM«•…8JPíø,£'öë&ãˇ ¥ˇ Çw¸@Ò«ÉµÔx7‚ÔÅµﬂ›jÁ¬ﬁ;Ò˜¬ΩPó¬£ƒ:d⁄>∑ˆkèá~,Òﬂâ-Ïıç9˛À©ÿYÈ∑]¥ìœm,÷s@÷8∆QqïπíúΩÓ_y|PÂvk∫≥⁄◊ºß˛!ﬂ`0Xú6Ö≠Ü≈™Qƒ‡pÿÃDUgáö´Köº-
+tg”®™RkeÓπs}£‡_¯(Ô¸ß‚˝ı∂π§~“?≠µo	À|öV£ÒC¬mcHóQ∂ä”QoœÒáHV¢F•g"⁄]Õ°äˆŸd∂öYí'EÂñ„…>Yo7$Ì∑2ÜóΩ⁄ø[ÌkÀÊq'≈˘u
+¥≤Û/´b=ö≠G?Æ”™®‘Á¶Òp5k¶©‘î™√€B–ìî‚”π˜¶ó©i∫˛ôßÎ:.•ßÎZ.±co®Èz∂óuo®ÈzÆõ}
+‹Z_ÿ_Ÿ…-≠Ìç›ºã=Ω’º≤€‹BÈ$NÒ≤=`„8∂õi≠Ôt◊·˛}µ≥Q˘zê≠á´:U£VÖj2µHTåÈ’ß%oéFqí~I´k∞[Èˆ6Vˆ∂vv6v÷Vq≈••≠§0€⁄Enã¥V÷–∆±¡*≈
+E$Q*¢ ãäMœv‰€ﬂY_ÁﬂÔ˚Æ9b±3ùJìØ^U*π:ìùZéu9›‰Á'.iÛª∑Ã‰ﬁÌ;©J‡2o 8laÑ∆03ÄrNdtƒ€—ÙÚ€Tª=ó›Á™ñ7IYª-Ìv“€¶Á√˛(¯„‚ÔàvtüÅû<¯{§x√¡)Ò^√I÷|_¶∑àt-R¯Oog·ÌwOÒÅäº9™Y_GÒˆÊ)ºB∞Îﬁ”<9°âoÙvø÷,Î–ç¬4e8π*éö∫∫ªùÌ≠õ˜#∫I^O‚i#ı?ar¸'c3,5\E‚∂SM¨=IRujfU+8/o™£Å¬¬ﬁÑ%	‚15Ωú+{|Ò„øbo⁄„Wèº¢'«ãØÎﬁ%’æ	~À|7Ò¡zyrÎ˛˝§4˝gMÒ«ÉÆµGN”<o‡ﬂx?ƒø€~’-¥/Èñã&Å·oj∂zÊÜ±Vî#;A>U*¥‹ewÀ*zπ≈¥§„(æfü-û˙5#…‚ì/°ç©∂£ÑXÏÛ-©Ñƒ µWGî~˘„0’™FUÂáƒ·k–ØRïU|5WQ’ó≥tÎCÙB“UIâh‘ôÄIDN¡≥$m#â∞	9ÆF⁄“˙∑ßT∫v∑ÁnÕÍ|5T⁄ÂSö‰î›?zÒ≥ï¶öºï¶„Ôiw÷ˆ0-|\∫≈-¿ë⁄K'¸%>Òœã¶æ˚Fÿm$ª€E[qh+Õ©≈Ò!Kíw¥[x	(êäM{óÍúÚu&◊…∆ÍﬂÕnà«áå∞2≈6îÈ‚pÙn¢Ø(‚©b*{Œ˚SxF‡íˇ ó”NÒåy}Ç≥<@†ˇ÷˛˛(¬jIEøÏÕ˚DŒ Ã!¯Òn]®ªŸºø xÖ∂™pπ]« ûMkC¯‘ÎÌ?˝-ﬂ…Gêv˛⁄ ØÈı¸?ıˇ xøÏúü≥W¡II~¯QÂˆîÈvÊUúÆŸ7Éø§ìWn3˝‚ßÀÚ_°˙?àU‚¸÷˝%Cˇ Q©otõoMú{¶”πÙ:D8=é„úÙÁ8‰„;cπOäïNæ[v¸ﬁ∫ﬂ•ãJ;`ìÙ=Oo@G¶yŒ2?á'&ÔÆü-ø¯kπ ‰›ıV≥ﬁÀEÊ¸∫-{lyˇ ≈ãæ¯BÔ«ø> xW·øÑlù¢}w≈⁄≈¶èksx-ßªãK”#∏î\ÎZ’‹óMßhZD⁄∆§Kùcu24uP£R£Âå[~ZŸyÓí◊w∂⁄jŒÃUòÊµ÷.¡◊≈◊vº)SrPãis‘õj†õJS´(B-≈JjÈÑ¥¸Ø@éKø˛«ü	Æº®G4Ø≈ã∂∫ßáº
+ãmun—_Ë^“o¨ºq‚m;T±äíÎ∫Ø√ùGJùmÁ∏—uñKuÙiÂ⁄/jÌØÿ’Ù›¥’˙hö{¶Øcılõ¬z’jgò…QN“˙æí¨‘_#N¶"pï'(˚ï:4™”ó,gTì¥æ≤ø˝∫?m¿˜_æ6¸L‘<!™$z}◊Ä<7~ˇ >\Ëww?⁄ëi˙œÖ|ãß¯≤ﬁH≠Ìu6©‚µHêﬁjUƒñûï<-ir¡]iw´Ìæ∂æˆR”mugÎY/‰9RU∞Ÿ]S[‚*≈÷ƒ4£m1•:±R›”Ñ·€I=˜∑¡?ÿ+·/√k+ñÔÉ ºç©<Z%Ü°®âöw&oÌùB)µXö=ã|‡≈+™ë"”ö1∑*æ˜◊øÈßOU‘ˆ´fx\#‰¬·ùi∂£6“é∑ﬁ/ﬁWWæâ∑⁄6\ﬂ[¡/¡ˇ Üæjö˛°≠K‚ˇ 
+kÈ≥‹h⁄vÅ©Xx]“oe—Â⁄ﬂQémFÿÛÌÏÃﬂ€h—	`””\}s9«R~ÎßNü$ïısRî]§ìË• πz+Ó⁄ÂÒ≥7ÊŸÑ%ÖØîÂycÀ±îUw
+µsx‹N¨i‚’JtÈ‚i·©™≤TËU≈M∆µi—x_â?iùwˆ~ÊôÒ;·]˜√ÕROàöoá`¯m·›JÛ[‘M¥∑:VõÔ¬˛!÷¸_e¶x ‚⁄«\—á√'‘|+˝ù®Î∂7Z‹6⁄Ω±≤–ﬁÛYT˝¨ï:û“.º‰îz;∏®∑∑§£{®µÀ}\öéY]˚O*Ã÷{ÉƒÂôÇûeä£Go‹Wû+Ñ√a1pk‘ß:UT1±4pxò<µç.|ehaˇ 5OÇˆZ√ Òﬁ˝ö[à·äﬁÆßìº ‡õŒ¨¡'$däVé$ç¬\ﬂïyª€Æ˛øÂoKüL∞Î~gµ∂æ⁄ﬂ{›§˜Êﬂ…≥á’?g´á7c&ÈvºÀK[©iìb,”µøíJ¥óú µøöëg°«≥˚ıÙµÔ∑•óù“î<<∫ZO}U˛Ìl∂Ï˛LË˛˛ƒ~5¯ùÒ·üÖµõC√ﬁ¯ïØG°C„òÙÕGS≤—æ—‚ox*N˙◊E—5kà†õ≈˛.üÑÙﬂÌh¥-˜≈'˛ô™xØ¬ö^•?à¥¸™µN<Úz+¥ùµ≤mØâ%eÏì∫W]è#6≈–…u1∏÷ï5
+µ)¬U(¡‘ˆ4j÷´FµHˇ B∂&t‡ßZTiTù:SÂ‰:˝'ˆ[˝™øf›&À‚√?ã:˜√ΩCƒﬂbÒ•˝˜¬äZøág’tO|i¯ï™hÔ´hW∫&ï¨ˇ ¬¶¸Ò∑ãÏ‚÷5ã;Z˛÷∆¬-FÓ7µx~ •”¥πlöîS÷È|.÷wí∂öﬁ˙_›ÛÍœ!Õ!RÜ&8|LhTßN•,^y*Œ¶©˝Z¨9©Nu14›%:i∏’Rè2Êq˙€·Ø¸èˆ‹˝û> xª¬ˇ ¥è·ﬂ⁄*«B’µ
+j⁄n≥o¶¸0Ò~è©xZÔZ”D:Nø‡oI·ãS˝¢Ó⁄Ï⁄◊Ä<K´ÍqXY[Zœ»I_
+ò*R_ª˝€˜öµ‰ùÌÔ4€}4¥í÷¸≤Mü#õxcëc®/Ïæ|Æ¥I¬t™U≈Q¨Í∫m:–ƒV´RQÇÑ£KÿNÖ;Œr˜Ó•ﬁˇ Ÿ_˛
+£˚˛’˜÷œé/~|L‘Æb≥≤¯cÒv€Oáâ5{…Ó-ll≠º-™≈´jæÒuÓ©ysÂÈZá|E}‚€òböÍ˜√∫tH7yµpïi>fî£ø4{y;∏æ∑µ∫sFÎóÚ\ÔÇsÏâŒ≠\4qò'?Ø`ú™F‚‰˘Ò4Zu∞ÓÉùI∏K ´ SH‡ºW˚˛–~˝®æ!¸f¯	™|;‘>|Y∏èƒ~2¯‚ﬂ¯ß¿öÓë„´Ì/¯∑Yº˛¯e‚ÔÍ˙'ãlPj⁄ØÑ|_ˆ◊û2iºL⁄’ï≈ ≠Øe<m'B4j¬M∆÷˜SäÂ“-ZiÏï⁄ñ˝ØÓ˝ŒQ‚.C>¡‰ô˛ãñ4©∆T‘•Ö•ı7Nû
+¥'U,B©
+4‡™ íÑ›H…∆qïI£ÌOÅˇ 
+¿z+≈©x+¡~úÀiaç‡˝^ÁƒÒÀ°¯n˚Ro€\kZáá<04Õ'J∂æ{Õ·ˆÅ£Z¯c¿◊˜Z§Z©™√®‹\?."ºdÙmË“n<â'£QQm›´)NOöK›˜Ty£Ò|KƒX|∆≥x:µÎ˛Í≠U©ÜÜûñ"> µ,.Öi u™—˜1yÜ2≠\N*îïN∆ùi˚¥ŸGÚ72¸É9Â‹~R †! é‡ú◊*w“Íﬁvˇ ¿uwzu≥ˇ –¯¯∑-Î’≠vVÈø}=[mûT¬F˝ßæ…ˇ ,ó‡è«‰=OÔ«≥/ ÖP›Uésµáœπ…Zï˚ Ùµ[v€˙æÂ„!ÀíTvﬂó}ﬁ√8Â¸Ï˙uºæü¨Oò
+ ˇ◊˛˛(Âü€o∆6>˝ì˛<kZÖ≠’›Ωˇ √Ìc¡…òS4wüƒ~”Ø3«õm>ˇ ƒ∂◊˜€\8±∂π1·¬◊F”F+˘‘∂æê˜ﬂU“/Øﬁ}oeı3>/·¸-4€Yñ;&ˇ sóK˚C∂´˜jûˆ—¯ûà‚ˇ dÖ«Ï¡ÅF2¸*LÂ£\#4˙îÃ»Ä•ú≤Ñ
+´ûæ-ˇ ¥’^qÎÆ÷Ï∂µ˙˛ß’Ò¸˘¯ø8ªΩ´“ä”ó·£J-€˛›æ—”¶áΩjö∂ì†Ë˙ßàu˝R√C–t=6˜Z÷ıΩfÓﬂK“tm#N∂í˚R’umB˙X≠4Ì;N≥Ük´˚À…mÌ¨Ì¢ñ{âbé75ÃÓ˝‘Æ€µµªød≠’€}˚j|á$ÍN4iBUjTößN¢ÁR§¶˘cpIπ……Ú≈%¨¥N[œÔÌüˇ æ“<=/à>˛≈züƒZM®Ëöü«_¿Ô„CºUÜ‹]¸?–P≠˜ƒòemf;MYm¬_È6¶ôeÒ√£∫˙0¥™]_ji›¸ﬁâ]h’§Ì’5cı~¬æ%S≈g”ñì˜·óRîYÎÓ˝bØ=H”å‚Ω˙t˝‰ùΩΩ9ß¸ª®~œæ¯√„_x√ˆ‡¯√‚èx£Q¯eã∆Ò_¸@Ò’›û©«MÒ˜ÏãÒá∆ˇ u?Ü>“<S¢hç•hµUøÄº-£¯«√6˙.Ö´Æè‡9¥[ô|Wl˜ªÛ *°Oñ.sá*ÉÂ˜+Säªpñ≤•Õ'.⁄¶Ìh˝4q∏ºª√πJ¬Qû?ÇXZxæ∆≠LÂX,<Ò•á´(œë‘«„jc=§j∫q©^ú©Œø⁄G‡ÔÏ{üƒ??·î5}KõÕ\‘|E˝ã„=S∆ñ…bæ%›˚ZõP’oı[›∆û#‘∑7!Ïw:\zT%‹~—¢’Ôz0≤¨˝ßµV≥Çéñ˜π:Z.h©j•ÆˆOCÍ∏#ü‚øµV}BT•CÇÜ⁄PÖÔÌ<=HFå%RKâå´™úı#
+“T‹œÆg*>5§A∞Ì2;€ƒ±	%ôWÀs*≤ﬁºéI†Või@k≠ﬁœÆõ€o?;Z ˆøe±˙x…PìqóªÛr∂Ïµíä\◊vΩ£kﬂO{Ï˝K„˝Sƒ:=Ú¯gL±7˙Ωœàtø√¥∂R€I‚nˆÎJ“lZi$áOIÔ/Ì/mÌÆÓ'[XR÷F7p⁄⁄…2eCó⁄∑ÓÚ˚K5kEY∑Ú∫È-Ï›ﬂ)Ûv')x/Ìöµ›<?‘ÍÊÕTÑ’Xa(∆ÍVˆı~Z1©N5!'œ(A≈JqÅ˘%Òã«˛:’!¥◊‡◊¥{Ì-¸-çVŒ ¸Í:º:K¯ Î¿p≈>ãze◊4ÔÏÌCƒSizm’—µ∂ùu¨¨÷ÃﬁKhÊæ;)(ﬂÕ≈I;ÈtÓï∫=˘S=öŸç(TïNQTÒTéRVß*ï∞¥±qíîyú£j•Ãî∑Ê£8Fp|øX¸n¯U¢|c˝£ºY‚ç+≈I•¯{‚7≈_Ÿá√–AßÈØ{<∫Ì	⁄Á«k3[ﬁ˝Ü)ﬁM"{∑“÷â/Ì•≥‘uù3˚ö„£Q”°⁄Úç*Ô{_ÍÛ‰∑M€’€N∂∫>ÜÛâe</Å¬‘√*µrÏèäj•*éí©˛©f+/é~ÏΩõƒ:s≠…)Stíj|Îó·=k·’µÆè7ât-RMSI∏¯>üÓ"ñ⁄Ú$ìOç∑_-Ï^Wï$]N˘5ënè‰¡&üoª2‹7O=‰„⁄j:ıΩ5? ˚vŸ|Gÿˇ i—x∫ÿeï,¬û_	ÛÎZs ©Ên¢NÕ5NR˜#v‚§’¨o?√9<KØiæ—~«·o›¯Î‡ü¬T˛π5”∏ÒØé|+©Èû#‘5B˙4wç¸!™æµl4˜[#‚f±∑∞éŒ'∞â{KGôÍπjNˇ ›ã—Y-‹u⁄ÔñÈnåVqJÜ‚Î∆§Ë˝K3ÕjpM√É™ÁBú©√ﬁuk–ú](≈9MP©%}Tπ	\¯Ô√˜“Î> Òä<#´xÉ√æ!ìN
+ÍöœÖØıèÈrﬁ7âm`æ¥’Ï.Æ4ªèÏ-uf≤äymoµù[_≥›]⁄⁄GKí~Ïπ]ö“QR¥∫o•’Ôk'€˚›8òÂÿ˛l&*û∞∏™)Q∆Pß^ïtúQçZsãØRaxJqÖY8EFOó⁄~7x#·÷É·_Ä> íˆ €Y«ÄOƒØkZUﬁµcyc¨|R‘Ó<q·ù6kWìY”¸9™⁄|;> ï¶—4˘£]WUKùsT÷≠ù≈æt[ú´OÏ˚NHi©È)]%)~Ûùjﬁë“…û^A9ÊXŒ Ã*4∞œ8ñ_óA—√™^√&ßOâƒFTÈ©b%<›Êˇ |Í%Oï8˚'Õ/Õ_|YnÓ£ÛGm aé‚x‚∑∏hÒf5í‚h#)iï‰û&Ç/2VïÜŸv∑„øıˇ Óª=π·]€ÉVogÓ›ı≥ŸkŸI_ô⁄Ìü*¯ü·’ÌôhØÙÈ—AÚöFâ¸íÓ[n7ƒZx∞xe›Ä<¥ŒÕ_UÆ∫Ìˇ ∑'Û]vM£éPjÒúm∑÷/[kœYﬁ€Kô5´∑,\øIdO¯+áÌK˚'.õ·Mw˚E|”‚˚ØÖ<i≠Km„_[Z≠‹PC‡ﬂâ7:Æ¨,ÏåˆJ<7‚õoË÷∫&ói¢¯a<#√Qãéæ
+ùU'ÏÂ¸…h›˜qvNÓ˙ßÃ˙⁄ÁÁúI·ÊUú∫µ∞Yf`ﬂ:ØBïË’mﬁoÜU)“Á©+ÛU£˛—'/iQTkñ_÷7ÏΩ˚[¸˝∞~√„ˇ Çﬁ+èV[h¨ä|!™KxQ‘VÔÏ˙Gç¸1Ì‰∫E‹≥i⁄îZ}¸˛◊Fù{u·≠k\∞ÅÔ…´FTü,’∑ÂjÌ?Ω›˚;ˆ”No¡3ºã1»1èò—t‹πûºÂÖ≈¬*-œVt·Õg%y¡æZëÑ¥ó“x‹AO$ÁÅÇ9 Ä;±€8µ≠ﬁˇ Âm4ÛÎ˜9ÂÔè⁄?·ı¡!q{„ï∏t;M‚ˇ Ÿ¬@†r¬⁄ºõsπT1 ©v≠]›&˜\‘ˇ ÙöøvªÆˆÓtbÁëb&ìîiÊ_5Æ˘y®g)]%Ó©;Fˇ Õ ü/2r˙B∞>\(ˇ–˛˛(Úü˛
+Î‚¥˝ù<5·x5YÏÁÒWƒΩ9ÆÙÎ}§Í˛ÁÜ¸M´j0‹FÚ¿ìZ⁄Í√√óEŒ€|ñˆy¬2◊•ï≈:ÛnﬁÌ)j˙6‚Æ≠≥µœŸº¬¬Ø„±#Nÿ\ì·:äÚÖJ¯ú%%Ï∫∆r¢ÒsZÚNQ⁄LˆoŸßƒzÇˇ c/É3Òn©g¢xc¬≥◊Ç¸O‚]nàltùC%ñ•¨jóF0≈-¨¨mÆ/.LjÓ±ƒ‰lÀK8∆ÓRìJ›ﬁÀÆ€mßKËyºeBæ3çsl.¶#ô:!'*ïyaN+ô••$∑iE]-9Â√ˆ◊ˇ ÇÖ¸T˝∫ımC¿_¸>˝ò¨ı¯Ø4ﬂ@d∑◊~"√•]•÷á¨|N‘≠$pë›iÎ¨Èﬁ≥ùÙV˚%ÃÌ‚=wE—uÀWÖç$ùØ;{ÕÙË‘vKÂ{Ï“N—˝≥Ñ¯'/»)Q≠RúkÊ≤Ñ}∂&Wöß).YC
+•®•yBUcÔ‘QjMB^∆?Ÿx~√Dù_I≤-ìygŒxdëÂâP:«+ƒâ0éÊLøïô<L<≠»’Ÿ ≠Ú[Î˘otº˚m§~ÈF1~Ï[∂çÌw◊OzÌimcÂkûÛ‚/Ñ~¸Zßã>!¯f¯Ìz7é|9qfnÔü¿˛(∞Ω–¸Vﬁ1j˙.°§x„J“oÊ÷|≠Xj˙6ß¢¯í√NΩµæ¥¥[ÁlÍ∆R¶„À=‡”≤ÊãN*JﬂzI4“ç’•{KÕŒ∞∏¨v[ä°óbßÇÃ#_äÖOgc0ı©b0‘±Ö:ä∂
+µZjñ1T•Rü’ßR)À⁄•£Øæ Ÿ¸+¯´„7ƒ>"|/¯}‚/á∫ù˛±‡’∞∫÷ºi‚,ÒﬁËˇ ¸(ãSë”5&˜¬Zr›_kSXi~.Òˇ É¸?s% M™}ÇaUŒqJ3îfíûëçX|TﬁÕYÛ≠9ó,“…πv{<√/¡T°Fû2∆·Ò‘h—«KŸ·®gô|]:˘^"Óñ#öÈb„z0î^à™˝ï®{‘ÔÄ>ÉCµM„O≤‘ı›'ƒ:ˇ √?ﬁi◊F}.Áƒö¢M™¸;Òrkz’€iˆˆöÂÙwˆ¬ˇ √Q√¶›¯g¡œ}mÊ'â5®7Q∏∑y(∏¬¥.µpãÂ≠M≈YªEßg)>yµ”î€öŒµb°à´Ï^ƒ∏*rJXáó`§∞úCñKJ4´TTpïÈ…PÆÍŒ¶aVöíñ•‰üµ≈—a‡Ø\G‚ı’◊É|'„ù]*ﬁﬁ…†¯èõ∆zÉßÇÔWæ	jö≠ü√mO_¯≠©‹çåö›çÿSŸÕ“∑ΩÀneŒ-…ÔJ∫U.ïµè?-4¨Æ£“ÃŒ8uK,;•E<.cö‡´‘©V-ºãâ®SŒ°&´3X<ÆÑ7ˆ?›MFˇ =Ô?hØÄ>Ò®ﬂ4?jQA®˛’⁄~ãéõq„V∫O≈ÔÉñ^¯9•›jfè6õl˛Ò%˜à5˝CA∫{’—¢∂&ÔRæYY,‰íñˆ†˚˚ÙÍ^ßgi(∆6È’¥Óf˘û*ù´ŸFábìåk2Às8b≥Y…Z3ú1T¯*6|≠>i' ¶•È©˚hËOÆ|3ø—>¸t7Ñı_ÿ√ƒû0]K¡æ≥õ˚Gˆoâ¸‚»tK€Ø€∂•kÆ€_È≤¯k˚xÿOsróqOˇ ÙÔl∑S˜ïñøXJÕØ„MMt_ÀÆ∫;%t—¡Ñ»sK
+ÙÈ^ø˙„On≤µ>&Ãh„®CZ7è#•zäÚ‰ó#ãöóªÂÛ˛“v?¡ê|¯ﬂ¶g”çÓS√˛{K€~÷oÒ…nb>'X!Úx`I•G:ÈPÍ‚dM1tât8WW≠]9sÛnΩ∑¥_·˙ø≤ÚWÊªﬂn◊g∞Ú‹_ˆì∆∫qˆKà?µcﬁÚ¬KÖeë⁄	ØèÎ“Æ‡õv£f˘”å}∂Îˆï˝ù|_‚ø¯ªƒZ'≈èxäˇ „?ÌAÒ¬V˙á√øA{¶X¯ì¬•mı!·kmb1™Z¯ÀMö¬8ÏıË¥à†∫’/n,ï≠ÓÍc	®(ªI*xx6ﬁÓ3˝Ûæör[u´∫ˇ &ôP¿a∞ügV42ûÀÎ•6ïZ∏leXÒú†ÂÀ<πQˆsîb™IŒ2QΩ·€xK–>.¯É√?
+|ÒFÒ5èà¥Åˇ 	!±∑—ÌÓ<q‡?¸HÒ?¸/â~&—m‡ü6Õ√ƒˆﬁ(–¸G®jv—:Àƒw⁄\˛M°∑u*>H ß+N>⁄´›s8GŸSR≥”û.-E=_.©ã5ƒÀá«fãSW.!ŒÎÆiSé2æ_áY.OCîõRÃ∞ïp’0Ù]’Zòzè%Hﬁ}üè¸\>*|A÷|S®X‹kﬂºs‚˛–>%–≠ıô¥]w·ü√]Mæ¸¯Y‚ÿ¥(N•‡M~Î\“|E‡?Ì?P‘t»mæ$x7[ÜWH-l¨¢ú\)®ßi(Få%oyTîUJ≥W—≠Tˆ’”ißo{œÀ0Xå≥C/¬÷å1ÿlá∞8®QO„0£O7‚∆å´)Sƒ∆’®„ÁM)√⁄Âx≈5*êúe‚óüm~√•€Î:ò“5O…„ˇ K~∂s>zK¯]·2’5M/˚vmkO‘|‚-SSÓ°ww¶x{∆å0xfYºÆõﬁûwwˆìöÑZ∫Ÿ{ÓZI.V§í—7ß(∏˝u,∆§ÍŸSß^ïlÕeÿ'Iœûq¬S⁄UÎÕSp¢∞ì•ä•JõßJïJÿZxXVU1‘%W∆ü ≠Fè∫ö”V’4{„Ît[x"∂±´¬◊:Vâr—jw◊éßõ-≠∆£∫”N’ÙmcOÒ_ÜµÕKˇ ]\Œ‚‘’Ì•‰¢ﬂ⁄J……++&›ñÍJ“M)$u‡Î”Ã)Œ¢ßRuÒ≥s◊C*T™‚„J4eàúï	VÖL3√b£Y√C·˛Œ∫∂ïr.Ùdí˚K∏Ü+òÓ3»Ç;ç◊Fÿ√¨2ã§H¬˘´B°©p` ⁄∫∑›◊mØvª%÷˝VÇ´Üîo»ÓöΩ¸∑^kµÏÔ÷ﬂk«|;≠|\˝ú¸¶|I¯G‚œ|/¯É·‰≤ªãT—û[Yû ˆm3RãK’Ù˚Ñ∏”|G·m`¶ù-Ôáı˚M_√˙ıØŸ¢’t˝F’Ã-ÑÈ©E∆§T£.è£Ô‰˚Yik≠l„‚f9n1√T¡ÊjXöî£RcwyGïN2wï∞ãΩ*¥˘jSï™SîjF?Øﬂ¯%ˇ ¸?€ã·à-<se†¯o„◊√F_à>ıÆ´c¢jﬁ÷&ª	¯„√ñ˙•Ê´"Xﬂ«g{¢kzjkz≠ﬁìØhÚﬁ^«•È~#ÕΩ«ãä√{)ÆWxJˆ{⁄œﬁO·’ﬁÒ|⁄≠,¨‹øú8◊Ö?’ºt%áu*Âò∆˛≠RwîË’çÂ[V|´û¶æ“åöNtπ’‰ÈNQ˜_èû&∂üÌ?˚jó∑Ü ÀQ¯ÖÒO¡Ú‡∏[ÎØ|4˛ƒ—l&*ííÎ”is*ªGæ{Xö´Oüèä◊Ÿ–ÖEˇ n÷Ñõ{Ìoµ≠Ô∫Pó_Â?⁄‹#‚}(¡Œ¶Ü2Ï÷å¥^œ˚;â2ÃF&zÛkı≠¡{—¯Ùõó-ø°5ÁüéÖ ˇ—˛˛(Ò˛"e{oÄV—¸Àq∆2#t!]©√p&ékq$˜Qo-nVXïa*^Ê9 ˆ2ï˛Ò. üKË˝•˙Ø.è ÷gÙOÄî#5≈∏Ü◊6ñLªÀŸ‘ûiÌ!{∂ú)lÆó4˝ÓNCâ˝™Ô%è˛µ·(a∫í)ıøÖ?≤Ü´˝ïØ!’º}j€R≥/ä˛UÊö◊±]$|»pAâû6P_°.æ˝F˙•Óª|’Ô¯=ëœñ—ˆû,‚Óîï<~kRW\ÒÉ˙•zTÂ∫≥Ñ§öø7∆¢ö¥e/Ê“∆⁄Œ∆ƒÂﬁ/-§ﬂs(ÑBè3bv˚K›±íwÅf∏Úº•_.cO±¢”wÁÛ~]∑ÈÁ{üæGHËïµµ›ø)iªΩÂo∏Ùù·æΩØA·À›>ﬁŸºH5œ¯F#ãY–⁄ˇ ]π–-ıı§_€ê¯“%”⁄Ê”¡:êã≈öÃzœÖ#—t}c˛ˇ ≈‚hsQÊÈgÆóﬁﬁ˜¯uZÍñ∑¯d„ÕWÑ§´∫ííñµ
+UØJi¡b9:”ˇ ®eêu1’L=6´∆UŸ±ûù‡=œ¬∆è‚Õ§¯õ[[I<wﬂUíÌ†–˛+iQi1hˇ ?güàû˛”Öó[ö∆ÔS”eµ÷π·ãﬂËm≠xcE˜ƒù;„◊¡≠EqîØÒﬁ)>I€znÎŸ‘ã’ªË˘≠•‘õè≤íèáâ≠:¸ÙÒI–£
+ÀèÑùL%‘çl≥7¡‚$ÌÏ‹ù*≤≈Fïxa™{:µ*·^QèÑæ•è‚˜¬8º‡-/ƒ◊:Áä5«/á>h–õüxÀ‚áÏ{ÒäÎƒ÷⁄ˇ √ùJÚÁ√v˛∞¯ü˚-¯˛ﬂWÒ?èÓ¸Í?iíÍøtﬂi⁄É~€öÑ˘‰ñäköZi
+ÙÌÀ4ìWß^?ãrÂ—≈7#»°ñfK1∆,5?ezxúLï8Béä2à—˙∂b®√ÎK+‚§±t0Óæ&xx∫5ÂJÆ/zßá¸I„˝_·˝¨z∆∑§¯/Mπ?Ü<9Ø€hk‚Okñ6ˆ⁄˝Ó±‚[{çFüFŒõ·ül˜ÑÌÔÏl4òc0æª‘5In;;&ˆ\ŒIYiŒ≠$ûÆJm m4µwOH°a≤ä4€©6°≠‚±‘iSt‚®OBp«—Sç(∫Ù1ïÎV∆÷£àçKbÎN¢m”°:_¸LOjﬁ&ø∏æ∑}SΩõT‘•÷|k®^¯≥VΩ‘›dûﬁÍ]WWπ‘nmØÓ·M∫⁄ºP‹§»ÜÑßd∂IY%ÚV∑ÂÂn ÷5ù=5N©∆
+0Ö:kó·Ö*t£ngBÑ#∏∆0J(Ú˝?Zπ∑Üy-n‰ëfàyÒ≈Åô›cIîK≥¥1[Öƒ%ƒ•≠ï’ì¶˝]¨≠ÚﬂØù¥±–çbté3Mfçn]†µéSƒ–è˜¨≠•§ñﬂhò» ™&µçÂKÖ<õj/∫æ€Y›hØ“˙=µfıßã•O>Ê9t€yûhm!äS%›®˘.£ñ5∏MBH·µñˆ_Î¢îƒ"íI•ä{àgÃınVŸZ€[VÌ◊d≠˜µkJ?^[$œ§öAî•∞h#YÆ`≥ö˛∆í–^K$´‰aû\∞\K”∆nûºy@SïõÊÂΩˆ_eyÎt⁄Vzy^“:{MZﬂ≈Q\/å≠Ì5¥Ω±∏±}BÓŒ»›˝íUçÖµ§¢%û8$∑il£é£∑ö›Ó-§û⁄ÕÓbSÂÎ˙›K–§„7ÀQ)ß∫jÕÆ…Æé;ß'ÛªrΩ¶xg‚7Ö-.5Ü/µù7P}ﬁÛ¡·ìƒ∂ó∫?áÙÔ#√^”¸@Û7åtØ⁄6â≥hzMÊù·Ô3AÉﬂ-≈ÔÜ4V”góT’¥ª≥€ﬁ—ø]ı◊‚ÙQÂx¬•:Ù˝Ã´Tå$ÌI‘ƒøﬁŒ—ãJ¨ìúUGÕ*ïiNGÆxWˆõ–,ÓÓ„èÜ·◊ãØ<e‚äöﬁâw¶_|K¯ÄÌáÅt´œ≥ŸÍæó¡∫M◊âºM‚Z⁄Ê”¬Zlæ÷<c·G’Â÷õ¡ó∫¶NM%t‘cIK¨ ˇ â;È.y§ïıi®ª(Û≥¬©ñ÷¶®–√™î$∞ò|ì] ÛÀÚÈ⁄YÆ.8πVé/Îπîh·˛ﬁú´Né*ñ*ní«N_s¯¡◊«EX-Ìlºy´À‚k"u≠NÓÀ[∂¯çÒÀ[XR◊fÒ>ª•Îû¯]m™)g÷u/hZﬁ≠kk¨€hphüºB⁄Dß•ÙÇqOM,:∫ÇKVßW…FK[∑*P9©‚Ω´îr˙UpT´œë‘°<èÖ0æ“*TË«˜Ù3Lˆt⁄åiaËb®≈UÑßıúì<W¢¸‘¸A‚}Aì¯{∆6”9gÉUãX“n|uß¯OKkøkïÖéü=ßÄFß-ßá4OÎ∑⁄Nπ®ÍsΩ≈¥Hl¸Oe‡˚uîSˆñÜóìJÍü<îi¬^ÙØ6öoóô/z˜\úﬁî¯ÜûÖIgM`=»OR
+2éW˝£ãÜ)¿‚ÁÌ1
+yµJU£V¥pZç“´*ó†Xåoƒ∂œÅGàÆ¸}„·o¸#?Ÿ7ﬁ◊&Ç˜OáD“¸YÛQΩ«äu+Ÿé°sn.Xç;√∂ZM´€çGQ’4´>}[ƒhd◊ÙVijü2∫}ye¨_M’µ∫ΩµQ–Ì§ÈT√¬ÿòb•Zåq4g~YO^’pıuªöï.H)∂ùI˚Í4Æ©Góˇ Ç0¯ÆÎDˇ ÇâËVö⁄%óƒ/Ñø¸+‚?µ€†πìK∂M?«ñøc˚(≥ÜﬂP]W¡∫wfÜ{UæìÏ©5Í…=E—}9e~Õ;>◊—ı”Æ∑±˘Øä4)U·z≥í˜∞¯¨%j-h„57áîûÆÈ”ƒNÀÏ Õ9lC_∑Oäﬂ∞≈—î≈ˆO⁄∑¿CÀAnÕqÁÎ~å"¨Œ7,c3Haœ0…2≈∂6ö.lΩ^û`ﬁœY˙r´≠R}R˚+~∂πÚ^¬rè„SE/xíQ{⁄•,=Z¥’¨üΩ*J…¡«õ[«õõıJºÉ˘Ë(ˇ“˛˛(Ò?˛‡[¸â‡ÜxÂäñm€UíÁ·ÇUb∏ﬂÅ9;Z%@P8í;ëo<÷Qˇ 1
+⁄˛Ìß◊˛^iÁ_=RgÙó—Ò”‰„8∑VtÚYQîRrR¶Ûg(ﬁÍIN◊≤wj7—2ˇ ¡@ºQq·/¯%gÏ]•>ÿ¸_„ŸG¬∫ÇÚ÷⁄€M6Ø„áxm¢Qo/⁄.¸kßy"[QÏèn—DåQV«VnÓ‹Ì.ﬁÙù∑vµ¸”µä·⁄i¯•ƒu$îñ˚Bß&ñø◊04öé∫Z5¶¥qmGñ[æ_¡OYM‚£}©≠Æ∑ˇ üÜ[N∫Òﬁ°·Ë4mwƒ˛›˛¢÷◊~!µ}˜à|7w‚+=§˜¬˚L–mod—4≠w\”kö]‹˛åÂ≤≤Ê{nìi_ñˆvm=4ìÚ–˝oät)«Ÿ:ıT£BùZí°FµeeáïeR4ÁQ;B.3´'y¬ú˘$œ´Ï¨¥=7C∏–o&öﬂEoi>/’”¿∫Öˆßm´È∫LwöWák_Ÿ¶ÛƒsË˜˙Ïöd:f°iÒ”‡◊å∆ï≠È≤Z¯∂⁄Hæ]€kí˛«kvÙª|´û€Ô*5R”ŒNœFüJø6ÍW≠QÕ˚?iV¨Ë—X»SZæZòûŒ·O⁄¬ÚÊsÀ≥:n§&•BwƒÚF9˜âÍˇ 5	5K˚	[Ë⁄<á]∞Ò=ﬂå<'˛ù•iøº-‚®ﬂ„Ï˘=µßá5œÜê¯ﬂB¥“nuÔ‹Z«·’.$æ–<·´O¸”˛È^Õ›Ë„À&ìpv˜'“n:Æk©YZR|”rı∞ym˝úÒº‡©O©Wº©ó’ßN˘~e˚ ¥ÒS¬K⁄—£^Q˙⁄¶ú*b¶Î„gãÙ/Ö^µ[à ”-ûmB–<ç˜RJÎ4óR›]ôÑÛ\H•^InnÊwÛ\‹2¢µt/Î˙◊Û˚œß£⁄I∂˙ﬂy7y6÷˙∂ﬁÛ[ª7’^,‘SI”“÷yù-û)ƒ≤¥êMΩ„ä1N¬?<ºN“¥Ã™ê¥)˚ê–Iª7ÎÂ•ıÛ◊œ•£m“w˜{¶˘W&âYtÛ“⁄æ‹∫æ∫X˘;√ﬁ±¯âÒ&√¬öüç¥Ôávó÷ﬁ*};≈^"G¢ÿk„√⁄û©·}'W‘öÎI:.õ‚-~=√èÆﬁﬂK§xN_˚wPäm7Oªé|™JQNQãìV—7≥iI€Ø,nÌ≠ﬂ*“Èü=ö‚Ò8L<±l%\uJu0˜°GõõÿTØNû"≤åT™Uxj3≠äˆ¢ÁàpÖA∂î~Ω”ˇ cÄ∞ﬂ¯zÿ˛›?^i∫é´1x~ ⁄--¥oËæ'6ö≠≈˜ƒª=[›cR‘|"?·4∏ûº˜∞œyo·MM%◊Ì¸;œıä©K˝öz4Ø{›9∏›Øgwh•/uÀ≥kNoïügpé!ˇ ©πè&Ω89 ªÊˆsÃ+a'U“é◊ú°Ü•w%¨Qå%*u*Gñú±æ¯;√3kÉ¬ø¥ß¬_âZwÉ5R”J≥≤◊<·m[ƒeøÑd◊¨µã®¯–È7z|öŒâ‚üﬁ…o≠øà-ı]?J’tÌ]—ºe·;ùB„^rQÊ£8sk™mEsµØ∫ù‘yeŸ«~YFG°É‚<√#∆d¶_*ÈU™ÂFæ*éî±µhJ5]*≠Ì!áx|Tbè±≠iTˆ∏\Bè±|x˝è~|0”|&ÖÒ≥√ÛG‚kzÖáâux*˚M¯çç‡w≈_êxGAæOhæ—uËZÉ<?m?ƒ¡®^x˚√É˚y5?xÉN®ßâ©>e*OI%h¬KíÚI©?}…§€ø,l¢Ôd”<¨ìås| Xµâ»´¡—≈aœKZ¿:òú=
+îÒ5ˇ ⁄•å´NùZ∏âOÍò7Nû¨™B4ÍP©WûÿÛ‡¶ì®hqÎ?µÇ.¨µZx^Ó˚¬zá¬M^/Í~;Ò_ÇÙØOooÒ¬;À=t]¡æ2Òuóˆt£√¯ÅW:ºæ÷cµØ¨TjÍÑÓ¢›ööÊjú%»øtΩÎπ≈6¢§·{´ÚK∂<QöU°V•>ÃaZñÆ)QØ∆è÷+QÀp…‡∞ÚéGV.∑∑Øè¿∆SÖ8bqªR.ºhŒèâgøÑ˛.õ‚˛—ûÒE÷±‰¸Iá¬‚áZ'ãÙùDA°LûÒNù®¸mô≠|A∑äÓ ◊m4ôßÒp∏”⁄hÒeÏ¶·úk‘rqt'ß…Ã˘Ï˜JK˜6iµ{ﬂëEÆi∆F¯.%Ã±8©akpŒ;Jü‘>∑?ÌîßF2≠b·8‰≤ÖJU%N3U#…ÇÖ
+Ùñ+áÆü7Õñ∫≠’åwvñ7?fñÚX$ªYoÂ[X-ÏZÛ`Çﬁ(àñ7I‚íˆﬂŸˆO*#qgIˆâÚªFV¯[≥}Îf€÷›7ÛπÏ˙ç¥ùc√∂˙/ã<?¶ÎﬁªåŸ›A¨‹√r≤ﬂE(˝¸ µ:<˛\ò¥ô#ù!6w7zaVIwΩÙÔﬂnûk∑_¬◊é‹Ò©I¬2åíZÍæ(…{øíÑ]ñâ§˙≥ÎD¯œ˙ÛKèÏ≈ß¯˚‚ØÄµHn4¸#∂’÷˛ÔB—µè<∑+„≈Wr«Æª≠SY”uÕcU∏Ω–OÒOâ5çkNº}n‚ÍÎ î¥ìÑ-.dÊ˝◊;Z-˚ÈÀñ J7z≈$î¢ôÛy˝<ü+°˝•åƒe∏EFº±p´èú}çlu,;é≠h{jR«œ*tq0æ÷U%S	B≠˚|-√Ï3Òß¡CF‘l|a•ŸÎ∫|◊û¯≥¶xlYG„e◊º=®^ù+ˆ^îw´‚ù2‚√N÷¨Ìf¯∑‚«>0_é†∫üQóY¯°ßjﬁ“˛%s(∫é3ï⁄ªï.v’ûºÿ∫Œ6¥¨ˇ uvP≤åT=ÈC„)‡±•zX⁄≤´Vî+U≈‰ê«◊î#
+Æúû+é≥˙¥*a%K·.^ È<-L•O	Çé]8‚1Y∆?µdﬂ5üá_R]√ñ:6£´øâ˛'ÈRÿ¯R„¬^÷√÷ZÅæÈ2›ËöÁç5Oâ≥i˛M&ﬂƒzN©<ö±äˇ ƒöÕ hﬁÒ∑ƒtËÖó.ÓÒµ;›‘ö^Ùß+µ¬Ìr¶πR‰Qˆ|‘‡}NT®}M^µeZÑ®e≥ƒ:ÿå”áß9V∆fòäN§)·2Â^¥>™ù>NxhaiPxÃª?Ö?‡ëóœß¡J~⁄⁄ ÒÎ:G∆=>ı–πÚ`∑¯K„›IeRbRóZ4¢L Ÿ*Ç≈ W63˝ﬁoŒ
+˛≥Ç}7ﬂ¢ﬂ[]'‚<S·……&·,ùÓ”yû:kÓª6ù˝Î^.1µ•˝:˛⁄ˆ≥I„øÿ HÉÔèˆ±¯aôcÇi6€ù{Aídi éSö +æY≠·q˚©ean¸ŸuΩûbÌ£¿V≤[≠5∂ÎOâŸl∑çõè«¯?*k)ÒmŒö©¯ÖúJ°≈ITt9c8ﬁ2_∫º´‘QQó±ßUÛ∆<¸ﬂ¶ı„üŒ°@ˇ”˛˛(Úü˛
+ª·›>„·w¬ø›«;I°¸N:¥m2F∫_âº1Æjó∆i†‹m£áÉÙ<Õ4ojÆ»˜8Ü'xΩl°øk^='ˇ nŒ;j∫IÏùókü–GÃMEüq&6tÒ5[5•˘∞X‹$ “vnJ ÍÈﬁ0Á~˜ªÕ˘Èˇ "‘'∂ˇ Ç[˛√ë¬∂P¶´ÒˆeäY/Ù˝6ÓÊ…`¯A„}j	t˚ªç2ÍÔE‘„Ω”ÌcüS¯”µ'≤mKJíy4-OX”oı¢ˇ €±∫“wˇ ¿‚ÆıWŸnÌÈ±Ïp€RÒ7ägÔ∆^À0≤ø⁄ñ?sYÚŒ*…®6·x«Ue#‚øá˙o√üéﬁ—ıÔÅ©¸8¯µ´√öçÌ«¿ùSøÒè¥?L∞øõ«ﬁ(˝î5ükmÒO¿> ¥‘<GÒ#∆≤èƒ_‹¯ÉL‘Á¯ã'√ø4û)◊ƒ€IŒîö©Ô¬s≤©dï€¥UTï£+⁄0´kYIs$è°∆VÃ2l\„öÀÎ¯~1∆éoÏ#G*µ*(`πÌ=8”¿c#/eÑ¿Á∏<?≥©aOáÑË–ú>#Òœã"æ}K√⁄UÆÇû±Ò5˜àg”Ù+YÊ£„à¶}Û«øtﬂxo√ﬁ:¯w·?¯r]ﬁx
+˘lÖ∆°¶h˜⁄∆ãß√¢x;¬~	ÈÑ]Æ˘Æ“VmsEoinú†Ô.i}÷gÿ`0“§©‚+F¨kJï:~Œ¥◊∑ßAZ¨0∏œeV∂â¬US√˝fqjVÑÊîÒpÙ}c⁄˘vÈ$æmõ?ôÉõbí¨äñènüΩëò+¢F”&«J—+y´˝⁄Y?Û€—Yπz—í—%m6kß≠∫t◊ØOµıÔ¬ﬂ¡ar.°/Àìp|Ç}Ï◊Ÿ∑Ãa	2fIã¥∂Ã≈§åÜØÎ˙˛ø6w—ü.∫-WU∑k&Øtª˜‹Íº}‚[»ÁDäÍiPƒ±«µÇ2$ì4ìHÅ¶2<í$b8"ïºÀÑI•à©˝zöUú]íÜˆ›¶ˆªøª’ªÙ]ÌkÀÂ)ÂyØ‚⁄9
+n∏i¥ˇ |ÌÊ£4§cö1πõÕ€,$ª–◊ı˝~áiΩ.ù˜æö&ØmoßOv˛{ñlã\⁄ŒDW"Iå÷–Ï¿7⁄m‰¥∫Gxì	&î]«$wŒ≥Ÿ…∑P≈up∞<JÀ~ø-ÚV“›¥ÍTlıI'¢O¨Tc íñç.Wm:6õwπılﬂl<Oâ$æ¯˚:iÉƒzH“˙_Äµ[Ñ-†¯ß¬∫}ÓâeçÔÙ˝“€≈7ZÁˆûÅ¶ãŸ¸K¢x2ÔPöÏËo~ÀT›Jé›⁄kIEŸÌ∫ãOGu)/vÎó∆•í⁄tÁ,”7ö¶©˚µ1ù9Úb0µÌU*Wîe4®Kf∞¯úL#g8≥¬˛(”<;v.-˛|4◊°Ë$Ë~!“ºS=çı˛ëØ^ÍSÍwv˙7âÙ¥ªπ÷E‰æ◊lØÆ$ˆ°°⁄Z«6ìm©ƒ&V·{˚Û[Ï„•’¨Ø’∑[kØ6»Ì≠ó ´™©„≥
+©ÌöT*Pè$kaßA√œá®È˚[I˚≤˙∆ºﬁœûŒ÷ı˚O¶5áÄ<3‡Ò¢Zœerû’Ωæ≥ÁÍóöà∫’ì\÷¸Ky}w◊+∑ÿn-·M6 ÷ÁÏ"ÂmFÀ‚îÆÔÔn¥J ‹©Æ∫≠ÓÙøΩ”á√ ä®ßZæ/û´©¨:m–µ8RTi:tÈ·≠xB¨kJ%VJI¥£J;[MFKdΩérﬁs9Ñ,≥µΩÕƒ÷@&÷πª[ÑU=‘2…u%“ï·àª≥±nùöz´-lõ’-πT∫ÚÆ≠ªju:cAgiˆ6bˆ—û	πSjfºµπîÀÎç÷˜Ú«n™“ºŒ+∏_…*ZZ÷∫¸˛iu¸7ZE˛…ˇ ≤ßàøhüäöıtøËˆZwå~$¯∂›bπΩ“º=™^Me§¯sO’†ÒWåI‘Fò∫ÃÚ[YiÈ}‚ô4ÌV*ﬂFÒ./</£ú¥Ñom_⁄v÷—Î˜sEªü∆¸aÜ·Ø⁄{òúœÕO.¬Û/zß.µÎ%%?´·‰‘™˚7 |¥È9 •/Èf«C¯+·Ó¥ﬁŒï·O	¯_E‘ı˚Ì?D≥Ìy˝è£áπºæñ•º’ı{´2ﬁ	ı+„®j◊∆|˘Æ§TZ9ßà´yπNråW[^[+Ìf€≤€— ?YÕx∑<¬S«„+„Ò˘é3ÇßVº•SŸ*ıï(∆ç7ÀT©∫“©4Ωù(Í£»õq˛9æ"i˛;¯s‚ªèåøı{õ?∆⁄ùÆ±{î˜öoç4õ˘fç«ˆÖ∞ïµ≠fƒ]»/Ñ:vΩ5≤˝æﬁÁO÷Ñ◊óO(¶∂Oow£Qi•Ÿy⁄¯¨%J0T£Röˆ\‘'ËTÖ
+ê´J<õ4•N-&¥∑]≥~x√J˝•>MØiëhæ–<!c™ﬂxÎ^¯âe®jˇ ˇ gmK∆—ÆÔ|Koscd>5¸}¯Ñ4x√∫Fì¢Íz>±l˛Óï°•¥x{‡4Ê‡Ï˘•)ª{´˜µ‰µÂåÂ›&€ªæ≤m≈ÆjøòÊ2À´8Wé+çÃj∆î)·T'ûq."çÍ˚<#:±…∏g+ç[U©R≠∆r≈T®·QOù|—ˇ Ìøâ?‡™ˇ 5OY¯¶M6«√ˇ Æ5?¯⁄˛”TÒøè<CuÎ‚˙Øè<XÛR”Ù}W\üYåˇ bxz˚S}* +;ˇ xªV> Òwàq≈Û,-G+){´M£Ô¬›Óív¯U˜]<N?ˆ–‡º¬8®—çf∞1ú('Ï®∏f∏ZT€_ºÖF0çOgáUÊç
+	™4ø¶⁄'¡0¯Á‚üÏë•‹4«ß˛–qx≤9‡}≠ˆü|=ÒWéÌbìv ∂π∏∫ZŒùdÛ0»ÓáUR°éz6‹öﬂ˛^’Ö=<Ì'÷6ﬁ˜±˘ØÊÒ…∏g≈,JTÂ<Gº™*¢ì◊:ŒÚÃÆnù£%Ì#C9'.X∆
+rOùB2˚¶º„Ò`†ˇ‘˛˛(Â€É¿Ûxˇ ˆY¯√§Z<1_i~>/∂ö]¡—<yk‚ùJ+VX.
+ﬁﬂË⁄N•¶Z|àk’çÆl’Õ‹x*ûÀNW—∑Ê™E√_$‰ü]Ø“Ò˚œÛ©d\iìbπÁX™µ≤∫Í2åc*y≠
+∏:º÷ã•JΩz5Á}ï.ewè√Ô¯)]Â•ü¸ÎˆíÚﬁ9-«ƒ/Ÿ°Ÿú^Mqhë|Òƒí\Ÿ%åâÆûñœ^BmÔ'hm“ılÆÌ˝
+	}w˙{ ÓﬂÛÒ[O>Ø[/V„˙ﬂ
+®ˇ ƒJ‚π%'N?[J[µö–}Øw∆˝ñ≠J«„ÁÏ≈'Q˝£~9¸5¯Aßg·¯O5È¥Èı´»ÌonÙ≠G“n5≠bÍ8RÈÌÓ5G“,uÙù˚IWQ∏∑∞Ü‚Í∫uZäï)‘Âoñ7≥“˝‚˚&ÂæΩÏÏë˙N{öG$…≥ﬁT=ª¡a˝¥hs8∫“nù(RùEN^ ´]JsPºmw° i˛–ó‡Áçº3¢i∫ú◊⁄'å>¸2¯£§iö•˝•˜â|?kÒ¬ñ>#ì¬ﬁ"û ∆Œ¬MW¬í‹œ¶Ω⁄ÈZ3kzy”5Ë4]:ﬂR˛Õ∞(ÕŒ-¥”åßí—∏NQ∫—µvπ≠vˆº¨Ÿy&6∂gÉùzT™—∆Ê
+™jî™eÿ⁄¯U§ú‹£
+“√∫æ…Œ£†ÊË˚j—Ñ'/(ä⁄h,ŸÌ"éUo.MH-Œ˘L[m”ÓóÌok$Pµ¨”Z,v_köKãπ$πñ8mV◊m˙i”gGwo[+|èm$ñç≠7v¸nªæÍ˛vG}·mzp‚T\:¡-§"MŸWÚ]√∂õÌ-4MÏ∞{S*ñ⁄Qà¬˚¥Zu_’¥}u6ß'~Vπª√§ØÚ€n∂éÊ≥y®›âÆ.æ”)ge∏b≈“]Ô#ù•â|Âç§î+mëŒ»¿vGg˝_◊ËT€µÔ-◊W›-uKÊˆ]≠x˝=q˚%Ÿ√˚Ÿ~ÿz'èg◊.∆è·_x-ÉlﬂƒßÖ“Iı‰‘Ô_Tºªª>∏kw—4{xtﬂ\ÜíÒ	Æ9!˝e·‹>«:ïÏÂ¢Ω’óKªÛ+r€]y>&óIqé'Ök‡cJ¿CÑ«{yπ‚R•J¨„,;£∆Íu”‰Øn|/'57)ƒˆ+èÿ[µÿ√E˜é,|M‚?⁄ˇ ¬Ûxπln¸6æá¿z6è·/¯Ô\∑”xæ¸xúË˙7âoØúYiöÌÚËwP[G4˜∂v±B∆«˝• .0√æ^k©9 ÌE(Ú«óô«´væ´EÉ‚óãÍ‚r˙ò|	‚cÑû&ü¨‘Ã118å%”§∞Ù)·›j¯EÕV¨!Jsú\`œZ¯’˚xo·7√]s‚O√ÔäØÒk√ﬂæ$ø¡ﬂäˇ ÒKÍ~ó¡˛'∞ì˚ÛQªª’u∂±e¶köŒÉ¢J|9¶œõÀxtπuWõPΩ”][©QS©OŸ9¡UßisÛAÎ±´Wiu≥MGFi√{_6ÕpŸNmë<ñægï—Œ2yGlq∏çÕOñ4®J3xjuÎSç˘§©N5)Ríá?-˚A~Œ˝û~'¸>.ª„Õ#ƒv~<éõ‚C‚ªüÕ·Î?⁄kzﬁÉ&˝O÷ıˇ ¥õ(Ïmıu95;+;ôÏ◊K¥ÁÎCÌ£Q˚>WNrá*ï˘öWﬂñ6ﬁﬂ˚€i{\-≈èàyæ!ÂTØîf¨√,]LDÒï(RÖO‚,-áÁîπ#B¨îøô∂è∞tØ¯'ó¡m_√£«∂_∂Äµèi∫úöf±‚Õ?AÖ◊Ü"øë¨c˚Ò¯ïu°i:ÃÜÚÓ¸√5’ƒóv ¿†àß‰yÖ^nO©‘Á≥jÚÁ∑{}]ª/«•Æ§|,º[ŒV5eÚÛ6Ü=—ñ"8Æbñ1–J_Ω˙ª»WI[ZúúØñIIY»Â>ˇ ¡=¨º\û!ø‘~7xcJÜè„]_·«áºb˙d⁄∫¯˜Q”ıK=?J].∆„≈:Nìon”Ì:;[kU∏ì\}[N≥≠å:¨˙U«{>H∆ÑÁQ”U*BÌ{4„võ‰îπï˝Î¬™œ[⁄>∆u‚c ñGás~q_(°õfYl*:k(°VÇ´8‚&∞XåKØAsŒ∫©É√R°A·Í‘ísù3ƒ.?eàV_mˇ gΩ.ƒk>*ãW”¢ª‘ÏkØËﬁ˚4w∑ﬁ/◊%K∏éï†€iWˆWÏ˙´C©_ÎRi~≥ämKR“-µ˛µIa÷!ﬂíJ—éÕ Ì8Ø{WtˆıÂÂG”ÀérJ|%á‚Í≥©Kâ•…C˘aã´åU*Pûú%RjÆ&5h‘äˆ|–‰ˆòâSéìq˛É˛|!?¡Xx¿zdvl∑∫Æ°.…5èÎØigey‚/ﬂÌY5RÍﬁ∆∆Œ&ìm∂õ•XiöèmßËZFï¶⁄|Ìj’+TïI;ﬂD∑J7“)im´››∂œ‰!œ≥#Õ+ÊôÖGVµyr“ßzxl:ï®a®FÌBï8Ÿrµ‘ü5JÆu&Ê~H¡L?j«º‘≠?gﬂ›Y_höN©iÒ:˛”PòhÎ⁄]ÿö«¡rÕcu
+A¶Ë7p¶£‚'ss4z¸mú´ß…°ﬂA®zπvï,D”Rï˝öjˆã∫rJÈ›´®¸:ujM∫xK¡q¡–áÊTZƒ„iTßïaÂOùP¡’RßW”˜£WVñZ6√ß):∞≈Fß‡OŸ;ˆøá‡ΩÛx~˚∆⁄gâæx≥S‘ºY<Ù≠RÒVâÒC¡ßâµ4ã≠W≤¯wæ±yd/rB›ŒïÒ∆>Ü∆€R‘mnxä◊´¨a…VPè#ü#•)8¶˘‚Í^)∏¥Ø+¬±›ôqèBÆybp¯ò˚áßÄ√‘Àk„°Å´ì‚±OF•Xc®b3j’®¬r£V<µÒq≠óe¯•U¬'¡∂GÏÀ≥‡«Ï—{„_√{ã›#‚ƒM_√p¯Û√∑~%πø“>)X¯á·îﬁ/Ò/âb—•∂µ¥äÎ·wâ|A7Çt≠o√ö%ÑzX÷"µÒ∏Ò∆§u-iU©,EX…+GöﬁÍ˜yj8BKﬁqµEÃÔ’4íqˆ≤<˜5«qFyÄ≈··Ïpp∆M%áç‡U÷¶]É¬÷ó"´7ò·£K4á÷õ©ÌbÍa‘0≤£¸≈ˇ äæÇ_¯)¬5úã9_¬_í⁄›–∆˜3¬º◊Â1D"‹≤fﬁ´¢ŒÔX§a)på”çnXzöhú[◊Ks«≠Æµ’Ω<≠v•À‚Jî¯K2îRjp3öæ‘˛øÖM'kÆzé~ÎN:|RGˆçá¥›_[“5ã˚(.Æ|/sw®Ë∑¶˘¥›SQ“'—%º∂?)I§—µ_Nv Éo2„Ê^ó,eΩ'nk=‘_2OÁf∂€Â/ÊJ∏⁄∏l'F£ß{√«-*–√‘u„Nz7Àıà—™≠ozñ≠Ëé˙≤< †ˇ’˛˛(à¢û ö$öë¢ö)QdéX§RíG$mïë$V(Ë¡ïïà ÇvÖ¬rß%89FQ|—î]§úuM=‚”I¶µ[≠èÁo˛S·8˛˛√?≥√T‘‰—<#Ò˜·Å¢ñÚÊŸug√û¯gÒﬂLm]≠mmlnnÙ≠'Q∫HÌ`±]FÆ„≥CknâÎ‡Í9◊©S¨£wßW4ﬂ‚ªi∂∑?|€1´õqFqö’÷∂;Ræ*ﬁÏcâ´ä√U¨îS≤ã´„x∑ËöN“˛</™¯øB◊¥èËïﬂáıˇ j–Í⁄Vø§]œ¶ÎZF´h±‹X‹ÿj0y7öu’¨ªYfµx‹-pÈã◊íMZKôJÈ¶ìVv∫k∑≠”Î≤Q˝Ê•
+XäUp¯äT´–´î™—≠NiUßR*3ßVú˘°8Jå°%(µ)'‹Ù›{]Ò7éuçW≈>2Òß‚ﬂ]√e≠≠xÉP‘µjht˚Ü;P∫ûfïtÕ: :—&sñõkkßYZ√aQZ∏∆1IE(•≤J…√∂ﬂœÃ◊	Ñ√·hS°Ö£KBó2Ö*T·NöRî™MÚ√ï9Œ≠I’úü4ßRsîØ)7.2È-‚ö‚⁄Rç‰Ã®Ï≤D“?î"ï“	bÛD∂Â6ÔÑ,≤Óé`é-/ﬂÒzzÈ~üs—«GmûñÍØ˙∑π~D˙sã{ï±£[\[ìí8Ÿ⁄Î#M”⁄ –B∑1Û†uí$[˝™EgyDµ}ﬂﬂm<óÎÊˆ—›mggnöÍØ{Ì’˘jz≈ıΩî7∞ã{ë®ZÃ7°Ê6ﬁT—A,sma4nn6Û¨•\¨vÕ¥ÑçŸ´i'ù∫Ù€œkÈÍ≠sÙœˆ8±∑¯øˇ ‡˝π˛Æü=ïœÉıÕ„◊ñROt⁄§:~ó·ØZÿX⁄€µˆ°Ùó_/¢x·¨∑:≤Gofolæn#˜x‹-FÏ§•OO˚y_k?‚&ÓÔÎeÀ¯ﬂ˚<≥ƒn
+Œ+ŒP°ä•à €äéíˇ h§¶ˇ ô*ôµ'.nkB.÷ÂQóﬁﬁ0’<;¶¡TdèÑæ‘"]·G¿øhGÖm’ﬂ√7W?˛(˘∂©∫Uk+õüÿx)Àbgñ∆⁄¿—K»º—ªÀÒz:ïîõÍ”ù+ﬂÆíÊVª˘›∏¸~⁄U£ã3ÙÌ_6œÈc%V ıî≥Lñõn_Ö:ˇ \ÑaﬁU]õó1Ê˛=ø≤º˝å‡§∑W;«o˚v¯÷÷T∂˚LŒ∑Zo≈_ÇVñ∂˚ıY£3ò,Ã≤ArˆñëŒÕßEi1YE§?ﬁÚˇ ˚è˛ö™{Y+„ﬂ÷©ˇ ®8Ô“ŸVqø∫ïØ'gÒHÚœ¯+'≈œÑ∂S§yµ¯+•LÚKq^Mﬁ-◊"x@vä	gé+iÊÑMV≥?üŸåàÎlπﬁ5ÙK˜ÔoE›øœØCÈ<$ó¥¿Ò$íäå∏ì&†öÜ¥h+E76£•„yI˘∂πÀüuòÙ¯%Ø≈cOÚ!sÒ™“{1dìcÌÌ}·#7›b9ﬁY£){‰ã6ÇYIÜ`∑8ˇ ‰e˙Ò˛c©ˇ 'è‘íÂ·©^›Sé%[[n›ÙÌ¨]èT˝ñ5òøhﬂŸ«_≥Dóz}∑ƒOπÒˇ √=GÃºìMªç5îº∑∑Ω∏P“X]G‚	o4m]5öÓ€FÒ}ñ•e¶j'Nî2≈/aâßãﬁ%n˚rÈøŸI•m,Ó§‘π8ÊçN„≥ç£Nu≤º€Úû Ñ]•:5®{H>Jì¥∞t)’¢©¬+Î\È‘©ÀZ*_™ø	¸≠¯n=_∆ˇ ?·ª¯«Ò^|G‘ºc®YxZ“ÔA—-Ùç+√›’˛ø'Üº?
+›<∫ΩÁ€5≠gR◊<C˝ù·˚}Z€√Z/ëV¢vÖ>oee'wg&€ï¨Ø-πU¥KÌ9?ÁY§1>√-¿O≤<±‚°ï—∆UßS·_VµLV'ÿ¬ïàƒ9)Zù5t£Jöu$ßZØŒ∑WÌWÏ˜‡ÔÖµ!ÒW«6óPhÒ|€ø
+xq°ªãPÒ´Ÿ«sfM–ñ	4œ
+≈w®iÒ›k?k’-∆≠m·]gJóßÖUÍs;™P~ıˆìÈü≈=Ì4ÊL˚/8-q.mı¨lˆ6YVîÒ\˙Câø57*µ“©åíZa‘iﬁúÒjŒÓßym*\\ﬁ£fÚ	mÛ$.^·ÆØ.Ú‚apÃ˜2En◊qCjé,'ÄE-√ﬁ≠ˇ –|¨∫-4ÚVµæJﬁáı¬ÂI%X§£•®F:$£≈%ß,}’≤µØ/1æÖ¢æÚ÷Ò°2y*Zº≤H–≈˛ö◊R…§˘Ÿí⁄iMƒ≤≈sZœ˘êà.#S˙˛üK≠˚¸å‰ÓñÆ˝$Ó‹S[EÎ úod„&öwπ¿xœƒñëË6óÖÂ[àê+‹ª,Ö¸íÜó ¥´pÄI&‘H%Ü3ΩÓdíñﬂ÷ˇ %˜ŸzÙ2säÉi&‰ﬂ3Ÿ=v“≤Ì˚ÀùÛMπK∏ˇ ÇQ\∆øRoÄ	kÕ/„Æ¡\™| Ò≠Í+dâZ+´[ØöÃ±!Á√å÷ÖWæ±}∂©üöxä¢¯G7ío›x	F˙ˇ Ãﬂ.Ên)∆ˆã∫º¥µ⁄““˛ﬁ4à∂Z,á;ÆJKm‹Wb™dØÀÜU π »ÿÍ¸¸∑ﬁˆÎ˝n&bÁÕZI>eqYYiøWyµ≤€≠ÕZG(Pˇ÷˛˛( †≈?¯.øÄ¸K‚ﬂŸ;·∆ª†È2jzo√œ⁄k·?ã<mpóV∂È¢¯ZÚ√∆>µ‘Áä‚h‰ªÖ¸]„oiùΩÌ‘GWKÈ!ãO≥Ωº¥Ù2È®◊iª9E®˘ ÈÔgmokÌ÷ÁÎ„Ëa∏ñ¶ΩE	cp5haT¥ÖLDj–ƒ:nVó#ï*Z}\Tu∫q˛m¥›$ik4≠sAô4p›˝ß2ÃbÚö	-bÚﬂÏËÓÛ4≥AÂH≠°eä;'˙[oÎ˙˛∑gıe8rÓÙZhº˝^œEßKÈ{öÖ˙€J¯õd∞Œñ˛LìO0VñÊ8ÌÆDBñYàd@‚%ë]à|∂?´_Â˜‹NVªΩìÌ´øßw˝ls:ÕÂ»æÑ¨àc˘ÿÕ∞≥Öa&VÈÑr+K„˜îÜtâæ¸q™≤{ˇ √≠t}˛k“˙ô∑.◊ıÔ˜´ˇ Z¢≤Î⁄åí<ˆç∑Ÿï'1¨
+È"œf“#\œqo5ú·<‘ÅUÆ`ôœ∫vZÈg{ıﬂ¶˙[ÀÀΩ⁄Ê3ÊzÏ≠Æ™ˆ∂ö|˙ﬂOÔnh√©Õ®é7,ÚEŸPÌå`D?~
+É<Åô¸’¬9fyª⁄˙æ∂vønΩ∑ıvWH◊öMjÔﬂ¢˚µ¸˛˚ü≥üEoﬂ≈Ò€‚ß√kŸtˇ ¯FºaqıùCLºÖöŒØ·?hZVî®ì£y±ˇ a¯∑∆yg‹A$*¢g∏ôºÏ…7JúıNl•Ÿ4˝Î(ﬂuSç∑∂ß‰>1a•,ì,«SçX◊¿ÊÙ„‘˘π©SØBºÁ%m"˝æ Ó≠(ÈvÏwz?ƒOˇ ®óƒ˙’≠œÑ—ºw‚/áçs≠Ol∞j¶ùnoÑû{#•º—¡‚ùvﬁƒÈ–\]_˝¶OÈf/'e¬™t‰≤ÿ«V‘M÷±ˆë™ˆ}"›Øm¥N∆åüK¡∫x*Pˆ’ø≤Ÿß,\/ıjôÆ;¨Âv˘]-Wenjí•*pãq=øˆ†àæ˛≈ˇ ∂óá¸yak·ΩW„◊Ì©‚|-∑í˚Kπˇ Ñ≥CÒGè˛¯√OΩí}‚Ò¥„w†x3≈2¥Z”⁄Î∞È)˝≠∑ügÂA™ÿú4†€Tp±çGm§£8µgæ≥V∂˜∫ÿÒ¯cC=„N
+ƒerñ"·0y≠G	“˙æ*é0¬‘•˚’Sñ∂6ÑS•œNjm”ùNI8Ù_R_Ÿü‚ÁƒøË_|#c°OÛ·Ô¡Kÿ¸g®›¯Ç÷ÀQ”bÂ◊ä<M©ﬁYÈóvÚIvñ⁄L∞K∂K€À±ˆª;qa1Kπk^ù>zsìR©[‹“N¸⁄/Ö5{≠SÂ∑VÙF˛qVMï,√*ÃqU(c3Lˇ õÖƒUUgâTpÉûçJp©Ìïöú©+7'(YF~/·S<_JmqÆ]"˛‘¯°n,–,∑(âØ°E6û|ç,-<∫t˚RÂ,ù‰µKd∂ûﬂœﬂ˛fK áÎmuµæˇ EsÎ\ºaÉwN-&ù€µ¶È›Ú⁄˜rVOE.©˚—˜?ÿBOÖzO¬?|kµØÜo5Ö…Ò¬¸_•|8Òüã~$\¯ª]ÒEï˜á`•÷ãß‹O®€Y¯ƒñG_Ω“4=mÙÎFÎOkˇ È	‚Æ0∆*ì©:<Ûn§©∫PÊåi®®Z\ Õ∂‰ùóW™÷ _3‚3<”9Ã∏vÜ:u3,^[à…2Âç√— £Ñßó 8âb’UÃß<rƒ*ú©9’Ñ*SÖzÆï)~õ¸U¯—˚‡œ√˚üâ<◊-Ùm7≥¥”°Ω&œP÷µùP1“t: Û ùıK¿í\K∆´ßi÷◊˙Œ¢÷⁄Fõ{oÊ“£:≥T`ΩÊ€o[F+w+Ge‰‰€˜mv~3í÷eüf‘≤L;‚eR£≠U∆s°Ü°Bˇ X≈Vù/iz4î^¥‘Â9∫taV¨b8˛'«Òó‚ª„˝@€]Íz€ƒŸ≥íi÷`YXÈÚŸÏπuµ∂¥∂_±ÏûÓ„»ä‘MxuI$û„È©SÖ*qßh≈[[]Ω‹üõmæøuîµ≤Ló.·¸ßîe—jÜ
+ö§ß+*ï™NÚ≠à´$ΩÍµ™π’õ⁄Ú‰á%8¬˘ªP“õLπ#TÇˆ◊Hù§∏≤yÌ„∑{ãGù¥πj∫uπæ±ò<`ZnåI⁄èŸ¶µ)˛◊ıˇ z2KT˚⁄Õ/ñ∑Û[/;Ù8&ö…∂ãÀ+˘TÀû›KƒÿvÛk{µ'ù∞ ç§≤h”…{m[Z[ã∑Ki¢È¯tæÀØ⁄∑ΩÛØ≈xÿÈ“I∆Êh‚¬$GpVI',õ›Ûó
+§oQ(˝‡X∞õ”vWﬁ›?´ÌÈ˜úï“I :´ﬂ‰¥ﬁÔkˇ /ïû¨˜Ô¯#«ÖºI‚?¯(˜¡›'Jæ‘4ÔËø|G‚ÎªeÕ∂â·ÎèÖ˛'\Z¶§Ï»…hﬁ%ÒoÜ4XÆ¥µù98ìt…¡èï∞“ÊvrqQV›ÛFZm{%Æõ--sÛ/Òòz!òBµUNÆ&xJJw˜™Wé*Ü"J›Ω©Pú•}c•‰·	rÄ    :{s¸ˇ :˘Û˘1ªÍı~b–@ˇ◊˛˛( †_xGÒgáµœ¯Ü∆=OAÒì®hz÷ù3Jë_iZµ§∂:Ö§è«:%≈§ÛDœë ™‰«"8N-≈©EŸ¶ök£[3|.&æCÜ©*8å5ZuËUè≈Nµ))”öæóå‚öæùÙπ¸q˛’_≤ç˛|t◊~ŸIß\ZÎp_xì·•‚-wI”e¯É‡Áø∂µ¥¥”ÔÂáM”GétÀªÿÙçgG∫›Î6¶}"“}+V–€R˙l6!W§ß¥ñì]öÍ∑∫Î{Ì¶≠3˚;Ñ8∑≈%<|Ü2ÇÖÀeKíRù8´…·™F’ÈÕ§î$È¸T™Ú|∏û5∏«m$˘1ÑçÂŸQë4úÂ•F‚ch±˘(¨`ù^^ã_∫Ù”Û∫ı∫◊Œ»˙•~÷j€ﬂ˛5∂´O25”‹*€∂|ÿ‰í[‘ï£.ÇÊîöVåÓí7&H>KÉ3ÑoA%ÚÚ”EﬂO-µzÌh˝°Î÷ﬁü”Vı_~•´Õ>“xT=≈®ºùÂüu„[€⁄€‹I)À›À$©l2$≥Gb≤5Iùû›]ªøÚ˚≠Î◊Ô”ñπSÍùÓıÓ›¸ïﬂ‡˚⁄¬xx€ŸÍ¿ÛºN≤®Gâ™ﬂ$rç<©π∆ÊD∂ÅXﬂ˜§ódßõ˝:Î~û[ÚŸ)8h’ÌÚ€ÀΩæOÀ[ùåZ†∂π˚Fìq$p∆˚Nøí“ÊŸ$ë`ê)ÖDÚôaí;!˚LqAô"í‹õzOFìÚz˛◊‹*∞•U8Tß
+±n/ñiN≠Æ•t⁄ªI⁄Î•ˆ=¡˛Ò«ƒˇ Ë>Âï˜âıÔ\≈e§€ÿ§⁄‘˜ì[È∑>$Ω∑ÈÚj:ç‘˙NÖgw™Íñ6°ißZÍ2mi≠í	Túa)5≠z$∂Jˆ∑[Y_—_ﬁåN#	Å√Kç≠á¬a)EFxäÚç58≈®¬ü<ÌMæi∆0ß9'8´{–åˇ ]¸ˇ ª¯ÔÒ7M”oæ5|Q‘<:ˆæ˛»—Ï<A‚-W«û"}≈ù∆úlÙÎm>¬ÓœEM1g#-ñè„…mV5à€yWWFm+ÇXÏ<ï89=.„jkˇ nónö˘ﬁÒ¸∑‚á	ÂR≠ó[)À⁄∫∏Zt∞Zµ]‹ùIµCíõø4∞ØV⁄ÊMN>ó®ˇ ¡2?hk:>ë˚Sèâ4ô"≥–5[/¯D◊.\Ãè·Õ^Ú¸EõH˝ÂµÕÃ7wqi⁄ÏFÈo'ÜßÜ⁄ﬂfKAΩhZWªj“zãó™Ÿ|≠§•‰·ºT·ŸTÖ\W™U}≤î´QX<MH«ﬁü∂U+SßQ’ˆäÏ#EJrçT„/ô”ˆ˝•m5€/á4∏ÒÜ~Ëﬁn∑„OhO?âº3q·[8ıœj^–¸2ö¶•„ØAs
+Ëæ≤’º·?Îˆ£ß^«·Õ.⁄Ò4nßã†‡ÁùOÜ1iF|“µìo·ZÍ€i%•œ¥´«º5S/ûgñT°âÕ™(a0ÿ:¥·Ñ«Jæ!®—√◊≠SJ49ü=ZÚ´Ï£NúÁ•S¡_≠|I‚KÔåZ=Üß‡/ÿ„ˆmÑ¸"¯3_@ÒÜπ•?∆k∂Áƒ∂¯Ç⁄f¶ñ⁄⁄Î@Èø?h+Ô_k©®ÈÈ°xoS“~)O™jó”Â*OJWRƒU~“•O˘˜º£{ÚÚØríQÍ‰˘Z¥|jŸ%NjY,]ogïcûg\™ØˆVñxå¥è6·È9‡rz1^÷Ó¶.O*ß ⁄∂≠¨¯Î≈˛+Òà<C¨Îæ/¯ãÆIÆÎ˜Zñ£wx/µ	Êó˚>xëˇ ≤√√˙M‘Z'Üm#TµÆå_F“l¨¥´K&ÓÖ8”äåîUóíÌÛ›˜zΩQ˙é]î‡r‹.Å°Nç%á√√ñÚÖ>ng6€nr˝ÌY7zï•*ìº€ú˙≠LäÆı3I¨s4	-ÊÊKyÁ˝À¨vP%ªœª{ÿdñŒ$âbãÃft{z“⁄_Œﬂ÷ÔÓ_~á´Z7w≤æüó‚∫m∂∂N=5ﬁô£^ﬂ/I¢ÜW‘Unƒb+π°Å-÷⁄≈Êsr™À√z{€2<kg}qs•?¯=_e’Ù÷≈5Æ©˜˚˙Eæû]”z3Êü√ic<±Z}ûSÂ…(ù•ïöK+X÷6Üo/%ÇxÌ÷Ã™mÁôn.c∏V'â_÷ﬂó‹qÕ$’Æ€∫æ´¶ˆW∫◊ØM[5x·5=H[XŸXÀ|¶TÖ^⁄íÈß∏≤≈KQ<˜+à†Ç2fwç≠nå*'¢}õæ…w~´}mÍÆŸ¡]⁄ùK 0Ö8 S®‰†°s9IµhÚ≠n‰ÌkŸ'$ZK?ÿÑ˛»_$’¸mß√«ãﬂŸæ"¯éÓÊÒ|5¶⁄Gt˛¯ÁKÓ<;m©^›¯öÁO¥ÕÁäµMR»Í˙˛â°¯jˆõ∆b>±SO·√›ÇË˚À£◊•÷…l xÖ≈øÎ>n„Öì˛…ÀπË`N¨˘≠W»Ó„Ì˘cJRn8xR∫çITÑP+ê¯ †Ä?ˇ–˛˛( †Ä>K˝∞ˇ doáˇ µ˜¬˜_äW˚≈ûû]s·üƒ+A÷¸‚pëÉ,,Øﬂx{[él<U·ÈﬂÏzΩä[]¿l|C£x{\“7√◊ñß:W[J;)/√U—Óû◊ªG”ü„xW5•òaπ™—vßå¡πÚ”≈aﬁÒz5
+î€Á£U.js⁄ïHO˘"Ò◊¬?àü	˛#xó¬ˇ º3-Ôé|9™G'âÏfº∫˚6πu®›Gqo¨[ÍÇÿ≈©iû/πí'≤æ7⁄„øsPj◊•ø—¬§+SRÑïßfù¨ﬁ˜Íö{ÈÁÆáˆ&_ö`8á)Ü7éè∞∆·ÍBùhOí≠Æõˆæ—^5©b(‘pÁå≠8J^ÂIB)∆˛©‚ÔÉ_éxÇ∆OŸˇ √∫±vö3h"—~$|Lµ◊t+€+/
+G}wm©¯£\÷•µq£¯èSº—·ù∑ŸÏ|]oÖ≠iÉ√ÈuØJßRÎ˜ÚíI´5=“ªQΩ”kVÓ‹Z|‹…«íûWò«FKâ1òä4·(NçZ9j•8JxàSs´á£G∂•)Qä©*ú’gÖ©íöÆ„C'«øˇ fÌ[¡Ô•¯kˆrΩªk£œ•≈‚+èé˛(ÒMıÆ°r<={§xài⁄ûám¢‹\iëË◊÷Æòa≥∞‘€∆z˝ƒv:5ƒã√*1©u'[ôh˘}úä.È4”÷È›]´+J◊aá¡Á≠
+ı¯É€“ó≤úøŸ∏8)AQ´:¥£RùH8B§™Rü÷))÷•Xx*íß<TÒ.ÿ¢…"õïΩ˛Ãk©•Û≠Âπ∂∂öﬁ3qmÅr∫m·ÖöÈÕ•±{@ˆ∑ËÕ9ö∂ºuª][◊∑ñ˚?ö€F{.∂ú%ZöjS|û÷<È[ù+]KiEÔi)'∆Q6|>“¯á^ˇ É|;ˆ≠‚èÎ˙Öº1†[5∫^k:ˇ âØÌ¥MNÇÍÊ˙(£üPöıl÷ ÒI<ìmöF`… ⁄åd˘íI9_MÔMº˙ﬂKŸ1V≈P√–≠â≠V®·ÈŒµZí~Ì:T„)Œ¨û 
+0îÆÆ•x∂ù£˝í˛≈ˇ ≤GÜøeÖ/Ü‰MZ¯ô}fnº„{-íj≠˚√ww£iw6–Ík·}&h-ÏÙ¯n´j& =fÓ¬ Ó‡ŸZ¯5Ò=[Qçπa≠ï∂ìWküWw∫Ÿﬁ…À˘Oã∏≥≈8˘’r´G,¢‘08m9“å)∫úò™¥˘ù7å≠≤ujr©Såñ2ù*Pëˆ	Ò–„∂}zﬂó9Í∏˘π'⁄ÀΩ˙}Ô˙¸Oì∑„´˛∫Ô˝\9ÈŒO”®<˙\ºg$”èÚΩ˜◊]6ˇ 14ùÆì≥∫∫ΩüuÊFÒ´Â[êq¿%`≤∫∞eìu–∆È˜ï√a©⁄œKZ›¥Ω˚i”œÀB¢‹q≤iß¨SZwãMJÍÍœF¥m]∏˛¡Dæ¯öﬂ‚◊¬{KkÔxw¿^(’W√öx√ﬁ—¸G„ˇ ﬁkˇ ¸S‚È4˝.HªÒ/à5;OxøƒvÌ°©œz‰ñ77z{Hû÷
+t˝åÂfÍFÓ¢ﬁrI{ä;Àóïr∆<“≥Ì{“ûÊYZ·ú~.ï,ML”ÕW7¶úÒX‹E:™}FñX’´Aa(KÑ¬˚[RØuGüòÒ}kˆ5Ò/√œO‚Îüãˇ ≥ÁàÓÌuøÈ∂ˆ~¯ü6°4w~-Ò&ì·k≤˙óá4ÎH£µπ’„º’oÆn,mÏ,æ€©Õv©bﬂh⁄∫síè≤ƒGF€ï;%e}Zúõn÷J*ÌŸ+ﬂî˙´ƒ,≥0∆S¬G#‚º-I«Q÷∆e>ÀJz1Êî18™ìõçRßJï÷≠VT©R•R≠U=;ˆk¯•y´YùX\˙F∂…ß≈´€Îèˆ&µ®]¯ã√:ó¶À}98<EuØi∫æÉ-˚ÏÒ/á¥ªˇ h”ÎﬁµoÍö<M4õ¥’Æ⁄Âï◊,[ìÓÏîØ¶è›“Lˆ*qÜYN* é`πzï©}Vß∂ç:z’Î’t¶‹•Nå(NU%(—ƒ∏`Î{<d„@Ò€ÅºaW:¸#è¶jÚ¯]t›>Á∆:åm„oËû–ÔÙË&æÅı´?¯Hµ˝'F÷¸O°⁄_¯s@÷W∂´©È>4èât-∫Ù”wÊVÊ˚k›ãì’&æ⁄RI…Y∆-J&µxü+•VΩ:”ƒ”ˆƒ{F8π¬?V¬U∆’Rù*5cJká≠Zï
+çV≈SÂ´ÜßVù|<ÍÒüˇ fÔåﬂ≈¸æ/–ÏÆ.ˇ ≥¸OÆ⁄⁄hì/àZÔBciç‚}V“/Cskcg·õ}I÷5yÆ%∞Œõv˙ØŸ‚“‚ö‚‹çzS∑,ûÆ⁄∆Q◊dµKV”KªVªvR«/‚åõ1pX|UF•:tˇ áƒ·R©Zu)—Ñæ≥FìR≠RîÈQM⁄≠h˚*rug¢?K?ÿ/[ã]ˇ Ü´¯Ò°‰í[øÅæ’Ì¬Õm1<É‚vª¶\B≠ˆŸß∏i|	˝°ÊM
+«ã‡Åeè¬:ùøïè≈ﬁÙ)JÍˇ ºî^ˇ ‹Onæ˝∑ø-›•Ò¯˛û'Ü≤LO5>gK4∆a™æY≈E∆y}*∞j3Éï÷6Pî£8ˇ ≤π8<E˜¸ †  ÄÁ¸˙◊í~-  Pˇ—˛˛( †Ä
+ Ûèà_¨¸y•‹iÈ´Í~ªΩ}"-GY–≠<?u}™Ë∫mÙ◊xoU∂Ò.ãØh˙¶âo}™⁄=¶•¶]ã!™^^iﬂeΩs;i
+é;)%vìΩìj◊∫÷ÍÀk_guÓûÆWö‘À+∆™£K*Œ41∑≤çJ¥˘=¥=ÖZaR.0ìtÎC⁄(*u9†Â	~H˛”æ¸	Òë‡ﬂç˛˝§Bh∫Â¶ß·MfÛ¿ﬂ 5ÔkWﬁ◊º3‚X|M‡m{Rº∑k¥ó\–ÙoLóQ⁄k¢˙“#‚›'M’ÓµjÙË¬•X9“ïÕ§íïH…^-r…YªŸªY•’jîO€x[-Õ≥ºl√!≈Ù'âµ<^û;5√‚®Jt±xhaÒtî\©ÀÍ’k{)B£•i)·ß%BÑ·‚Vˇ PﬂŸlﬁ≥^À˚S√®j∂&Œ´o˛Œ†Àm®[Oh±ﬂ_ã®¢ƒ∂⁄•˝Ù≤·≠Ì-#’5	l¢[[]>´àM4®=SwÁÂ”]¨ó•€çˆ∂á±>‚ s°*t∏VI◊çiFµL√ÿﬁ6≠'/›∏Û*éúy}üµ∫äåîø+-ø‡°∂W√Ωi∫Gƒ˚√ˆ⁄è€¥›>¸#mN≤‘.m/ÔÏ4µ_≈átï∏≥”÷ﬂ√˙l∂zfü9Ü⁄Ã@åùr√PköTÓ“I59Îm#wÃ‹öÎ)kÆ∑∑)˜XÆ·ºL÷'ó{i”•GœıÏ|úÈ·£*tjê≈√€÷Ñ&˘´VÁƒ;⁄•k¬2?@‡ñø≥œ∆ü⁄ˆÑ◊?‡†øµ.õ}p⁄áÙç‡¸˙ˇ Ötøøçº@æ±§?,4ç6€F≥É¸ß€h>’$‰ñæ$‘ıÔÌÕ3X}C¬2\\qc*Bï?aKNkπ®ªÚ¶˘•˘§˝˘6›€¥t¯\OÕ¸AÕ≤¸ü*á
+dÆ4^&•LF>kŒ∑’ËWƒT≈’√’ú™‘î*cqS©9—®‹°á\≤•=|4Â˝ˇ „ÿ˚w«#Ç∆WíöÊN÷_üœ˛∑[GÒ?O¡XvFz.sêO∑~«Åú÷çÆÆﬂ;_◊p 29?RsåûÄtøO^ºÄ•¨ùºﬂ{∞úıÁÄr:gÛåpz}≤7eÕ-∫ˆ∞˚B|—~:¸5÷|´ƒÓ◊<÷ƒNn’Ü/Ê±‘ZŒπé÷ÔŒé÷‡√{ec<ê\Cñ˜x\C°QIÌ/viÈ¶ÈÙΩõMk÷KCÎ¯+â™p∆q[|ÿ,L~≠òSw÷ÜíU! s£+Jù§•.j‘’H©5ƒ€xÛAãƒ	¯ˇ ØÎ^6Om§¯Xº¯k¢xõDÒ[Ë~
+–¥ªO¯∂m_¡ﬂ.‚ºπÒO√_É:›≈ıØá|Ac{•Èæ-∫’%Ò∂∑i•ÏJímJíRåµ˛$£ºõn6îV”´eÌ,ü+V⁄_–8¸Çq|vEN8∫…{jÆû#
+‘±Ÿ÷û#<63ÀGõTÖ‚ËBùhaaE“‰µQÒG∆?Üzﬁø≠üÍ˛ía/ƒi2^~œ˙ıì_x3Pæ–4˝
+«WõD–¨|E°MØh:∑äßÒä<7©i>(÷•·+œ¯2Ú+˚ÔxÜ—åm	ﬂ›ñïe&öªvª¥¨˘U•ÓŒ2≥i¶„¡K"œT∞Íé1r¶πÕgı´UßäßD™rCWá≈∫5ù
+kãp¬chWú+÷^∆Xºè¬?éﬂÓ<W„Jˇ W¯5·˚?É#∞Áéˇ d=Vmv„]º’<y¢xÇ”@”|‚…5ZÀRº“,ºO¶ù[ZÒD∫äx√Meµ÷âÆx{R—ó:¥j∏”“Ø∏™6„âQV˜lÂ)Gï›7∑-öîù‹î£·g‹;ü‘¬ÂÈ·≥»<÷U´·∏∫éúpÜ•
+ÿ¨^7Ïy™©b)œíñ’0’ÒÈUñ*5O”_~Œ>ÒT:Oâ>)|2¯©[€µÓ°·]'B¯7Äu+(ÓÆnÌÏıA‚_Î˜‡Î
+Èw˜û’4M*ÁA’Ãpj¬ÛR—ÌÀÀ©^Qº)‘≠˝Á*‹˜—]+F*…›s&˘í∫¥[Ê¸[6‚|N€`rúœ>\˛Œö¯¨˝f4ﬂÓ)˚l6Í¯Z\h◊ïj\ßV¥qtb•E“£V¢üÿ¿ 0¯Ú}:û«≠rü	˝}¬–@ ˇ“˛˛( †Ä
+ (Ä¯ëØ·◊≈ˇ …·âﬁ–<o·◊∫ä˛=7ƒuΩ¸vzî‹[€j∫d“°π“µ{H.Æ¢≥’ÙŸmu+HÓÆRﬁÍ1<•Ó'NJPìåóU€≥[4˙ßt˛ÁC,Õ≥õnYã≠Éƒ”M*¥•nh=eN§·Vî⁄\Ù™©”ü*RÑ≠Ó¸´ßˇ ¡;dükó∫ˆùO¡⁄î6ñ6–x{^”muÌJñŒ]IÊø”-µòo.ÁPÇ˙ﬁ Ú	ØÆ4¯¨tmﬂK”tÛ”›u}k9€≠„©>…µ”~óÓ‰˛πˇ à•≈’—¬÷Õ}åîπû/Ö¬—ƒ‘VQP©Vùπcma;∑RSiHÏ¸3˚+~Õ˛k¯G~¸/“Á“5um2c‡ΩÊÔO’&yó÷ó7÷óWPﬁ?Ÿmœ⁄“dh#dt*¶≥ñ+?˘{Q&∂Nﬂ˙M∂>ÔKG:¸g≈8ƒ‘Û¸∆Qî\hVT]›’7y+ÛI5)¶‘öOî˜l`a@E / Ä¿d {}œÕŒ€zøK˜ÎØüﬂ›Ôh¸’€’∂€m∂˜m∂€z+∂ﬁÆ…Ωﬂ3rë p:Éün?£AÈûM5kk};[◊ØØü‚îAO∏ÁgÎÔœ–`{‰U/‚“⁄´kø˛Â’˙ ëÅÅËO”üÁ…Óä˙%{[Nüv∑∑„Û–ã+3ú´aÜ
+ûú0<=Œ@‰0\⁄I››ßw∫¸,ıﬁ˚«ÁgÃÏ÷ØÆﬂ•¯''`x cúÁ=à;∏»Ôé=:,ı∫Z]i˝7˘˝¬8_¸5¯{‚Ÿæ—‚ox[]πÛ¶ÎR–ÙÎ´÷vk&˚∑Ä\»≤ç/MY„yås%ÖíJ≤-≠∫≈¥1ÈØrsÇ€I;z[U˜ﬂ}/c⁄À∏ã> b„ñÊ˘Ü>œññ*∑"ÖÔ»© §©≠]Ó£Ãõ∫ìm»ÛøcoŸ„Q∫ûÏ|%–£§“/⁄ıÎm40≤µ∞So¶¡´«ß [[(QR5EõÌ$%’Ì‰ÛÌı¸JJ’w›8A€—∏ª˙6ª-õ=ï‚ó·aÀ˙u˛	‡≤Í“”˘ßW	QÏÔÔ=6Wµœ\OÏÛk·ˆ©ßkﬁ¯{·ªiÛ⁄È:Îÿ-ˆ≠§Cu÷∑â£ÍîóóöW€ÌÆn`ø{‚ö˛â„Ωñdïë≤´äØYr‘®‹ïr≈>∫®®ﬁÕ+]iæös|Œ{«<Oƒt#ÜÕsJµp±íó’©S°Ü£7ÕZZ4!¬IJ’J4⁄Nåµè¥ˇ üÛ”˘~UŒ|êP@  Pˇ”˛˛( †Ä
+ ( †Ä!öﬁ	∆&ç_Ç2GÃÎµ∫å˚}Úh.'ÇN7ﬁŒﬂ~èÚ˚ÆeÀ¢¬‹≈#«ŒJëÊ9¿20<ı.ﬁÑ
+ªﬂÂˇ Ú¸HıCQ|qS^Vã¸$Ô˝j¨—E¥ãïhç∆ÏÄ0´”ﬂØqåµ)Yhˇ ¯ÎµÓn±¥ö÷3Oµì_'Ì5˚¢quO¯G¡⁄˛ø· Î?ºG¶ÈZçÊç‡≠S–tùCƒ:Ö•Ö’›Æó´Øﬂÿi<ÿ¡s{pê•’’∏ód-$—kªJqß≠ÛK‰ó,n¸æ˚Y)zylr¸v*4qôù∑fÍ‚™—ƒUÂ≥äå)“£:ìõvWî ínR≤±»|.Ò≈ø‹xèM¯ü™œ¿óö]›ªhzøÜ¸U/ã¸#‚≠*ÛL”5>õ®k>?ä¥Î˝:]AÙÕV«ƒﬁÈ]B“Ó*MV[ã UcIF.ùG.ÒîZi¶◊˜ï≠Ø∫Â£WJÍ'fgK"√·µ≤Ã‚xπÕ:xú':ú4·)«ôŒúÒ8Z¥Ê†ßcã´%	¡OïªGÿÜóxƒÊLˇ »á¸≥g'◊Óå{ı¨ÔlüÎ˘?Ω}«ÑÒtRvnMtQjˇ |◊‚æÌK1Ëépeò/?2∆åxÁÖv∆Nv{ıU~ÀNÕ˛{˘uÈ‘ X‰üπN˝úùµÛçÂ≥›]‹”áK≥ÄÓXÉæ1æOù±úèîùÄÉéQWÓéòﬁ≥Î˙˛æ„ñxö”ﬁm+ﬂñ:/ŒÔ—È¶⁄&_Á”Á††¿Z ( †Ä
+ ( †ˇ‘˛˛( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä?ˇ’˛˛( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä?ˇŸ
+endstream
+endobj
+27 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 180
+/Height 180
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 1823
+/Filter /DCTDecode
+>>
+stream
+ˇÿˇ‡ JFIF   H H  ˇ· LExif  MM *    ái            †       †       ¥†       ¥    ˇÌ 8Photoshop 3.0 8BIM      8BIM%     ‘åŸè ≤ÈÄ	òÏ¯B~ˇ¿  ¥ ¥ ˇƒ           	
+ˇƒ µ   } !1AQa"q2Åë°#B±¡R—$3brÇ	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇƒ        	
+ˇƒ µ  w !1AQaq"2ÅBë°±¡	#3Rbr—
+$4·%Ò&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÇÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄‚„‰ÂÊÁËÈÍÚÛÙıˆ˜¯˘˙ˇ€ C ˇ€ Cˇ›  ˇ⁄   ? ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ–ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ—ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ“ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ”ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ‘ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ’ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ÷ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ◊ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ–ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ—ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ“ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ”ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ‘ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ’ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ÷ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ◊ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ–ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ—ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ“ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ”ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ‘ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇ’ˇ ?˙ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †Ä
+ ( †ˇŸ
+endstream
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+/I0 25 0 R
+/I1 26 0 R
+/I2 27 0 R
+>>
+>>
+endobj
+28 0 obj
+<<
+/Producer (jsPDF 1.5.3)
+/CreationDate (D:20250529121657+02'00')
+>>
+endobj
+29 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000106118 00000 n 
+0000151861 00000 n 
+0000000015 00000 n 
+0000000124 00000 n 
+0000007679 00000 n 
+0000007788 00000 n 
+0000080721 00000 n 
+0000080830 00000 n 
+0000101537 00000 n 
+0000101647 00000 n 
+0000106193 00000 n 
+0000106319 00000 n 
+0000106450 00000 n 
+0000106584 00000 n 
+0000106722 00000 n 
+0000106846 00000 n 
+0000106975 00000 n 
+0000107107 00000 n 
+0000107243 00000 n 
+0000107371 00000 n 
+0000107498 00000 n 
+0000107627 00000 n 
+0000107760 00000 n 
+0000107862 00000 n 
+0000107958 00000 n 
+0000109996 00000 n 
+0000149869 00000 n 
+0000152147 00000 n 
+0000152233 00000 n 
+trailer
+<<
+/Size 30
+/Root 29 0 R
+/Info 28 0 R
+/ID [ <456D12182A6D8A82EFE6F4090D5134A2> <456D12182A6D8A82EFE6F4090D5134A2> ]
+>>
+startxref
+152337
+%%EOF

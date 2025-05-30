@@ -9,7 +9,6 @@ paper:
 
     finish evaluation:
         move impl to evalu
-        box plot or not?
         beautify bar plots
         add assessment stats
         reduce future work
@@ -21,10 +20,5 @@ paper:
 
 documentation:
 
-    analysis
     code
     readme
-
-check:
-
-    upload data files csv ecc (are they all?)

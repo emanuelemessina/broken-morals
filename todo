@@ -1,15 +1,30 @@
 fix rai
-
-paper
- check spelling, completeness, pyramid
- evalu
- move impl to evalu
-
- appendix
- online Resources
-
-documentation
-readme
-
 pitch
-upload data files csv ecc
+
+paper:
+
+    check spelling, completeness, pyramid
+
+    link abstract to findings
+
+    finish evaluation:
+        move impl to evalu
+        box plot or not?
+        beautify bar plots
+        add assessment stats
+        reduce future work
+        add dilemma selection and study
+
+    check:
+        appendix
+        online Resources
+
+documentation:
+
+    analysis
+    code
+    readme
+
+check:
+
+    upload data files csv ecc (are they all?)

@@ -8,13 +8,12 @@ paper:
     link abstract to findings
 
     finish evaluation:
-        beautify bar plots
-        add assessment stats
+        fix remaining parts
         reduce future work
-        add study
 
     check:
         online Resources
+        beautify bar plots?
 
 documentation:
 

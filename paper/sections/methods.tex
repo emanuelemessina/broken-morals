@@ -1,4 +1,5 @@
 \section{Methods}
+\label{sec:methods}
 
 \begin{comment}
 Here you explain how you’ve solved the problem
@@ -15,52 +16,55 @@ we solve the problem of incorporating different perspectives
 so we explain how we did it
 \end{comment}
 
-\subsection{Proposal}
-\label{sec:proposal}
+To address the challenge of incorporating diverse organizational perspectives into ethical decision-making, we propose a software tool designed to support company decision-makers.
+This section describes the design and operation of the tool we developed to simulate organizational moral reasoning using role-based AI agents.
+We first explain the intended use of the tool and the type of input it receives from the user. We then describe how the system simulates the reasoning of three organizational roles using artificial intelligence agents. Finally, we detail how the tool generates a structured summary from these simulated perspectives and delivers it to the user.
+Figure \ref{fig:impl} summarises the tool architecture.
 
-To incorporate perspectives of different organizational roles when making company decisions,
-we propose a novel software tool.
-The tool is intended to be used by company decision makers when taking decisions on internal dilemmas,
-with the goal of making more informed decisions.
-The user inputs a moral dilemma in the tool, and the tool gives the user a summary as output.
-Internally, the tool simulates a deliberation among AI agents representing different organizational roles, on the given dilemma.
-A moderator agent poses the dilemma to the other agents, oversees the discussion and finally generates the summary drawing from the deliberation transcript.
-The moderator generates the final summary by extracting the key points in which the role-based agents agreed and disagreed during the discussion,
-and a list of key points and/or questions that the end user should cover when answering the dilemma.
-The summary thus contains three paragraphs: areas of agreement, areas of disagreement and practical points for the user to cover when answering the dilemma.
-The purpose of this summary is to make the user think critically about the dilemma
-without forcing or inducing a particular point of view,
-but rather aiding their thought process and enriching their final response
-with aspects they might not consider due to lack of efficient communication with other work figures,
-as well as other psychological reasons such as underestimating or misunderstanding the dilemma itself and its implications.
-The proposed behavior for this tool is general and can be implemented in various ways: varying the number of agents and their roles, the topology in which they discuss, and the type of moderation they are subjected to.
-The following section describes specifically the implementation we developed and tested in the context of this study.
+\subsection{Tool Purpose and Use Context}
 
-\subsection{Implementation}
-\label{sec:implementation}
+While ethical dilemmas in corporate contexts often involve conflicting viewpoints (such as operational feasibility, long-term impact, and normative values), real-world decision processes frequently lack mechanisms to systematically consider these different angles before a decision is made.
+A software tool offers three primary advantages in this context. First, it provides structured access to a plurality of perspectives that may otherwise be inaccessible due to hierarchical, departmental, or cultural barriers. Second, it enables consistent and scalable reasoning support that can be applied to a wide range of cases without requiring additional personnel or meetings. Third, by relying on artificial intelligence agents prompted to emulate distinct organizational roles, the tool encourages users to reflect more critically on the trade-offs and value conflicts embedded in each dilemma.
+The intended users are decision-makers in organizations: particularly those at the executive or senior management level, who are often required to resolve complex ethical scenarios quickly, under uncertainty, and without comprehensive stakeholder input. Our tool aims to enrich this decision process by making invisible perspectives explicit, in a structured and neutral form.
 
-For this pilot study we decided to implement a simple prototype of the proposed tool for the purpose of testing.
-We implemented the AI agents and their deliberation using the Plurals \cite{ashkinaze2025pluralsguidingllmssimulated} framework: a Python library that orchestrates AI agents to allow pluralistic AI deliberations.
-Plurals eases the definition of agents, discussion topologies and moderators, and provides an abstraction layer over several LLM API backends.
-We used GPT-4.1 as the underlying LLM for each agent and the moderator.
-We defined three AI agent personas to represent three specific roles inside a generic technology company: a Chief Executive Officer (CEO), an Ethicist and a generic Engineer.
-We used the default moderator persona offered by Plurals: an expert impartial moderator overseeing a given task.
-In Plurals, agents can be given a common task which is generally the goal that should be achieved by the simulation.
-In our case, the task is to provide and answer to the given dilemma, expressing thoughts and opinions.
-The moderator is aware of this task, and generally oversees it according to so-called combination instructions, that are executed when the other agents finished responding.
-Agents can deliberate according to several topologies offered by Plurals.
-For this prototype we decided to use the Ensemble topology, where each agent speaks independently and without interacting with the others.
-We chose this topology to simulate the inclusion of different roles's perspectives with the same priority, as opposed to what happens in top-down ethics reviews or information flow in a company's hierarchical reporting structure.
-With the goal of proving the positive effects of exposure to these different perspectives, we refrained from developing complicated deliberations and moderations which, we convened, would be best left to develop in a follow-up co-design study to ours.
-As such, we implemented a single round of discussion, that is: agents see the task, they respond, and the moderator executes the combination instructions.
-The combinations instructions of the moderator instruct it to generate the final summary to present to the user, as discussed in section \ref{sec:proposal}.
-The exact prompts we used are available in the appendix section \ref{sec:prompts}.
-Our final implementation is summarized in Figure \ref{fig:impl}.
+\subsection{Dilemma Input}
+
+The user begins by inputting a moral dilemma into the tool.
+In our context, a dilemma is defined as a scenario describing a realistic organizational situation that involves an ethically relevant conflict. A dilemma includes a brief narrative containing background information (the description of a scenario, including the roles of the stakeholders involved, the context in which the decision must be made, and any relevant constraints) followed by one or more open-ended questions requiring the user to take a position or justify a course of action.
+By formulating the dilemmas in this way, we ensure that the tool operates on rich, ambiguous inputs that reflect the types of challenges decision-makers face in real-world contexts.
+
+\subsection{Role-based Agents}
+
+\paragraph{Persona Prompts}{
+  Once the dilemma is submitted, the tool initiates an internal simulation involving three artificial intelligence agents, powered by large language models (LLMs). Each agent is assigned a fixed organizational role: a chief executive officer, an engineer, and an ethicist. These roles were selected to reflect three core domains of organizational reasoning: strategic authority, technical feasibility, and moral evaluation.
+  To ensure that each role-based agent reliably reflects its assigned organizational role, we design tailored prompts that define the agent's responsibilities, values, and communication style. Each prompt specifies the agent's professional identity within a fictional mid-sized company and outlines the reasoning strategies it should apply when responding to the dilemma.
+  These role-specific prompts (referred to as \textit{personas}) are not simply character sketches; they are designed to elicit structurally distinct forms of reasoning that mirror real-world organizational tensions.
+  The CEO agent (Prompt \ref{prompt:ceo}) is instructed to prioritize long-term organizational success, brand reputation, and strategic decision-making, with a focus on risk-benefit trade-offs and pragmatic leadership. The engineer agent (Prompt \ref{prompt:engineer}) emphasizes feasibility, technical integrity, operational constraints, and potential implementation risks. The ethicist agent (Prompt \ref{prompt:ethicist}) centers its reasoning on moral principles, stakeholder rights, and social responsibility, often challenging decisions that may appear effective but raise ethical concerns.
+}
+
+\paragraph{Task}{
+  The simulation starts by instantiating the three role-based agents and dispatching a common task to each of them individually. To construct the task, we embed the user-provided dilemma into a common task template (Prompt \ref{prompt:task}). This template instructs an agent to read the dilemma and respond in approximately 300 words, providing their reasoning, thoughts, and opinions. Each agent receives this same structured task, but interprets and responds to it according to the role-specific instructions defined in their \textit{persona} prompt.
+}
+
+\paragraph{Topology}{
+  Rather than engaging in freeform debate, the agents operate within a standardized discussion topology. The agents respond independently, without direct interaction with one another. This design choice reflects our goal of faithfully simulating distinct organizational viewpoints without introducing conversational dynamics such as persuasion, alignment, or social conformity that may occur in natural group discussions. This \textit{Ensemble} structure ensures clarity and prevents conversational drift, allowing each agent to contribute a distinct, coherent viewpoint. This topology is not designed to reach consensus, but rather to expose areas of convergence and divergence in how each role interprets the dilemma.
+}
+
+\subsection{Summary Output}
+
+\paragraph{Moderator Agent}{
+  Once the three role agents have expressed their positions, a fourth agent, the Moderator, is activated using a separate instruction set: the \textit{combination instructions} (Prompt \ref{prompt:combination}). This prompt defines the moderator's objective as supporting a human decision-maker by analyzing and summarizing the agents' individual outputs in a structured, accessible format. The moderator is explicitly instructed to identify and present the core tensions raised in the responses, areas of agreement and disagreement among the agents, and a list of practical considerations that the user should address in their own justification. The moderator's tone is constrained to be neutral, direct, and free of technical or philosophical jargon, to ensure accessibility and minimize framing bias.
+}
+
+\paragraph{Summary Structure}
+The moderator thus produces a summary that is composed of three parts: (1) a list of points on which the agents agreed, providing a sense of organizational alignment; (2) a list of disagreement areas and competitive priorities, revealing underlying tensions or conflicting viewpoints between roles; (3) a set of practical questions or considerations that the user is encouraged to reflect on when making their own decision.
+This design emphasizes cognitive support over persuasive framing, aiming to augment the user's moral reflection without biasing the outcome.
+The purpose of this output is not to recommend a specific course of action, but to broaden the user's moral reasoning by foregrounding perspectives they may overlook. By surfacing both consensus and conflict among roles that typically shape corporate decision-making, the tool helps users critically examine their own intuitions, mitigate personal blind spots, and produce more structured, well-reasoned responses.
 
 \begin{figure}[h]
   \centering
   \includegraphics[width=\linewidth]{impl}
-  \caption{Implementation of the proposed tool, evaluated in this study. A dilemma is sent as input to the tool. The dilemma is used to build the task for the agents to perform. The three agents give their answer to the task at the same time (Ensemble topology). The agents' responses, together with their task, are used to build the combination instructions for the moderator, which eventually produces the final summary.}
-  \Description{Implementation of the proposed tool, evaluated in this study.}
+  \caption{Overview of the tool's architecture. The user provides a moral dilemma, which is embedded into a task template and submitted independently to three artificial intelligence agents representing the roles of CEO, ethicist, and engineer. Each agent responds based on a predefined persona prompt. The agents' responses are then passed to a moderator agent via a combination instructions template. The moderator analyzes the content and produces a structured summary highlighting agreement, disagreement, and suggested considerations for the user.}
+  \Description{Overview of our tool's architecture.}
   \label{fig:impl}
 \end{figure}

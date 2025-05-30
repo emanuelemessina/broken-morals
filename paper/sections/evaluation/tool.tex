@@ -1,0 +1,8 @@
+\subsection{Tool Implementation}
+
+We implemented the proposed tool (described in Section \ref{sec:methods}, Figure \ref{fig:impl}) using the Plurals framework \cite{ashkinaze2025pluralsguidingllmssimulated}, a Python library that orchestrates LLM agents to simulate structured deliberations.
+Plurals simplifies the definition of role-based agents, discussion topologies, and moderation logic, and provides an abstraction layer over different LLM backends.
+All agents and the moderator in our setup used GPT-4.1 as the underlying language model.
+For the moderator agent, we adopted the default moderator persona provided by Plurals: an expert impartial observer responsible for overseeing the common task.
+To reflect our tool definition, we selected the \textit{Ensemble} topology (among the topologies supported by Plurals), and set the number of cycles to one, meaning each agent contributes a single, uninterrupted response to the dilemma before the summary is generated.
+Executing a full run of the system on a single dilemma requires four API calls to OpenAI: three for the role agents and one for the moderator. Using the set of dilemmas described in Section \ref{sec:dilemmas}, each complete simulation averaged $5k$ tokens total ($4k$ input tokens, $1k$ output tokens) across all calls.

@@ -3,19 +3,17 @@ pitch
 
 paper:
 
-    check spelling, completeness, pyramid
+    check spelling, completeness, pyramid, beautify
 
     link abstract to findings
 
     finish evaluation:
-        move impl to evalu
         beautify bar plots
         add assessment stats
         reduce future work
-        add dilemma selection and study
+        add study
 
     check:
-        appendix
         online Resources
 
 documentation:

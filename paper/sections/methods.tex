@@ -21,6 +21,14 @@ This section describes the design and operation of the tool we developed to simu
 We first explain the intended use of the tool and the type of input it receives from the user. We then describe how the system simulates the reasoning of three organizational roles using artificial intelligence agents. Finally, we detail how the tool generates a structured summary from these simulated perspectives and delivers it to the user.
 Figure \ref{fig:impl} summarises the tool architecture.
 
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\linewidth]{impl}
+  \caption{Overview of the tool's architecture. The user provides a moral dilemma, which is embedded into a task template and submitted independently to three artificial intelligence agents representing the roles of CEO, ethicist, and engineer. Each agent responds based on a predefined persona prompt. The agents' responses are then passed to a moderator agent via a combination instructions template. The moderator analyzes the content and produces a structured summary highlighting agreement, disagreement, and suggested considerations for the user.}
+  \Description{Overview of our tool's architecture.}
+  \label{fig:impl}
+\end{figure}
+
 \subsection{Tool Purpose and Use Context}
 
 While ethical dilemmas in corporate contexts often involve conflicting viewpoints (such as operational feasibility, long-term impact, and normative values), real-world decision processes frequently lack mechanisms to systematically consider these different angles before a decision is made.
@@ -60,11 +68,3 @@ By formulating the dilemmas in this way, we ensure that the tool operates on ric
 The moderator thus produces a summary that is composed of three parts: (1) a list of points on which the agents agreed, providing a sense of organizational alignment; (2) a list of disagreement areas and competitive priorities, revealing underlying tensions or conflicting viewpoints between roles; (3) a set of practical questions or considerations that the user is encouraged to reflect on when making their own decision.
 This design emphasizes cognitive support over persuasive framing, aiming to augment the user's moral reflection without biasing the outcome.
 The purpose of this output is not to recommend a specific course of action, but to broaden the user's moral reasoning by foregrounding perspectives they may overlook. By surfacing both consensus and conflict among roles that typically shape corporate decision-making, the tool helps users critically examine their own intuitions, mitigate personal blind spots, and produce more structured, well-reasoned responses.
-
-\begin{figure}[h]
-  \centering
-  \includegraphics[width=\linewidth]{impl}
-  \caption{Overview of the tool's architecture. The user provides a moral dilemma, which is embedded into a task template and submitted independently to three artificial intelligence agents representing the roles of CEO, ethicist, and engineer. Each agent responds based on a predefined persona prompt. The agents' responses are then passed to a moderator agent via a combination instructions template. The moderator analyzes the content and produces a structured summary highlighting agreement, disagreement, and suggested considerations for the user.}
-  \Description{Overview of our tool's architecture.}
-  \label{fig:impl}
-\end{figure}

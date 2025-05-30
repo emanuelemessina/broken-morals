@@ -24,7 +24,7 @@ Figure \ref{fig:impl} summarises the tool architecture.
 \begin{figure}[h]
   \centering
   \includegraphics[width=\linewidth]{impl}
-  \caption{Overview of the tool's architecture. The user provides a moral dilemma, which is embedded into a task template and submitted independently to three artificial intelligence agents representing the roles of CEO, ethicist, and engineer. Each agent responds based on a predefined persona prompt. The agents' responses are then passed to a moderator agent via a combination instructions template. The moderator analyzes the content and produces a structured summary highlighting agreement, disagreement, and suggested considerations for the user to cover in their answer.}
+  \caption{Overview of the tool's architecture. The user provides a moral dilemma, which is embedded into a task template and submitted independently to three artificial intelligence agents representing the roles of CEO, ethicist, and engineer. Each agent responds based on a predefined persona prompt. The agents' responses are then passed to a moderator agent via a combination instructions template. The moderator analyzes the content and produces a structured summary highlighting the core tensions raised by the agent's responses, the agreement and disagreement points, and suggested considerations for the user to cover in their answer.}
   \Description{Overview of our tool's architecture.}
   \label{fig:impl}
 \end{figure}
@@ -66,6 +66,6 @@ By formulating the dilemmas in this way, we ensure that the tool operates on ric
 }
 
 \paragraph{Summary Structure}
-The moderator thus produces a summary that is composed of three parts: (1) a list of points on which the agents agreed, providing a sense of organizational alignment; (2) a list of disagreement areas and competitive priorities, revealing underlying tensions or conflicting viewpoints between roles; (3) a set of practical questions or considerations that the user is encouraged to reflect on when making their own decision.
+The moderator thus produces a summary that is composed of four parts: (1) a spotlight of the core tension(s) that the agents raised, immediately displaying the tradeoffs at stake (2) a list of points on which the agents agreed, providing a sense of organizational alignment; (3) a list of disagreement areas and competitive priorities, revealing conflicting viewpoints between roles; (4) a set of practical questions or considerations that the user is encouraged to reflect on when making their own decision.
 This design emphasizes cognitive support over persuasive framing, aiming to augment the user's moral reflection without biasing the outcome.
 The purpose of this output is not to recommend a specific course of action, but to broaden the user's moral reasoning by foregrounding perspectives they may overlook. By surfacing both consensus and conflict among roles that typically shape corporate decision-making, the tool helps users critically examine their own intuitions, mitigate personal blind spots, and produce more structured, well-reasoned responses.

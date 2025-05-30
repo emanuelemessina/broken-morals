@@ -3,11 +3,19 @@ from dotenv import load_dotenv
 from plurals.deliberation import Ensemble, Moderator
 from plurals.agent import Agent
 import pandas as pd
+import sys
 
 # row in the csv
-row = 2
+if len(sys.argv) < 2:
+    raise ValueError(
+        "Please provide the row number as the first argument to the script."
+    )
+try:
+    row = int(sys.argv[1])
+except ValueError:
+    raise ValueError("Row number must be an integer.")
 
-df = pd.read_csv("data/selected_dilemmas.csv")
+df = pd.read_csv("data/dilemmas/selected_dilemmas.csv")
 dilemma = df.loc[row - 2, "Content"]
 
 print(f"DILEMMA {row}\n")

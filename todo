@@ -10,7 +10,4 @@ paper:
         beautify bar plots?
         paper writing checklists
 
-documentation:
-
-    code
-    readme
+create zip release and link it to paper

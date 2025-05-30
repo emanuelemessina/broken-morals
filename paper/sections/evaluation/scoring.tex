@@ -1,0 +1,32 @@
+\subsection{Scoring the Answers}
+\label{sec:scoring}
+
+Evaluating open-ended ethical responses is inherently challenging, particularly when the goal is to compare two groups in a fair and unbiased manner. To ensure both reliability and impartiality, we followed a structured scoring process grounded in the evaluation rubric described in Section \ref{sec:rubric}.
+
+We began by generating three identical scoring files, one for each rater. Each file included an \texttt{AnswerID} (unique for each participant) and the six rubric dimensions, but excluded any information about the group assignment (control or treatment). This ensured that the evaluation process was conducted blind to condition.
+
+Each rater independently scored every response using the 5-point Likert scale across all six dimensions. After all ratings were collected, we reattached the group labels and computed inter-rater reliability using Fleiss' Kappa, separately for the control group, the treatment group, and both groups. Our target threshold was a Kappa value of 0.6 or higher, a standard benchmark for substantial agreement.
+
+Initial agreement fell short of this threshold on some dimensions. To address this, we held a calibration session in which raters reviewed discrepant cases (still blind to condition), discussed interpretive inconsistencies, and refined their understanding of the rubric. After this reconciliation process, we rescored selected responses as needed and achieved the inter-rater agreement levels reported in Table \ref{tab:kappa}.
+
+\begin{table}[H]
+  \centering
+  \caption{Fleiss' Kappa Scores by Dimension and Group}
+  \resizebox{0.40\textwidth}{!}{%
+    \begin{tabular}{lccc}
+      \toprule
+      \textbf{Dimension} & \textbf{Control} & \textbf{Treatment} & \textbf{Both} \\
+      \midrule
+      Clarity & 0.638 & 0.631 & 0.645 \\
+      Relevance & 0.627 & 0.794 & 0.733 \\
+      Persuasiveness & 0.696 & 0.625 & 0.681 \\
+      Concern for Long--Term Consequences & 0.602 & 0.681 & 0.671 \\
+      Practical Usefulness & 0.595 & 0.709 & 0.683 \\
+      Awareness of Context & 0.592 & 0.672 & 0.667 \\
+      \bottomrule
+    \end{tabular}
+  }
+  \label{tab:kappa}
+\end{table}
+
+With these agreement levels in place, we computed the mean score across raters for each dimension, per response. The resulting dataset contained the following fields: \texttt{AnswerID}, \texttt{DilemmaID}, \texttt{Group}, followed by the six averaged rubric scores. This dataset served as the foundation for our statistical analysis, described in the next section.

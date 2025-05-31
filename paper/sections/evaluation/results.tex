@@ -4,6 +4,27 @@
 After ensuring a high inter-rater agreement, we present strong statistical evidence that
 the tool-assisted Treatment group consistently outperformed the Control group across all six rubric's dimensions, particularly in Concern for Long-Term Consequences and Awareness of Context. These improvements range from medium to large effect sizes and remain statistically robust after controlling for non-normal data distributions and multiple hypothesis testing. Figure \ref{fig:distributions} shows the distributions of rating scores along each dimension of the evaluation rubric for both Control and Treatment groups. This section describes the exact statistical tests conducted on the evaluation dataset constructed in Section \ref{sec:scoring}, reporting their quantitative and qualitative results.
 
+\begin{figure*}[t]
+  \centering
+  % First row
+  \includegraphics[width=0.3\textwidth]{plots/distribution_clarity.png} \hfill
+  \includegraphics[width=0.3\textwidth]{plots/distribution_relevance.png} \hfill
+  \includegraphics[width=0.3\textwidth]{plots/distribution_persuasiveness.png}
+
+  \vspace{1em} % vertical spacing between rows
+
+  % Second row
+  \includegraphics[width=0.3\textwidth]{plots/distribution_longterm.png} \hfill
+  \includegraphics[width=0.3\textwidth]{plots/distribution_usefulness.png} \hfill
+  \includegraphics[width=0.3\textwidth]{plots/distribution_context.png}
+
+  \caption{
+    Score distributions for each rubric dimension across groups.
+    Density plots compare Control (red) and Treatment (blue) groups across all six evaluation dimensions: (top row, left to right) Clarity, Relevance, Persuasiveness; (bottom row, left to right) Concern for Long-Term Consequences, Practical Usefulness, and Awareness of Context. Vertical dashed lines indicate group means. In all dimensions, the Treatment group demonstrates a rightward shift, reflecting higher average scores and greater distributional density in the upper range.
+  }
+  \label{fig:distributions}
+\end{figure*}
+
 \subsubsection*{Statistical Approach}
 
 We tested for normality using the Shapiro-Wilk test and found violations in at least one group for each dimension. For example, in the \textsc{Clarity} dimension, the Control group yielded $W = 0.8817$, $p = 0.0075$ (significant at $\alpha = 0.05$), indicating departure from normality. Similar violations occurred across other dimensions (e.g., \textsc{Relevance} in the Treatment group: $W = 0.8839$, $p = 0.0083$). Given these violations and the ordinal nature of Likert data, we used non-parametric Mann-Whitney U tests (one-tailed) for all group comparisons.
@@ -45,24 +66,3 @@ To validate the reliability of these findings, we conducted the following robust
 \subsubsection*{Summary}
 
 Across every dimension, the Treatment group showed statistically and practically significant improvements over the Control group. These findings were consistent across multiple analytical lenses—median comparisons, effect sizes, time data, self-report metrics, and error-correction methods—providing robust evidence for the tool's effectiveness in enhancing ethical decision-making quality.
-
-\begin{figure*}[t]
-  \centering
-  % First row
-  \includegraphics[width=0.3\textwidth]{plots/distribution_clarity.png} \hfill
-  \includegraphics[width=0.3\textwidth]{plots/distribution_relevance.png} \hfill
-  \includegraphics[width=0.3\textwidth]{plots/distribution_persuasiveness.png}
-
-  \vspace{1em} % vertical spacing between rows
-
-  % Second row
-  \includegraphics[width=0.3\textwidth]{plots/distribution_longterm.png} \hfill
-  \includegraphics[width=0.3\textwidth]{plots/distribution_usefulness.png} \hfill
-  \includegraphics[width=0.3\textwidth]{plots/distribution_context.png}
-
-  \caption{
-    Score distributions for each rubric dimension across groups.
-    Density plots compare Control (red) and Treatment (blue) groups across all six evaluation dimensions: (top row, left to right) Clarity, Relevance, Persuasiveness: (bottom row, left to right) Concern for Long-Term Consequences, Practical Usefulness, and Awareness of Context. Vertical dashed lines indicate group means. In all dimensions, the Treatment group demonstrates a rightward shift, reflecting higher average scores and greater distributional density in the upper range.
-  }
-  \label{fig:distributions}
-\end{figure*}

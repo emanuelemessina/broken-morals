@@ -17,9 +17,8 @@ so we explain how we did it
 \end{comment}
 
 To address the challenge of incorporating diverse organizational perspectives into ethical decision-making, we propose a software tool designed to support company decision-makers.
-This section describes the design and operation of the tool we developed to simulate organizational moral reasoning using role-based AI agents.
-We first explain the intended use of the tool and the type of input it receives from the user. We then describe how the system simulates the reasoning of three organizational roles using artificial intelligence agents. Finally, we detail how the tool generates a structured summary from these simulated perspectives and delivers it to the user.
-Figure \ref{fig:impl} summarises the tool architecture.
+Given a moral dilemma as input, the tool presents the user with a structured summary of ethical tensions and trade-offs based on responses from organizational roles represented by three artificial intelligence agents.
+Figure \ref{fig:impl} summarises the tool's architecture.
 
 \begin{figure}[h]
   \centering
@@ -43,8 +42,10 @@ By formulating the dilemmas in this way, we ensure that the tool operates on ric
 
 \subsection{Role-based Agents}
 
+Once the dilemma is submitted, the tool initiates an internal simulation involving three artificial intelligence agents, powered by large language models (LLMs), prompted with the task of answering the given dilemma with their thoughts and opinions.
+
 \paragraph{Persona Prompts}{
-  Once the dilemma is submitted, the tool initiates an internal simulation involving three artificial intelligence agents, powered by large language models (LLMs). Each agent is assigned a fixed organizational role: a chief executive officer, an engineer, and an ethicist. These roles were selected to reflect three core domains of organizational reasoning: strategic authority, technical feasibility, and moral evaluation.
+  Each agent is assigned a fixed organizational role: a chief executive officer, an engineer, and an ethicist. These roles were selected to reflect three core domains of organizational reasoning: strategic authority, technical feasibility, and moral evaluation.
   To ensure that each role-based agent reliably reflects its assigned organizational role, we design tailored prompts that define the agent's responsibilities, values, and communication style. Each prompt specifies the agent's professional identity within a fictional mid-sized company and outlines the reasoning strategies it should apply when responding to the dilemma.
   These role-specific prompts (referred to as \textit{personas}) are not simply character sketches; they are designed to elicit structurally distinct forms of reasoning that mirror real-world organizational tensions.
   The CEO agent (Prompt \ref{prompt:ceo}) is instructed to prioritize long-term organizational success, brand reputation, and strategic decision-making, with a focus on risk-benefit trade-offs and pragmatic leadership. The engineer agent (Prompt \ref{prompt:engineer}) emphasizes feasibility, technical integrity, operational constraints, and potential implementation risks. The ethicist agent (Prompt \ref{prompt:ethicist}) centers its reasoning on moral principles, stakeholder rights, and social responsibility, often challenging decisions that may appear effective but raise ethical concerns.
@@ -61,8 +62,11 @@ By formulating the dilemmas in this way, we ensure that the tool operates on ric
 \subsection{Summary Output}
 \label{sec:summary}
 
+Once the three role agents have expressed their positions, a fourth agent, the Moderator,
+summarizes the three role-based responses into a structured output for the user. Its purpose is not to recommend a solution but to highlight core tensions, agreements, and disagreements—supporting more reflective moral reasoning.
+
 \paragraph{Moderator Agent}{
-  Once the three role agents have expressed their positions, a fourth agent, the Moderator, is activated using a separate instruction set: the \textit{combination instructions} (Prompt \ref{prompt:combination}). This prompt defines the moderator's objective as supporting a human decision-maker by analyzing and summarizing the agents' individual outputs in a structured, accessible format. The moderator is explicitly instructed to identify and present the core tensions raised in the responses, areas of agreement and disagreement among the agents, and a list of practical considerations that the user should address in their own justification. The moderator's tone is constrained to be neutral, direct, and free of technical or philosophical jargon, to ensure accessibility and minimize framing bias.
+  The Moderator is activated using a separate instruction set: the \textit{combination instructions} (Prompt \ref{prompt:combination}). This prompt defines the moderator's objective as supporting a human decision-maker by analyzing and summarizing the agents' individual outputs in a structured, accessible format. The moderator is explicitly instructed to identify and present the core tensions raised in the responses, areas of agreement and disagreement among the agents, and a list of practical considerations that the user should address in their own justification. The moderator's tone is constrained to be neutral, direct, and free of technical or philosophical jargon, to ensure accessibility and minimize framing bias.
 }
 
 \paragraph{Summary Structure}

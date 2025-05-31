@@ -44,7 +44,7 @@ The [data](data) folder contains evey file needed to replicate the findings repo
 
 #### Moral classification of dilemmas
 
-The [moral classification notebook](data/dilemmas/moral_classification.ipynb) scores the [original dilemma dataset](data/dilemmas/crafting_tech_8_business_ethics.csv) with the [MoralFoundatiosClassifier](https://huggingface.co/MMADS/MoralFoundationsClassifier): it computes the classification score for each moral foundation, and it highlights the best scoring one, producing [a final xlsx file](data/dilemmas/moral_classification_scored.xlsx) containing the associations.
+The [moral classification notebook](data/dilemmas/moral_classification.ipynb) scores the [original dilemma dataset](data/dilemmas/crafting_tech_8_business_ethics.csv) with the [MoralFoundationsClassifier](https://huggingface.co/MMADS/MoralFoundationsClassifier): it computes the classification score for each moral foundation, and it highlights the best scoring one, producing [a final xlsx file](data/dilemmas/moral_classification_scored.xlsx) containing the associations.
 
 [selected_dilemmas.csv](data/dilemmas/selected_dilemmas.csv) contains our choices after manual selection, the ones we used in the user study.
 
@@ -54,6 +54,6 @@ The [responses](data/responses/) folder contains the participants' responses and
 
 The two files under [questionnaire](data/responses/questionnarie/) contain the answers for [common likert questions](data/responses/questionnarie/ResponsesQuestionarie.csv) and [treatment only likert questions](data/responses/questionnarie/ToolQuestionarie.csv). The answers to the dilemmas are present in both files.
 
-The [ratings](data/responses/ratings/) folder contains the three rubric rating tables for each evaluator (`RatingTableX.csv`), a [map](data/responses/ratings/AnswerID_Group.csv) from each answer ID to the group identifier (Control or Treatment) to perform blind evaluation, and the [final evaluation sheet](data/responses/ratings/FinalDataset.csv) with the rubric scores averaged along raters and dimensions.
+The [ratings](data/responses/ratings/) folder contains the three rubric rating tables (`RatingTableX.csv`, one for each evaluator), a [map](data/responses/ratings/AnswerID_Group.csv) from each answer ID to the group identifier (Control or Treatment) to perform blind evaluation, and the [final evaluation sheet](data/responses/ratings/FinalDataset.csv) with the rubric scores averaged along raters and dimensions.
 
 The [stats notebook](data/responses/stats.ipynb) provides a step by step guide to perform the statistical tests and obtaining the [results](data/responses/statistical_analysis_results.csv) we reported in the paper.

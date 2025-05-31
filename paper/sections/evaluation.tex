@@ -7,20 +7,23 @@ To ascertain whether our tool meets this goal, our evaluation aims to answer the
 (b) Effort: does the tool significantly increase the time required to answer a dilemma?
 (c) Perceived Usefulness: do users perceive the tool's output as helpful in supporting their reasoning?
 
-To measure these aspects, we conducted a controlled user study with 50 senior professionals from the technology sector. Participants were asked to respond to business ethics dilemmas, with half assigned to a treatment group receiving the tools output, and half to a control group completing the task unaided. Responses were evaluated using a custom six-dimensional rubric. We also collected response time data and post-task feedback.
-
-This section describes how we implementated the tool and our study setup, followed by our evaluation protocol.
-We then report the results and discuss their implications.
+To measure these aspects, we implemented the proposed tool with the Plurals framework and conducted a controlled user study with 50 senior professionals from the technology sector. Participants were asked to respond to business ethics dilemmas, with half assigned to a treatment group receiving the tools output, and half to a control group completing the task unaided. Responses were evaluated using a custom six-dimensional rubric. We also collected response time data and post-task feedback. Lastly, we conducted a rigorous statistical analysis on the rubric scores to ensure the treatment effects were significant.
 
 \input{sections/evaluation/tool.tex}
 
 \subsection{Study Setup}
+
+Our study setup involved three key design steps: (1) selecting dilemmas that span the full spectrum of moral foundations, (2) recruiting participants with relevant decision-making experience, and (3) assigning tasks in a controlled way to compare tool-assisted and unaided responses. The following subsections explain each of these components in detail.
 
 \input{sections/evaluation/dilemmas.tex}
 
 \input{sections/evaluation/participants.tex}
 
 \subsection{Evaluation Protocol}
+
+To compare the quality of responses across the control and treatment groups, we required a consistent and meaningful evaluation method. Given the complexity and subjectivity of moral reasoning, we could not rely on simple correctness metrics or automated scoring.
+Instead, we developed a human evaluation rubric designed to break down each response into discrete, assessable dimensions, reflecting the depth, clarity, and practical quality of ethical reasoning.
+Our approach consisted of two main steps: (1) designing a six-dimensional rubric grounded in ethical and communication theory, and (2) applying a blind scoring process using independent raters.
 
 \input{sections/evaluation/rubric.tex}
 

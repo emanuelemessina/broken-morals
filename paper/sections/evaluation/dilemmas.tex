@@ -1,12 +1,13 @@
 \subsubsection{Dilemma Selection}
 \label{sec:dilemmas}
 
-To conduct the user study, we required a small set of business ethics dilemmas that would be suitable for timed human evaluation while still covering the full spectrum of moral reasoning. We started from a larger collection of publicly available dilemmas curated by the Markkula Center for Applied Ethics at Santa Clara University \cite{scu}.
+To conduct the user study, we required a small set of business ethics dilemmas that would be suitable for timed human evaluation while still covering the full spectrum of moral reasoning. We started from a larger collection of publicly available dilemmas curated by the Markkula Center for Applied Ethics at Santa Clara University \cite{scu_business,scu_engineering}.
 These dilemmas are designed to surface conflicting priorities that typically arise in organizational settings, such as balancing profitability with employee well-being, respecting cultural norms while maintaining fairness, or navigating regulatory compliance alongside innovation.
 Given budget constraints on participant recruitment, we aimed to select five dilemmas for a between-subjects design.
 
 Our selection objective was to ensure that the chosen dilemmas, taken as a whole, engaged with all five moral foundations defined in Moral Foundation Theory \cite{GRAHAM201355}: care, fairness, loyalty, authority, and sanctity. To aid in this selection, we used the Moral Foundations Classifier \cite{ardag2024moral}, a RoBERTa-based model trained to detect the presence of the five moral foundations in free text.
-For each dilemma in the dataset, we used the classifier to compute a set of foundation scores. We then assigned a primary foundation label to each dilemma by selecting the highest-scoring foundation. The dilemmas were ranked based on the magnitude of their top score. From this ordered list, we selected the top-scoring dilemma for each of the five foundations, ensuring that each foundation was uniquely represented in the final set.
+This classifier detects the presence of each moral foundation in the form of a \textit{virtue} or a \textit{vice}. For our purposes this distinction was not relevant: a high classification score in either form was representative for the presence of the same moral foundation.
+For each dilemma in the dataset, we used the classifier to compute the set of foundation scores. We then assigned a primary foundation label to each dilemma by selecting the highest-scoring foundation. The dilemmas were ranked based on the magnitude of their top score. From this ordered list, we selected the top-scoring dilemma for each of the five foundations, ensuring that each foundation was uniquely represented in the final set.
 
 In practice, many dilemmas exhibited high scores across multiple correlated foundations, and classification alone was not sufficient. As such, the scores served as a filtering aid rather than a final selection mechanism.
 We conducted manual validation to ensure that the final set:
@@ -14,4 +15,4 @@ represented all five foundations with high confidence collectively;
 maintained a consistent domain focus on technology-related business dilemmas, in order to control for participant expertise and ensure thematic coherence across the study;
 could be reasonably completed within the time available to each participant, avoiding cognitive overload or stress.
 
-The final set (available at \ref{sec:resources}) consists of five technology-related dilemmas that are diverse in moral structure, time-feasible, and conceptually challenging, and which collectively cover the five moral foundations in substantial proportion.
+The final set (available at \ref{sec:selected_dilemmas}) consists of five technology-related dilemmas that are diverse in moral structure, time-feasible, and conceptually challenging, and which collectively cover the five moral foundations in substantial proportion.

@@ -1,0 +1,189 @@
+\subsection{Dilemma Set and Tool Summaries}
+\label{sec:selected_dilemmas}
+
+This section reports the dilemmas we selected in Section \ref{sec:dilemmas}, their moral classification scores (Table \ref{tab:foundation-scores}), the generated tool's summaries.
+The final question(s) of each dilemma have been slightly altered with respect to the cited version to ensure participants would produce more articulated responses instead of short ones. For dilemmas that already had a set of reflection points provided by the author, we remove them to simulate a realistic scenario in which users has to produce those reflection themselves, or with the help of our tool.
+Each summary was presented in the Treatment group form after the dilemma description and question(s) with the following introduction: "\textit{Here is a summary of a debate between different figures (a CEO, an engineer, and an ethicist) regarding this dilemma.}".
+
+\begin{table*}[t]
+  \centering
+  \caption{Moral classification scores for the selected dilemmas (rounded to two decimal digits). Each moral foundation can be present in the form of \textit{virtue} or \textit{vice}: capital letters represent the virtue label, lowercase letters represent the vice. Legend: Care (c), Fairness (f), Loyalty (l), Authority (a), Sanctity (s).}
+  \begin{tabular}{lcccccccccc}
+    \toprule
+    \textbf{Dilemma} & \textbf{C} & \textbf{c} & \textbf{F} & \textbf{f} & \textbf{L} & \textbf{l} & \textbf{A} & \textbf{a} & \textbf{S} & \textbf{s} \\
+    \midrule
+    \ref{sec:facebook} & 0.99 & 0.95 & 0.99 & 0.23 & 0.98 & 0.24 & 0.97 & 0.49 & 0.36 & 0.19 \\
+    \ref{sec:apple} & 0.91 & 0.99 & 0.01 & 0.06 & 0.01 & 0.05 & 0.99 & 0.49 & 0.01 & 0.05 \\
+    \ref{sec:mm} & 0.98 & 0.00 & 0.98 & 0.01 & 0.98 & 0.01 & 0.95 & 0.03 & 0.02 & 0.01 \\
+    \ref{sec:ut} & 0.99 & 0.01 & 0.03 & 0.93 & 0.99 & 0.30 & 0.99 & 0.11 & 0.76 & 0.89 \\
+    \ref{sec:ben} & 0.99 & 0.72 & 0.02 & 0.37 & 0.99 & 0.14 & 0.70 & 0.40 & 0.35 & 0.06 \\
+    \bottomrule
+  \end{tabular}
+  \label{tab:foundation-scores}
+\end{table*}
+
+\subsubsection{Facebook and our Fake News Problem \cite{1_fb}}
+\label{sec:facebook}
+
+\begin{quote}
+  The 2016 election season generated many headlines, some of which are notable for being blatantly false. Fake news ranged from, "the Pope endorsed Donald Trump" all the way to "Hilary Clinton is running a child sex ring out of a pizza shop." Did "fake news" influence the outcome of the 2016 US Presidential election? While the answer is unclear, one thing is certain. The rise of fake news has reached unprecedented levels and has raised serious concerns about how citizens receive their news and form opinions. The increase in fake news has several sources. Social media platforms like Facebook gave these stories the same visibility as news publications, such as those from the New York Times or Wall Street Journal. Moreover, these posts often had higher engagement rates (comments and reactions) resulting in them receiving even higher visibility and prevalence in users' news feeds. Facebook CEO Mark Zuckerberg initially downplayed the problem, calling it a "pretty crazy idea" that fake news on Facebook influenced the election. Zuckerberg has since begun to address the fake news issue, but warns, "We must proceed very carefully... and must be extremely cautious about becoming arbiters of truth ourselves." The Society of Professional Journalists has a code of ethics with four principles: seek truth and report it; minimize harm; act independently; and be accountable and transparent. But the transition to online platforms has fundamentally changed journalism. Google and Facebook control 80 percent of ad revenues; the same revenue source that news publishers depend on. Moreover, more than 40 percent of people now get their news from social media networks - making Facebook a de facto middleman in people's intake of news. Facebook is taking the problem seriously, albeit with a great deal of caution. They have introduced efforts to help users spot fake news and inject indicators of trust (disputed tags) into their posts in partnership with a few institutions. They have also banned fake news sites from advertising on the network.
+\end{quote}
+
+\paragraph{Questions}{
+  Does Facebook have an obligation to address the fake news problem? If so, what should be done about it?
+}
+
+\paragraph{Tool's Summary}{
+  \begin{description}
+    \item[Core Tension in the Debate] The central tension is between Facebook's responsibility to limit the spread of fake news and the challenges of doing so in a way that avoids censorship, protects free speech, and maintains trust. There is also a balance to strike between Facebook acting as a neutral platform and its real role as a powerful influence over public opinion.
+    \item[Points of Agreement] All perspectives agree Facebook has an obligation to address fake news due to its scale and influence.
+      There is agreement that doing nothing risks harm to individuals, society, and Facebook's reputation and business.
+      All recognize that transparency and user empowerment are important; users should understand how news is vetted and have tools to judge credibility.
+      Each supports partnerships with independent fact-checkers and increased media literacy efforts.
+      Limiting the reach and monetization of fake news is seen by all as sensible and achievable.
+    \item[Areas of Disagreement] The CEO's perspective emphasizes business risks, brand trust, and stakeholder engagement, focusing on sustainable growth and regulatory concerns.
+      The ethicist urges stronger action based on moral duties to society and individual users, prioritizing truth and autonomy, and calls for even greater transparency and independent ethical oversight.
+      The engineer accepts responsibility but highlights the technical complexity and risk of over-enforcement, warning that overreach could lead to accusations of censorship and implementation mistakes.
+    \item[Practical Points to Consider in Your Answer]{
+        \hfill
+        \begin{enumerate}[label=(\alph*)]
+          \item How far should Facebook go in moderating content without overstepping into censorship?
+          \item What level of transparency is necessary to build user trust and credibility?
+          \item How can Facebook ensure its actions are effective but also respectful of diverse viewpoints and global contexts?
+          \item What checks and balances (like appeals and oversight) are needed to handle errors and criticism fairly?
+          \item What is the right mix of technology and human judgment in addressing misinformation at scale?
+          \item How can long-term strategies for user education and media literacy be integrated.
+        \end{enumerate}
+      }
+  \end{description}
+}
+
+\subsubsection{Apple \textit{vs.} FBI Case Study \cite{2_af}}
+\label{sec:apple}
+
+\begin{quote}
+  In the wake of the December 2015 terrorist attack in San Bernardino, attention turned to the perpetrator's iPhone. A federal judge asked Apple, maker of the iPhone, to provide "reasonable technical assistance" to the FBI in accessing the information on the phone with that hope of discovering additional threats to national security. Apple provided the FBI with data it had in their possession and sent Apple engineers to advise the FBI, but refused to comply with the court order to bypass the phone's security measures: specifically the 4-digit login code and a feature that erases all data after ten incorrect attempts. The FBI argued that the bypass could only be used for this phone, this one time. The agency also cited national security concerns, given the phone may lead to better understanding the attack and preventing further incidents. Apple CEO Tim Cook issued a public letter reiterating Apple's refusal to cooperate. Cook advocated for the benefits of encryption in society to keep personal information safe. He stated that creating the backdoor entry into the iPhone would be akin to creating a master key capable of accessing the tens of millions of iPhones in the U.S. alone. Cook also had concerns that the FBI was outstepping its bounds - by using the court system to expand its authority - and believed the case should be settled after public debate and legislative action through Congress instead. Public opinion polls on the issue were split. A number of major tech firms filed amicus briefs in support of Apple. The White House and Bill Gates stood behind the FBI. In anticlimactic fashion, the FBI withdrew its request a day before the hearing, claiming it no longer needed Apple's help to assess the phone. It is speculated that an Israeli tech firm, Cellebrite, helped the FBI gain assess.
+\end{quote}
+
+\paragraph{Questions}{
+  Was Apple wrong for not complying with the FBI's request? If so, why? If not, why not?
+}
+
+\paragraph{Tool's Summary}{
+  \begin{description}
+    \item[Core Tension in the Debate] The central conflict is between national security and individual privacy. The FBI wanted access to the iPhone to possibly prevent further threats, while Apple believed creating a security bypass would endanger the privacy and security of all users. There's also a tension between quick action in a crisis and the need for broad, democratic debate before setting far-reaching precedents.
+    \item[Points of Agreement] All roles agree that law enforcement has a legitimate concern and reason for wanting access to the device.
+      Each viewpoint acknowledges that creating a backdoor or bypass tool could have broader implications beyond this single case.
+      There is consensus that Apple cooperated as much as it could by providing data already in its possession.
+      All parties stress the importance of trust—between the company and its users, and between the public and institutions.
+    \item[Areas of Disagreement] The CEO is most focused on protecting the company's reputation, market value, and customer loyalty.
+      The engineer highlights the technical impossibility of a secure “one-time” bypass and the risk of unintended spread if such a tool were developed.
+      The ethicist emphasizes the broader ethical responsibility to protect user rights, and the importance of open, democratic processes over judicial expedience.
+    \item[Practical Points to Consider in Your Answer]{
+        \hfill
+        \begin{enumerate}[label=(\alph*)]
+          \item Should companies be compelled to weaken their product security for law enforcement, even in extreme cases?
+          \item What are the long-term consequences of creating tools that can bypass security for any single case?
+          \item How should society balance immediate security demands with the risk to broader privacy and civil liberties?
+          \item Should issues with wide public impact be resolved by courts or through legislative, democratic means?
+          \item What precedent would compliance set for future government or international demands for access?
+        \end{enumerate}
+      }
+  \end{description}
+}
+
+\subsubsection{Misinterpretation Mishap \cite{3_mm}}
+\label{sec:mm}
+
+\begin{quote}
+  Tony is a project leader at a company frequently subcontracted to produce code for various U.S. government entities and affiliates. Traditionally, code that was developed for one federal department could be reused for another if approval was obtained by the former. One day, Tony's company was contacted by a privately-owned commercial corporation, FlyHigh, to create code for an avionics-related image processing effort. Since the code requested was almost identical to one used for a past project, Tony's team decided to, once approval had been obtained from the government, reuse the code. After permission was granted through email, however, Tony realized the approving party, a law agency that was contracted by the government, lacked complete understanding of who would benefit from the reused code. Tony wanted to contact the government directly to ensure it had been informed of all vital aspects of the contract, but realized doing so could mean having the initial approval revoked, having to re-code the requested code, and increasing the contract bid up to two million dollars.
+\end{quote}
+
+\paragraph{Questions}{
+  Understanding the contract between his company and FlyHigh was on the line, should Tony move forward with clarifying the situation to the appropriate party? Why? If so, how?
+}
+
+\paragraph{Tool's Summary}{
+  \begin{description}
+    \item[Core Tension in the Debate] The central dilemma is whether Tony should clarify code reuse approval directly with the appropriate government authority—even if it risks delaying the project, increasing costs, or losing a valuable contract. The trade-off is between short-term business gain and the longer-term risks of legal trouble, reputational harm, and ethical lapses if the approval obtained isn't fully informed.
+    \item[Points of Agreement] All roles agree Tony should clarify the situation with the proper government entity.
+      They identify that the approval already given could be based on incomplete information.
+      Each perspective sees long-term legal, reputational, and ethical risks in proceeding without proper, explicit government consent.
+      All would notify FlyHigh about the potential delays or additional costs, to be transparent with the client.
+      They recognize the importance of commitment to integrity and trust in maintaining business relationships.
+    \item[Areas of Disagreement] The CEO puts a strong emphasis on the company's reputation, risk management, and long-term business viability.
+      The engineer/ethicist focuses more on professional and ethical duties: transparency, responsible use of public resources, and respect for the original owner's intent.
+      There may be varying tolerance for short-term business pain, with some more willing to accept potential financial losses for the sake of compliance and ethics.
+    \item[Practical Points to Consider in Your Answer]{
+        \hfill
+        \begin{enumerate}[label=(\alph*)]
+          \item Who is authorized to give true, informed approval for code reuse in this context?
+          \item What are the potential consequences (legal, financial, reputational) of proceeding without clarification?
+          \item How should Tony communicate with the government and FlyHigh to be transparent about the approval process and its impact on timelines or costs?
+          \item What steps can be taken to ensure full understanding and documentation if similar situations arise in the future?
+        \end{enumerate}
+      }
+  \end{description}
+}
+
+\subsubsection{Unchartered Territory \cite{4_ut}}
+\label{sec:ut}
+
+\begin{quote}
+  David Johnson holds a major leadership position within an established biotechnology firm. The firm has successfully pursued wildly innovative research utilizing DNA that has pushed the boundaries of science. Many potential clients - from universities and medical centers to private institutions - expressed a strong interest in the company's technology. Knowing that this technology was both powerful and relatively unregulated by the government, both Johnson and the company were keen to monitor who they sold their products to. The company's solution was to investigate potential clients and only sell to those who demonstrated "bona fide use", i.e. a legitimate use that would be carried out in good faith. However, determining what was and was not bona fide use proved to be tricky. Some researchers wanted to use the technology to investigate the genes of specific ethnic groups in order to understand common genetic diseases within that group. While this particular project was intended to benefit people, the company was concerned about how that information could potentially be used in the future, not to mention the company's culpability for that use given that its technology was used in the research. The company was concerned that the kind of information the potential customer would have access to could be used to discriminate against people with certain genetic markers, particularly by insurance companies looking to increase rates for clients at a higher risk for illness. At the same time, the investors of the biotech firm expect a return, given the high costs of research and development as well as the amount of risk they took on funding the project.
+\end{quote}
+
+\paragraph{Questions}{
+  Does the firm have an obligation to self-regulate their product? Are their "bona-fide use" standards sufficient?
+}
+
+\paragraph{Tool's Summary}{
+  \begin{description}
+    \item[Core Tension in the Debate] The main tension is between maximizing business success—including satisfying investors and pursuing innovation—and ensuring ethical responsibility in using potentially dangerous biotechnology. The dilemma centers on how far a company must go to prevent harm from even unintended uses of its product, particularly when regulations are not yet robust.
+    \item[Points of Agreement] All roles agree the company has a clear obligation to self-regulate, given the potential for misuse and lack of government oversight.
+      They concur that existing “bona fide use” standards are not strong enough, being too subjective and open to interpretation.
+      Each acknowledges that failure to regulate could lead to reputational, legal, and financial risks, undermining both ethics and business stability in the long run.
+    \item[Areas of Disagreement] The CEO places emphasis on balancing ethical duties with investor expectations, highlighting reputation and business sustainability. Their proposed actions focus on risk mitigation for both business and ethics.
+      The engineer is especially concerned about process: they call for detailed, documented frameworks (like clear vetting criteria, ongoing monitoring, and cross-functional review), suggesting the standards must be operationally robust and repeatable. The ethicist pushes for even stronger measures such as independent oversight, contractual restrictions, and refusing sales if risks cannot be mitigated, consistently putting ethical concerns over profits.
+    \item[Practical Points to Consider in Your Answer]{
+        \hfill
+        \begin{enumerate}[label=(\alph*)]
+          \item How will the company define and operationalize “bona fide use” in a way that is clear, consistent, and resistant to abuse?
+          \item What specific processes or checks should be in place to vet and monitor customers and research projects?
+          \item How far should the company go in refusing sales or severing relationships if future misuse is possible but uncertain?
+          \item What balance should be struck between meeting investor expectations and fulfilling ethical obligations when they conflict?
+          \item How can long-term risks (reputational, legal, ethical) be weighed against short-term business gains?
+        \end{enumerate}
+      }
+  \end{description}
+}
+
+\subsubsection{Balancing Culture and Ethics \cite{5_ben}}
+\label{sec:ben}
+
+\begin{quote}
+  Ben is a dedicated manager at a prominent multinational company, where he manages teams spread across different countries that ultimately report back to him in California. Ben finds a great deal of fulfillment in his work, particularly when he has the opportunity to travel and visit his team leads around the world. Ben made it a point to immerse himself in the local culture during his business travels, dedicating an extra day or two to learn about the culture before heading into his company's office or factory in whatever location he was at. On one trip, Ben traveled to Chennai, India, to visit JP, a lead manager in the local operation. Ben asked JP to spend the day with him exploring the area and its traditions, and JP graciously agreed and took Ben on an eye-opening excursion to a nearby village that, like many in rural India, was poor. Ben noticed JP's close connections with the villagers. JP, an esteemed member of the Brahmin caste and an elder at the Hindu temple, was highly respected and considered a leader in the community. Ben was grateful for the warm welcome extended to him by the villagers and appreciated the effort JP put into arranging this visit. But Ben also found himself in an uncomfortable spot. JP wanted to take Ben to this particular village not only because he knew the people well, but also because a local Chennai clothing company had recently established a business here and he thought Ben would be interested in this new development. The company had adopted a business model that involved renting looms to families in the village, which enabled them to produce cloth materials and fulfill orders from the company. While the families earned money for the piece work, they also had to pay the rent for the looms. As Ben observed the process, he couldn't help but notice children as young as ten working at the looms. When visiting one family, Ben and JP met with the parents who told them how this local business was really helping their family. And, as they said that, their two children sat nearby working at the looms. Ben was cut to the core. He had read about the dangers of child labor and in particular about the way that work on looms can be especially harmful (and how children due to their better eyesight and ability to see subtle distinctions in color are in demand to work on looms). These conditions pose significant risks to children, especially in terms of the potential hazard of diminishing their eyesight and its impact on their overall well-being. It pained him to see these children working while he envisioned his own eight and 11 year-old kids back home (the children in Chennai were about the same age) engaging in such laborious, risky tasks. He would never let his own kids do it. Then again, he thought: I'm not dealing with the circumstances these parents are dealing with. Ben was aware of how JP spoke very positively about the village and the additional income the children's labor provided for the families. It was also clear that the children's parents didn't object and that the whole village appeared to be on board with this income-producing project. As Ben's visit to the village came to an end, some of the villagers, including JP, eagerly asked him to share with them his thoughts on the new business development in the village.
+\end{quote}
+
+\paragraph{Questions}{
+  Should he approve of it? Why? What should Ben say?
+}
+
+\paragraph{Tool's Summary}{
+
+  \begin{description}
+    \item[Core Tension in the Debate]  The main issue is whether the economic benefits to families in the village justify allowing children to work in potentially harmful conditions. There is a conflict between respecting the community's desire for income and opportunity, and upholding the ethical imperative to protect children from exploitation and long-term harm.
+    \item[Points of Agreement]  Everyone agrees the villagers' hospitality and local leadership deserve respect. There is consensus that the business brings much-needed income to struggling families. All roles recognize that child labor, especially in hazardous settings, presents serious risks to children's health, safety, and development. Each participant believes the conversation must be approached with sensitivity and honesty, avoiding blame or judgment.
+    \item[Areas of Disagreement] There may be differences in how forcefully to express opposition to child labor. The ethicist takes a firm stance against it as a universal wrong, while the engineer and CEO might focus more on balancing cultural sensitivity with the need for reform. The CEO is more concerned about corporate responsibility and reputation, insisting the company should not be linked to harmful labor practices, while the engineer analyzes the operational side (financial risk and youth impact). They differ on the role of cultural relativism: the ethicist and CEO lean towards universal standards, while the engineer emphasizes collaboration and understanding local context before taking action.
+    \item[Practical Points to Consider in Your Answer]{
+        \hfill
+        \begin{enumerate}[label=(\alph*)]
+          \item How can Ben express his concerns honestly and respectfully, recognizing the villagers' realities?
+          \item Should Ben recommend the business model as it is, suggest modifications, or oppose it outright due to the child labor issue?
+          \item How might he encourage solutions that keep children safe and in school, while still supporting the village's economic needs?
+          \item What responsibility does Ben or the company have to advocate for universal ethical standards, even in another culture?
+          \item How can long-term harm to children be prevented without undermining the community's autonomy and trust?
+        \end{enumerate}
+      }
+  \end{description}
+}

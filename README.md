@@ -4,7 +4,7 @@ Moral copilot for high-stakes ethical decisions in business contexts
 
 ## Resources
 
-- [Paper](paper/broken-morals.pdf)
+- [Paper](paper/broken-morals-2025.pdf)
 - [Video pitch](https://www.youtube.com/watch?v=7_pmrzyQGHE) presenting the tool with product name "_Ensemble_"
 - [Business Feasibility Study](handins/business-feasibility-study.pdf)
 - [Responsible AI Report](handins/rai-cards.pdf) made with https://social-dynamics.net/ai-design/tool

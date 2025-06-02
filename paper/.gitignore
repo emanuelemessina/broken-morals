@@ -1,3 +1,6 @@
+*.pdf
+!broken-morals-2025.pdf
+
 *.acn
 *.acr
 *.alg
@@ -30,7 +33,7 @@
 *.nlo
 *.nls
 *.out
-*.pdf
+
 *.pyg
 *.run.xml
 *.snm

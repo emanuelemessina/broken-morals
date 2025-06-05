@@ -5,9 +5,13 @@ Moral copilot for high-stakes ethical decisions in business contexts
 ## Resources
 
 - [Paper](paper/broken-morals-2025.pdf)
-- [Video pitch](https://www.youtube.com/watch?v=7_pmrzyQGHE) presenting the tool with product name "_Ensemble_"
+- [Video pitch](https://www.youtube.com/watch?v=7_pmrzyQGHE) presenting the tool with product name "_Ensemble_" (also available for download [here](handins/pitch.mp4))
 - [Business Feasibility Study](handins/business-feasibility-study.pdf)
 - [Responsible AI Report](handins/rai-cards.pdf) made with https://social-dynamics.net/ai-design/tool
+
+## Release
+
+A snapshot of this repo for the paper submission @ Crafting Tech 2025 is available [here](https://github.com/emanuelemessina/broken-morals/releases/tag/crafting-tech-2025)
 
 ## Documentation
 
